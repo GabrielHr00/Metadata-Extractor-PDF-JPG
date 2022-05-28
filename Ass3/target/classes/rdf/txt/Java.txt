@@ -1,0 +1,52 @@
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://ns.adobe.com/xap/1.0/CreatorTool
+http://ns.adobe.com/xap/1.0/Acrobat PDFMaker 17 for Word
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://ns.adobe.com/xap/1.0/ModifyDate
+http://ns.adobe.com/xap/1.0/2019-05-21T12:55:06+02:00
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://ns.adobe.com/xap/1.0/mm/InstanceID
+http://ns.adobe.com/xap/1.0/mm/uuid:7c84c8d3-10a4-4c94-b74c-fc68a7fc5dae
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://ns.adobe.com/pdf/1.3/Producer
+http://ns.adobe.com/pdf/1.3/Adobe PDF Library 15.0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://ns.adobe.com/pdf/1.3/Keywords
+http://ns.adobe.com/pdf/1.3/Programming; OOP; Education
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://ns.adobe.com/xap/1.0/mm/DocumentID
+http://ns.adobe.com/xap/1.0/mm/uuid:722e6067-dd92-43a0-b6ea-bc1d2089095b
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://ns.adobe.com/xap/1.0/Label
+http://ns.adobe.com/xap/1.0/Programming
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://purl.org/dc/elements/1.1/subject
+http://purl.org/dc/elements/1.1/Programming
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://purl.org/dc/elements/1.1/title
+http://purl.org/dc/elements/1.1/Java
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://purl.org/dc/elements/1.1/creator
+http://purl.org/dc/elements/1.1/Belal Abu Naim
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://ns.adobe.com/xap/1.0/MetadataDate
+http://ns.adobe.com/xap/1.0/2019-05-21T12:55:06+02:00
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://purl.org/dc/elements/1.1/format
+http://purl.org/dc/elements/1.1/application/pdf
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://ns.adobe.com/xap/1.0/CreateDate
+http://ns.adobe.com/xap/1.0/2019-05-21T12:24:57+02:00
+

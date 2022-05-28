@@ -17,6 +17,11 @@
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="AsposeJavaAPI" />
+      <option name="name" value="Aspose Java API" />
+      <option name="url" value="http://artifact.aspose.com/repo/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="GroupDocsJavaAPI" />
       <option name="name" value="GroupDocs Java API" />
       <option name="url" value="http://repository.groupdocs.com/repo/" />

@@ -1,0 +1,14 @@
+Java.pdf
+xmp:CreateDate: 2019-05-21T12:24:57+02:00
+xmp:CreatorTool: Acrobat PDFMaker 17 for Word
+xmp:Label: Programming
+xmp:MetadataDate: 2019-05-21T12:55:06+02:00
+xmp:ModifyDate: 2019-05-21T12:55:06+02:00
+pdf:Keywords: Programming; OOP; Education
+pdf:Producer: Adobe PDF Library 15.0
+dc:format: application/pdf
+dc:title: Java
+dc:creator: Belal Abu Naim
+dc:subject: Programming
+xmpMM:DocumentID: uuid:722e6067-dd92-43a0-b6ea-bc1d2089095b
+xmpMM:InstanceID: uuid:7c84c8d3-10a4-4c94-b74c-fc68a7fc5dae

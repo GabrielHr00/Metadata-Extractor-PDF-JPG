@@ -1,0 +1,14 @@
+Mammals.pdf
+xmp:CreateDate: 2019-05-21T11:09:18+02:00
+xmp:CreatorTool: Acrobat PDFMaker 17 for Word
+xmp:Label: Mammals
+xmp:MetadataDate: 2019-05-21T12:57:17+02:00
+xmp:ModifyDate: 2019-05-21T12:57:17+02:00
+pdf:Keywords: Species; Mammals
+pdf:Producer: Adobe PDF Library 15.0
+dc:format: application/pdf
+dc:title: Mammals
+dc:creator: Belal Abu Naim
+dc:subject: Species
+xmpMM:DocumentID: uuid:978eeef8-9d84-48d5-bed3-21afc6ff1a48
+xmpMM:InstanceID: uuid:8f3b46b9-1e01-4629-9489-ab3970a6392f

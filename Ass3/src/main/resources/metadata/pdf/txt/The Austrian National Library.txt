@@ -1,0 +1,13 @@
+The Austrian National Library.pdf
+xmp:CreateDate: 2019-05-21T11:32:26+02:00
+xmp:CreatorTool: Acrobat PDFMaker 17 for Word
+xmp:MetadataDate: 2019-05-21T13:02:32+02:00
+xmp:ModifyDate: 2019-05-21T13:02:32+02:00
+pdf:Keywords: Library; Vienna; Tourism
+pdf:Producer: Adobe PDF Library 15.0
+dc:format: application/pdf
+dc:title: Austrian National Library
+dc:creator: Belal Abu Naim
+dc:subject: Library
+xmpMM:DocumentID: uuid:a4345961-a208-4bf7-80ed-e601282316c2
+xmpMM:InstanceID: uuid:c391cc83-da2f-4970-8e33-6928d17a96c2
