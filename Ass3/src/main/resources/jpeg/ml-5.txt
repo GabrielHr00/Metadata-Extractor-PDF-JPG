@@ -1,0 +1,42 @@
+XMP Value Count: 4
+Keywords: Species;Marine Life
+Exposure Time: 8333/500000 sec
+F-Number: f/2.8
+Exposure Program: Program normal
+ISO Speed Ratings: 155
+Exif Version: 2.21
+Date/Time Digitized: 2015:01:02 03:40:41
+Components Configuration: YCbCr
+Compressed Bits Per Pixel: 1431655432/99 bits/pixel
+Shutter Speed Value: 1/59 sec
+Aperture Value: f/2.8
+Exposure Bias Value: 0 EV
+Max Aperture Value: f/2.8
+Subject Distance: Unknown
+Metering Mode: Center weighted average
+White Balance: Unknown
+Flash: Flash did not fire
+Focal Length: 3 mm
+Makernote: [10512 values]
+FlashPix Version: 1.00
+Color Space: sRGB
+Exif Image Width: 4000 pixels
+Exif Image Height: 3000 pixels
+Exposure Index: 0
+Sensing Method: One-chip color area sensor
+File Source: Digital Still Camera (DSC)
+Scene Type: Directly photographed image
+Custom Rendered: Normal process
+Exposure Mode: Auto exposure
+White Balance Mode: Auto white balance
+Digital Zoom Ratio: 1
+Focal Length 35: 15 mm
+Scene Capture Type: Standard
+Gain Control: None
+Contrast: None
+Saturation: None
+Sharpness: Hard
+Device Setting Description: 0 0 0 0
+Subject Distance Range: Unknown
+Padding: [2060 values]
+Unknown tag (0xea1d): 3840
