@@ -1,0 +1,14 @@
+Humans.pdf
+xmp:CreateDate: 2019-05-21T11:15:52+02:00
+xmp:CreatorTool: Acrobat PDFMaker 17 for Word
+xmp:Label: Mammals
+xmp:MetadataDate: 2019-05-21T12:53:34+02:00
+xmp:ModifyDate: 2019-05-21T12:53:34+02:00
+pdf:Keywords: Mammals; Homo Sapiens; Species
+pdf:Producer: Adobe PDF Library 15.0
+dc:format: application/pdf
+dc:title: Humans
+dc:creator: Belal Abu Naim
+dc:subject: Mammals
+xmpMM:DocumentID: uuid:8672763d-82f8-43d9-9a98-0d0b68eafcab
+xmpMM:InstanceID: uuid:420813bf-d3b6-415c-b271-bb985e02e021

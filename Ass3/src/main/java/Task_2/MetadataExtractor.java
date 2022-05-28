@@ -2,14 +2,14 @@ package Task_2;
 
 import Task_1.JPEGReader;
 import Task_1.PDFReader;
+import com.aspose.pdf.Document;
+import com.aspose.pdf.internal.ms.System.Collections.Generic.lk;
 import com.drew.imaging.ImageMetadataReader;
 import com.drew.imaging.ImageProcessingException;
 import com.drew.metadata.Metadata;
 import com.drew.metadata.Tag;
 import com.drew.metadata.exif.ExifImageDirectory;
-import com.drew.metadata.exif.ExifSubIFDDirectory;
 import com.drew.metadata.iptc.IptcDirectory;
-import com.drew.metadata.jpeg.JpegDirectory;
 import com.drew.metadata.xmp.XmpDirectory;
 import com.lowagie.text.pdf.PdfReader;
 
@@ -36,15 +36,32 @@ public class MetadataExtractor {
         // NOTE: save in .xmp files in resources folder
         for (PDFReader pdf: pdfs) {
             extractMetadataFromPDF(pdf);
+            extractMetadataFromPDFAsText(pdf);
         }
     }
 
+    private static void extractMetadataFromPDFAsText(PDFReader pdf) throws IOException {
+        StringBuilder result= new StringBuilder();
+        result.append(pdf.getFileName() + "\n");
+
+        Document doc = new Document(pdf.getPath() + pdf.getFileName());
+        lk<String> iterator = doc.getMetadata().getKeys().iterator();
+
+        while(iterator.hasNext()) {
+            String key = iterator.next();
+            result.append(key + ": " + doc.getMetadata().get_Item(key) + "\n");
+        }
+
+        FileWriter xmpWriter = new FileWriter("src/main/resources/metadata/pdf/txt/" + pdf.getFileName().substring(0, pdf.getFileName().length() - 3) + "txt");
+        xmpWriter.write(result.toString());
+        xmpWriter.close();
+    }
 
     private static void extractMetadataFromPDF(PDFReader pdf) throws IOException {
         PdfReader metadataReader = new PdfReader(pdf.getPath() + pdf.getFileName());
         String result = new String(metadataReader.getMetadata());
 
-        FileWriter xmpWriter = new FileWriter("src/main/resources/pdf/" + pdf.getFileName().substring(0, pdf.getFileName().length() - 3) + "xmp");
+        FileWriter xmpWriter = new FileWriter("src/main/resources/metadata/pdf/xmp/" + pdf.getFileName().substring(0, pdf.getFileName().length() - 3) + "xmp");
         xmpWriter.write(result.trim());
         xmpWriter.close();
     }
@@ -55,6 +72,7 @@ public class MetadataExtractor {
         Metadata metadata = ImageMetadataReader.readMetadata(new File(jpg.getPath() + jpg.getFileName()));
 
         StringBuilder result = new StringBuilder();
+        result.append(jpg.getFileName() + "\n");
 
         // obtain the Exif directory
         XmpDirectory xmp = metadata.getFirstDirectoryOfType(XmpDirectory.class);
@@ -71,13 +89,6 @@ public class MetadataExtractor {
         }
 
         // obtain the exif directory
-        //        if(metadata.getFirstDirectoryOfType(ExifSubIFDDirectory.class) != null) {
-        //            ExifSubIFDDirectory exifDir = metadata.getFirstDirectoryOfType(ExifSubIFDDirectory.class);
-        //            for (Tag t : exifDir.getTags()) {
-        //                result.append(t.getTagName() + ": " + t.getDescription());
-        //                result.append("\n");
-        //            }
-        //        }
         if(metadata.getFirstDirectoryOfType(ExifImageDirectory.class) != null) {
             ExifImageDirectory exif = metadata.getFirstDirectoryOfType(ExifImageDirectory.class);
             for (Tag t : exif.getTags()) {
@@ -87,7 +98,7 @@ public class MetadataExtractor {
         }
 
         // write in resource folder .txt format
-        FileWriter jpegWriter = new FileWriter("src/main/resources/jpeg/" + jpg.getFileName().substring(0, jpg.getFileName().length() - 3) + "txt");
+        FileWriter jpegWriter = new FileWriter("src/main/resources/metadata/jpeg/" + jpg.getFileName().substring(0, jpg.getFileName().length() - 3) + "txt");
         jpegWriter.write(result.toString());
         jpegWriter.close();
     }
