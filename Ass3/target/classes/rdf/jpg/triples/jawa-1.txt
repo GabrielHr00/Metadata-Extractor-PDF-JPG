@@ -1,26 +1,10 @@
-ca48591c-8491-4b48-983f-36f8a0b55bb7
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-Island
-
-ca48591c-8491-4b48-983f-36f8a0b55bb7
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
-Tourism
-
-ca48591c-8491-4b48-983f-36f8a0b55bb7
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
-Landscape
-
-ca48591c-8491-4b48-983f-36f8a0b55bb7
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
-Holiday
-
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-1.jpg
 http://purl.org/dc/elements/1.1/analyzedBy
 11914741
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-1.jpg
 http://purl.org/dc/elements/1.1/subject
-Holiday
+Holiday_|_Island_|_Landscape_|_Tourism_|_Temple
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-1.jpg
 http://ns.adobe.com/xap/1.0/Label
@@ -28,9 +12,25 @@ Jawa
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-1.jpg
 http://ns.adobe.com/exif/1.0/Orientation
-Top, left side (Horizontal / normal)
+Top,_left_side_(Horizontal_/_normal)
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-1.jpg
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-ca48591c-8491-4b48-983f-36f8a0b55bb7
+a30240d9-e60a-4c5b-b577-0f07a14d6757
+
+a30240d9-e60a-4c5b-b577-0f07a14d6757
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
+Island
+
+a30240d9-e60a-4c5b-b577-0f07a14d6757
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Tourism
+
+a30240d9-e60a-4c5b-b577-0f07a14d6757
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
+Landscape
+
+a30240d9-e60a-4c5b-b577-0f07a14d6757
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
+Holiday
 

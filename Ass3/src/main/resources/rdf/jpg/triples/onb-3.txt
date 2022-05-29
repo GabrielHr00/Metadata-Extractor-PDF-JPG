@@ -1,12 +1,12 @@
-041d1604-fa67-4b8f-84e1-327839b9cb5e
+957ae022-c596-4938-a015-9065dd61e515
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 Education
 
-041d1604-fa67-4b8f-84e1-327839b9cb5e
+957ae022-c596-4938-a015-9065dd61e515
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Tourism
 
-041d1604-fa67-4b8f-84e1-327839b9cb5e
+957ae022-c596-4938-a015-9065dd61e515
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
 Library
 
@@ -16,17 +16,17 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-3.jpg
 http://purl.org/dc/elements/1.1/subject
-Education
+Education_|_Library_|_Tourism
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-3.jpg
 http://ns.adobe.com/xap/1.0/Label
-Austrian National Library
+Austrian_National_Library
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-3.jpg
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-041d1604-fa67-4b8f-84e1-327839b9cb5e
+957ae022-c596-4938-a015-9065dd61e515
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-3.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Special Instructions
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Special_Instructions
 FBMD2300098703000011150000ae2000003c29000079730000a48a000039ab00006bc2000055d9000092030100
 

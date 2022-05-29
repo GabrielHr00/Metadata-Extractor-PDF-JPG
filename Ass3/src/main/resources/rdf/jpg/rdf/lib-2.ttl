@@ -1,0 +1,33 @@
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-2.jpg>
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords>
+                [ <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1>
+                          "University" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2>
+                          "Education" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3>
+                          "Library"
+                ] ;
+        <http://ns.adobe.com/exif/1.0/Date/Time>
+                "2015:01:02_00:05:55" ;
+        <http://ns.adobe.com/exif/1.0/Make>
+                "Canon" ;
+        <http://ns.adobe.com/exif/1.0/Model>
+                "Canon_EOS_6D" ;
+        <http://ns.adobe.com/exif/1.0/Orientation>
+                "Top,_left_side_(Horizontal_/_normal)" ;
+        <http://ns.adobe.com/exif/1.0/Resolution_Unit>
+                "Inch" ;
+        <http://ns.adobe.com/exif/1.0/Software>
+                "Digital_Photo_Professional" ;
+        <http://ns.adobe.com/exif/1.0/X_Resolution>
+                "350_dots_per_inch" ;
+        <http://ns.adobe.com/exif/1.0/YCbCr_Positioning>
+                "Center_of_pixel_array" ;
+        <http://ns.adobe.com/exif/1.0/Y_Resolution>
+                "350_dots_per_inch" ;
+        <http://ns.adobe.com/xap/1.0/Label>
+                "Library" ;
+        <http://purl.org/dc/elements/1.1/analyzedBy>
+                "11914741" ;
+        <http://purl.org/dc/elements/1.1/subject>
+                "Library_|_Education_|_University" .

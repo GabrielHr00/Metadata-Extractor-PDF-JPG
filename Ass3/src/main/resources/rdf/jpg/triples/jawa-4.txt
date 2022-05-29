@@ -1,3 +1,227 @@
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_22
+photography
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_23
+photo
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_26
+morning
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_45
+famous
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_42
+HDR
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_30
+landscape
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_12
+temple
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Tourism
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_47
+dramatic
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_24
+palm_tree
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_38
+historic
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_54
+architecture
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_39
+hilly
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_49
+building
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_43
+green
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_34
+Indonesia
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_56
+above
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_7
+wellistravelphotography
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_35
+image
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_37
+horizontal
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
+Yogyakarta
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_40
+hills
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_20
+rm
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_8
+Unesco_world_heritage_site
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_6
+world_heritage_site
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_15
+Southeast_Asia
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_31
+landmark
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_28
+mist
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_13
+stupas
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
+Holiday
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_48
+dawn
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_27
+misty
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
+Landscape
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_10
+trees
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_55
+ancient
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_50
+buddhist
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_32
+jungle
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_17
+sky
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_51
+Borobudur_Temple
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_19
+silhouette
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_33
+Java
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_25
+nobody
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_21
+rights_managed
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
+Island
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_29
+landscape_photography
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_18
+silhouetted
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_46
+early
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_44
+forest
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_9
+UNESCO
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_36
+iconic
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_41
+high_dynamic_range
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_52
+Borobudur
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_53
+Asia
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_11
+travel_photography
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_14
+stock_photo_travel
+
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_16
+south_east_asia
+
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/UprightCenterNormX
 0.5
@@ -7,16 +231,16 @@ http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentGreen
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/exif/1.0/Image Description
-Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://purl.org/dc/elements/1.1/description
 x-default
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentAqua
 0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+e31b8f89-6d4c-40dd-9f42-0dbd138b7413
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/DefringeGreenHueHi
@@ -31,20 +255,20 @@ http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:instanceID
 xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/xap/1.0/CreatorTool
-Adobe Photoshop Camera Raw 8.1 (Macintosh)
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/exif/1.0/Model
-NIKON D700
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentOrange
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Application_Record_Version
+4
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/Highlights2012
 0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://purl.org/dc/elements/1.1/description
+Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/xap/1.0/mm/History
@@ -63,14 +287,6 @@ http://ns.adobe.com/xap/1.0/mm/History
 xmp.iid:6FC825E630206811822ADBA244B54B5B
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://purl.org/dc/elements/1.1/description
-Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/xap/1.0/mm/History
-Adobe Photoshop Camera Raw 8.1 (Macintosh)
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/PerspectiveAspect
 0
 
@@ -83,8 +299,12 @@ http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentPurple
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/xap/1.0/mm/History
-saved to new location
+http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Green
+0,_0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/camera-raw-settings/1.0/RawFileName
+Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis.JPG
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/SplitToningShadowHue
@@ -99,44 +319,24 @@ http://ns.adobe.com/camera-raw-settings/1.0/Whites2012
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Blue
-255, 255
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/PerspectiveVertical
 0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/photoshop/1.0/Headline
-Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Date Created
-2011:05:07
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://purl.org/dc/elements/1.1/format
 image/jpeg
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012
-255, 255
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/AlreadyApplied
 True
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Object Name
-Indonesia travel landscape photography, Sunrise at Borobudur Tem
+http://purl.org/dc/elements/1.1/subject
+Holiday_|_Island_|_Landscape_|_Tourism
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentAqua
 0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/xap/1.0/mm/History
-Adobe Photoshop Camera Raw 8.1
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/Saturation
@@ -145,6 +345,10 @@ http://ns.adobe.com/camera-raw-settings/1.0/Saturation
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/AutoLateralCA
 0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/exif/1.0/Y_Resolution
+72_dots_per_inch
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/xap/1.0/mm/History
@@ -157,10 +361,6 @@ http://ns.adobe.com/camera-raw-settings/1.0/PerspectiveRotate
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/BlueSaturation
 0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Green
-255, 255
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://cipa.jp/exif/1.0/PhotographicSensitivity
@@ -183,12 +383,12 @@ http://ns.adobe.com/camera-raw-settings/1.0/LensProfileEnable
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://purl.org/dc/elements/1.1/title
-Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentYellow
 0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/exif/1.0/Software
+Adobe_Photoshop_Camera_Raw_8.1_(Macintosh)
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/SplitToningBalance
@@ -227,10 +427,6 @@ http://ns.adobe.com/xap/1.0/Label
 Jawa
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://purl.org/dc/elements/1.1/subject
-Holiday
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/Contrast2012
 0
 
@@ -239,8 +435,16 @@ http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentGreen
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/exif/1.0/Date/Time
+2014:01:04_14:35:03
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/SplitToningHighlightHue
 0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital_Time_Created
+06:21:44+0000
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/DefringeGreenHueLo
@@ -279,8 +483,24 @@ http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentOrange
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012
+0,_0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/ParametricLights
 0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/exif/1.0/X_Resolution
+72_dots_per_inch
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Blue
+255,_255
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/xap/1.0/mm/History
+saved_to_new_location
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/xap/1.0/CreateDate
@@ -347,16 +567,16 @@ http://ns.adobe.com/camera-raw-settings/1.0/ParametricHighlightSplit
 75
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Green
+255,_255
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/UprightFocalMode
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/RedHue
 0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Headline
-Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentGreen
@@ -375,16 +595,24 @@ http://ns.adobe.com/camera-raw-settings/1.0/ParametricShadowSplit
 25
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Green
-0, 0
+http://ns.adobe.com/camera-raw-settings/1.0/WhiteBalance
+As_Shot
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/xap/1.0/mm/History
+Adobe_Photoshop_Camera_Raw_8.1_(Macintosh)
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Caption/Abstract
+Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/xap/1.0/mm/History
 saved
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-765021b8-5628-40c4-b2a3-fb9e98309423
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Object_Name
+Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Tem
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/IncrementalTint
@@ -393,6 +621,14 @@ http://ns.adobe.com/camera-raw-settings/1.0/IncrementalTint
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/xap/1.0/mm/History
 xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital_Date_Created
+2011:05:07
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://purl.org/dc/elements/1.1/title
+Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/Version
@@ -405,10 +641,6 @@ http://ns.adobe.com/camera-raw-settings/1.0/Sharpness
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/ColorNoiseReduction
 0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/exif/1.0/Software
-Adobe Photoshop Camera Raw 8.1 (Macintosh)
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/DefringePurpleHueLo
@@ -455,28 +687,8 @@ http://ns.adobe.com/camera-raw-settings/1.0/ConvertToGrayscale
 False
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Red
-255, 255
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/exif/1.0/Resolution Unit
-Inch
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital Date Created
-2011:05:07
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://purl.org/dc/elements/1.1/analyzedBy
 11914741
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/exif/1.0/Date/Time
-2014:01:04 14:35:03
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Caption/Abstract
-Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/SharpenEdgeMasking
@@ -491,20 +703,12 @@ http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentOrange
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/WhiteBalance
-As Shot
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/exif/1.0/X Resolution
-72 dots per inch
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Date_Created
+2011:05:07
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/LuminanceSmoothing
 0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Red
-0, 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/GreenHue
@@ -519,20 +723,32 @@ http://ns.adobe.com/camera-raw-settings/1.0/DefringePurpleAmount
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012
-0, 0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/xap/1.0/ModifyDate
 2014-01-04T14:35:03Z
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012
+255,_255
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentBlue
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/exif/1.0/Image_Description
+Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/xap/1.0/mm/History
+Adobe_Photoshop_Camera_Raw_8.1
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/UprightFocalLength35mm
 35
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Red
+0,_0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentPurple
@@ -551,8 +767,24 @@ http://ns.adobe.com/camera-raw-settings/1.0/BlueHue
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/photoshop/1.0/Headline
+Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Red
+255,_255
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/xap/1.0/CreatorTool
+Adobe_Photoshop_Camera_Raw_8.1_(Macintosh)
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentMagenta
 0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Headline
+Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://purl.org/dc/elements/1.1/date
@@ -563,6 +795,10 @@ http://ns.adobe.com/camera-raw-settings/1.0/CameraProfileDigest
 B852F51E5D7D40FF5B83A689497D3451
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/camera-raw-settings/1.0/ShadowTint
+0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/photoshop/1.0/DateCreated
 2011-05-07
 
@@ -571,12 +807,8 @@ http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:documentID
 977212B02F6F436BC597032017DA02AB
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/ShadowTint
-0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Application Record Version
-4
+http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Blue
+0,_0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentRed
@@ -587,16 +819,12 @@ http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentMagenta
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/RawFileName
-Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis.JPG
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Blue
-0, 0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/SharpenRadius
 +1.0
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/exif/1.0/Model
+NIKON_D700
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/CameraProfile
@@ -607,242 +835,14 @@ http://ns.adobe.com/camera-raw-settings/1.0/Blacks2012
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital Time Created
-06:21:44+0000
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
-http://ns.adobe.com/exif/1.0/Y Resolution
-72 dots per inch
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/PerspectiveScale
 100
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
+http://ns.adobe.com/exif/1.0/Resolution_Unit
+Inch
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg
 http://ns.adobe.com/camera-raw-settings/1.0/UprightCenterMode
 0
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_49
-building
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_22
-photography
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_56
-above
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_27
-misty
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
-Yogyakarta
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_48
-dawn
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_46
-early
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_21
-rights managed
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_43
-green
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_55
-ancient
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_52
-Borobudur
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_15
-Southeast Asia
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_35
-image
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_53
-Asia
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_30
-landscape
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_12
-temple
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_6
-world heritage site
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_16
-south east asia
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_51
-Borobudur Temple
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_28
-mist
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_54
-architecture
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_10
-trees
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_45
-famous
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_26
-morning
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_32
-jungle
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_13
-stupas
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_25
-nobody
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_38
-historic
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_34
-Indonesia
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
-Tourism
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_19
-silhouette
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_42
-HDR
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_50
-buddhist
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_20
-rm
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_47
-dramatic
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_17
-sky
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_39
-hilly
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_9
-UNESCO
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-Island
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_11
-travel photography
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
-Landscape
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_40
-hills
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_18
-silhouetted
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_33
-Java
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_14
-stock photo travel
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_24
-palm tree
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_41
-high dynamic range
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_31
-landmark
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_37
-horizontal
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_7
-wellistravelphotography
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_8
-Unesco world heritage site
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_44
-forest
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_29
-landscape photography
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_23
-photo
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_36
-iconic
-
-765021b8-5628-40c4-b2a3-fb9e98309423
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
-Holiday
 

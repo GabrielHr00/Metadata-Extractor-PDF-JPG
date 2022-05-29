@@ -1,0 +1,391 @@
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg>
+        <http://cipa.jp/exif/1.0/PhotographicSensitivity>
+                "200" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Application_Record_Version>
+                "4" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Caption/Abstract>
+                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Date_Created>
+                "2011:05:07" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital_Date_Created>
+                "2011:05:07" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital_Time_Created>
+                "06:21:44+0000" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Headline>
+                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords>
+                [ <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1>
+                          "Island" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_10>
+                          "trees" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_11>
+                          "travel_photography" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_12>
+                          "temple" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_13>
+                          "stupas" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_14>
+                          "stock_photo_travel" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_15>
+                          "Southeast_Asia" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_16>
+                          "south_east_asia" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_17>
+                          "sky" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_18>
+                          "silhouetted" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_19>
+                          "silhouette" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2>
+                          "Tourism" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_20>
+                          "rm" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_21>
+                          "rights_managed" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_22>
+                          "photography" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_23>
+                          "photo" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_24>
+                          "palm_tree" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_25>
+                          "nobody" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_26>
+                          "morning" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_27>
+                          "misty" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_28>
+                          "mist" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_29>
+                          "landscape_photography" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3>
+                          "Landscape" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_30>
+                          "landscape" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_31>
+                          "landmark" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_32>
+                          "jungle" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_33>
+                          "Java" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_34>
+                          "Indonesia" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_35>
+                          "image" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_36>
+                          "iconic" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_37>
+                          "horizontal" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_38>
+                          "historic" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_39>
+                          "hilly" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4>
+                          "Holiday" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_40>
+                          "hills" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_41>
+                          "high_dynamic_range" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_42>
+                          "HDR" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_43>
+                          "green" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_44>
+                          "forest" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_45>
+                          "famous" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_46>
+                          "early" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_47>
+                          "dramatic" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_48>
+                          "dawn" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_49>
+                          "building" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5>
+                          "Yogyakarta" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_50>
+                          "buddhist" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_51>
+                          "Borobudur_Temple" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_52>
+                          "Borobudur" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_53>
+                          "Asia" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_54>
+                          "architecture" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_55>
+                          "ancient" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_56>
+                          "above" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_6>
+                          "world_heritage_site" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_7>
+                          "wellistravelphotography" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_8>
+                          "Unesco_world_heritage_site" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_9>
+                          "UNESCO"
+                ] ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Object_Name>
+                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Tem" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/AlreadyApplied>
+                "True" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/AutoLateralCA>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Blacks2012>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/BlueHue>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/BlueSaturation>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/CameraProfile>
+                "Embedded" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/CameraProfileDigest>
+                "B852F51E5D7D40FF5B83A689497D3451" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Clarity2012>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ColorNoiseReduction>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Contrast2012>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ConvertToGrayscale>
+                "False" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/DefringeGreenAmount>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/DefringeGreenHueHi>
+                "60" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/DefringeGreenHueLo>
+                "40" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/DefringePurpleAmount>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/DefringePurpleHueHi>
+                "70" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/DefringePurpleHueLo>
+                "30" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Exposure2012>
+                "0.00" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/GrainAmount>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/GreenHue>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/GreenSaturation>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/HasCrop>
+                "False" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/HasSettings>
+                "True" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Highlights2012>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentAqua>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentBlue>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentGreen>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentMagenta>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentOrange>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentPurple>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentRed>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentYellow>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/IncrementalTemperature>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/IncrementalTint>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LensManualDistortionAmount>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LensProfileEnable>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LensProfileSetup>
+                "LensDefaults" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentAqua>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentBlue>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentGreen>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentMagenta>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentOrange>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentPurple>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentRed>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LuminanceAdjustmentYellow>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/LuminanceSmoothing>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ParametricDarks>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ParametricHighlightSplit>
+                "75" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ParametricHighlights>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ParametricLights>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ParametricMidtoneSplit>
+                "50" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ParametricShadowSplit>
+                "25" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ParametricShadows>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/PerspectiveAspect>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/PerspectiveHorizontal>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/PerspectiveRotate>
+                "0.0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/PerspectiveScale>
+                "100" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/PerspectiveUpright>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/PerspectiveVertical>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/PostCropVignetteAmount>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ProcessVersion>
+                "6.7" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/RawFileName>
+                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis.JPG" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/RedHue>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/RedSaturation>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Saturation>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentAqua>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentBlue>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentGreen>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentMagenta>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentOrange>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentPurple>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentRed>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentYellow>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ShadowTint>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Shadows2012>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SharpenDetail>
+                "25" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SharpenEdgeMasking>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SharpenRadius>
+                "+1.0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Sharpness>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SplitToningBalance>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SplitToningHighlightHue>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SplitToningHighlightSaturation>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SplitToningShadowHue>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/SplitToningShadowSaturation>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ToneCurveName2012>
+                "Linear" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012>
+                "0,_0" , "255,_255" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Blue>
+                "255,_255" , "0,_0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Green>
+                "0,_0" , "255,_255" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Red>
+                "0,_0" , "255,_255" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/UprightCenterMode>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/UprightCenterNormX>
+                "0.5" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/UprightCenterNormY>
+                "0.5" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/UprightFocalLength35mm>
+                "35" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/UprightFocalMode>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/UprightPreview>
+                "False" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/UprightTransformCount>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/UprightVersion>
+                "134217728" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Version>
+                "8.1" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Vibrance>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/VignetteAmount>
+                "0" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/WhiteBalance>
+                "As_Shot" ;
+        <http://ns.adobe.com/camera-raw-settings/1.0/Whites2012>
+                "0" ;
+        <http://ns.adobe.com/exif/1.0/Date/Time>
+                "2014:01:04_14:35:03" ;
+        <http://ns.adobe.com/exif/1.0/Image_Description>
+                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" ;
+        <http://ns.adobe.com/exif/1.0/Model>
+                "NIKON_D700" ;
+        <http://ns.adobe.com/exif/1.0/Resolution_Unit>
+                "Inch" ;
+        <http://ns.adobe.com/exif/1.0/Software>
+                "Adobe_Photoshop_Camera_Raw_8.1_(Macintosh)" ;
+        <http://ns.adobe.com/exif/1.0/X_Resolution>
+                "72_dots_per_inch" ;
+        <http://ns.adobe.com/exif/1.0/Y_Resolution>
+                "72_dots_per_inch" ;
+        <http://ns.adobe.com/exif/1.0/aux/ApproximateFocusDistance>
+                "282/100" ;
+        <http://ns.adobe.com/photoshop/1.0/DateCreated>
+                "2011-05-07" ;
+        <http://ns.adobe.com/photoshop/1.0/Headline>
+                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" ;
+        <http://ns.adobe.com/xap/1.0/CreateDate>
+                "2011-05-07T06:21:44.00" ;
+        <http://ns.adobe.com/xap/1.0/CreatorTool>
+                "Adobe_Photoshop_Camera_Raw_8.1_(Macintosh)" ;
+        <http://ns.adobe.com/xap/1.0/Label>
+                "Jawa" ;
+        <http://ns.adobe.com/xap/1.0/MetadataDate>
+                "2014-01-04T14:35:03Z" ;
+        <http://ns.adobe.com/xap/1.0/ModifyDate>
+                "2014-01-04T14:35:03Z" ;
+        <http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:documentID>
+                "977212B02F6F436BC597032017DA02AB" ;
+        <http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:instanceID>
+                "xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263" ;
+        <http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:originalDocumentID>
+                "977212B02F6F436BC597032017DA02AB" ;
+        <http://ns.adobe.com/xap/1.0/mm/DocumentID>
+                "xmp.did:26113ba3-dbf9-46d7-bd63-cc2c8db553fa" ;
+        <http://ns.adobe.com/xap/1.0/mm/History>
+                "/" , "xmp.iid:6FC825E630206811822ADBA244B54B5B" , "derived" , "saved_to_new_location" , "xmp.iid:26113ba3-dbf9-46d7-bd63-cc2c8db553fa" , "2014-01-04T14:29:52Z" , "2014-01-04T14:35:03Z" , "Adobe_Photoshop_Camera_Raw_8.1_(Macintosh)" , "saved" , "xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263" , "/metadata" , "Adobe_Photoshop_Camera_Raw_8.1" ;
+        <http://ns.adobe.com/xap/1.0/mm/InstanceID>
+                "xmp.iid:26113ba3-dbf9-46d7-bd63-cc2c8db553fa" ;
+        <http://ns.adobe.com/xap/1.0/mm/OriginalDocumentID>
+                "977212B02F6F436BC597032017DA02AB" ;
+        <http://purl.org/dc/elements/1.1/analyzedBy>
+                "11914741" ;
+        <http://purl.org/dc/elements/1.1/date>
+                "2011-05-07T06:21:44" ;
+        <http://purl.org/dc/elements/1.1/description>
+                "x-default" , "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" ;
+        <http://purl.org/dc/elements/1.1/format>
+                "image/jpeg" ;
+        <http://purl.org/dc/elements/1.1/subject>
+                "Holiday_|_Island_|_Landscape_|_Tourism" ;
+        <http://purl.org/dc/elements/1.1/title>
+                "x-default" , "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" .

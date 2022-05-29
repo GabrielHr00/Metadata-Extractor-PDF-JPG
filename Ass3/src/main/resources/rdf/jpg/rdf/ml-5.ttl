@@ -1,0 +1,39 @@
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg>
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords>
+                [ <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1>
+                          "Marine_Life" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2>
+                          "Species"
+                ] ;
+        <http://ns.adobe.com/exif/1.0/Date/Time>
+                "2018:10:26_01:12:44" ;
+        <http://ns.adobe.com/exif/1.0/Image_Description>
+                "DCIM\\100GOPRO\\GOPR1293." ;
+        <http://ns.adobe.com/exif/1.0/Make>
+                "GoPro" ;
+        <http://ns.adobe.com/exif/1.0/Model>
+                "HERO4_Silver" ;
+        <http://ns.adobe.com/exif/1.0/Orientation>
+                "Top,_left_side_(Horizontal_/_normal)" ;
+        <http://ns.adobe.com/exif/1.0/Padding>
+                "[2060_values]" ;
+        <http://ns.adobe.com/exif/1.0/Resolution_Unit>
+                "Inch" ;
+        <http://ns.adobe.com/exif/1.0/Software>
+                "Windows_Photo_Editor_10.0.10011.16384" ;
+        <http://ns.adobe.com/exif/1.0/X_Resolution>
+                "72_dots_per_inch" ;
+        <http://ns.adobe.com/exif/1.0/YCbCr_Positioning>
+                "Center_of_pixel_array" ;
+        <http://ns.adobe.com/exif/1.0/Y_Resolution>
+                "72_dots_per_inch" ;
+        <http://ns.adobe.com/xap/1.0/CreatorTool>
+                "Windows_Photo_Editor_10.0.10011.16384" ;
+        <http://ns.adobe.com/xap/1.0/Label>
+                "Marine_Life" ;
+        <http://ns.adobe.com/xap/1.0/mm/InstanceID>
+                "uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b" ;
+        <http://purl.org/dc/elements/1.1/analyzedBy>
+                "11914741" ;
+        <http://purl.org/dc/elements/1.1/subject>
+                "Marine_Life_|_Species" .

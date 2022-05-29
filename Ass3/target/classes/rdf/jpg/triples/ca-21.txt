@@ -1,30 +1,10 @@
-d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-Capital
-
-d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
-Tourism
-
-d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
-City
-
-d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
-Landscape
-
-d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
-Holiday
-
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-21.jpg
 http://purl.org/dc/elements/1.1/analyzedBy
 11914741
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-21.jpg
 http://purl.org/dc/elements/1.1/subject
-Capital
+Capital_|_City_|_Holiday_|_Landscape_|_Tourism
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-21.jpg
 http://ns.adobe.com/xap/1.0/Label
@@ -32,5 +12,25 @@ Cairo
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-21.jpg
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
+74cbedd6-4b4c-4008-8f1e-c27f11672c07
+
+74cbedd6-4b4c-4008-8f1e-c27f11672c07
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
+Capital
+
+74cbedd6-4b4c-4008-8f1e-c27f11672c07
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Tourism
+
+74cbedd6-4b4c-4008-8f1e-c27f11672c07
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
+City
+
+74cbedd6-4b4c-4008-8f1e-c27f11672c07
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
+Landscape
+
+74cbedd6-4b4c-4008-8f1e-c27f11672c07
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
+Holiday
 

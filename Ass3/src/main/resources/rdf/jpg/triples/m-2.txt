@@ -1,12 +1,12 @@
-7abc7f10-49a2-4cff-9c49-577b7ba6cad0
+ec91043e-49e4-4fb1-ae7a-4301e6d51c38
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 Species
 
-7abc7f10-49a2-4cff-9c49-577b7ba6cad0
+ec91043e-49e4-4fb1-ae7a-4301e6d51c38
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Mammals
 
-7abc7f10-49a2-4cff-9c49-577b7ba6cad0
+ec91043e-49e4-4fb1-ae7a-4301e6d51c38
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
 Animals
 
@@ -16,7 +16,7 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#m-2.jpg
 http://purl.org/dc/elements/1.1/subject
-Animals
+Animals_|_Mammals_|_Species
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#m-2.jpg
 http://ns.adobe.com/xap/1.0/Label
@@ -24,5 +24,5 @@ Mammals
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#m-2.jpg
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-7abc7f10-49a2-4cff-9c49-577b7ba6cad0
+ec91043e-49e4-4fb1-ae7a-4301e6d51c38
 
