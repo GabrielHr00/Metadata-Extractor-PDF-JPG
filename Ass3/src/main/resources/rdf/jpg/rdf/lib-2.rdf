@@ -1,14 +1,31 @@
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:j.0="http://ns.adobe.com/xap/1.0/">
+    xmlns:j.0="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:j.1="http://ns.adobe.com/exif/1.0/Resolution "
+    xmlns:j.2="http://ns.adobe.com/xap/1.0/"
+    xmlns:j.3="http://ns.adobe.com/exif/1.0/"
+    xmlns:j.4="http://ns.adobe.com/exif/1.0/Date/"
+    xmlns:j.5="http://ns.adobe.com/exif/1.0/YCbCr "
+    xmlns:j.6="http://ns.adobe.com/exif/1.0/Y "
+    xmlns:j.7="http://ns.adobe.com/exif/1.0/X ">
   <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-2.jpg">
+    <j.4:Time>2015:01:02 00:05:55</j.4:Time>
+    <dc:subject>Library</dc:subject>
+    <j.5:Positioning>Center of pixel array</j.5:Positioning>
+    <j.7:Resolution>350 dots per inch</j.7:Resolution>
+    <j.3:Model>Canon EOS 6D</j.3:Model>
+    <j.3:Orientation>Top, left side (Horizontal / normal)</j.3:Orientation>
+    <j.2:Label>Library</j.2:Label>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>University</j.0:_1>
+      <j.0:_2>Education</j.0:_2>
+      <j.0:_3>Library</j.0:_3>
+    </j.0:Keywords>
+    <j.3:Software>Digital Photo Professional</j.3:Software>
+    <j.3:Make>Canon</j.3:Make>
+    <j.1:Unit>Inch</j.1:Unit>
     <dc:analyzedBy>11914741</dc:analyzedBy>
-    <dc:subject rdf:parseType="Resource">
-      <dc:_1>University</dc:_1>
-      <dc:_2>Education</dc:_2>
-      <dc:_3>Library</dc:_3>
-    </dc:subject>
-    <j.0:Label>Library</j.0:Label>
+    <j.6:Resolution>350 dots per inch</j.6:Resolution>
   </rdf:Description>
 </rdf:RDF>

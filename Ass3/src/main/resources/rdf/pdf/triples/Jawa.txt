@@ -1,26 +1,22 @@
-f0d41fa9-e5a0-4651-a029-27473bf10625
-http://ns.adobe.com/pdf/1.3/_1
-Tourism
-
-f0d41fa9-e5a0-4651-a029-27473bf10625
-http://ns.adobe.com/pdf/1.3/_2
-Island
-
-64f8034d-16dc-49de-96cc-5adb60603086
+84591277-e88c-4dbd-bf6c-dfddb1226118
 http://purl.org/dc/elements/1.1/li
 Island
 
-64f8034d-16dc-49de-96cc-5adb60603086
+84591277-e88c-4dbd-bf6c-dfddb1226118
 http://www.w3.org/1999/02/22-rdf-syntax-ns#type
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag
+
+59572f7e-efdc-4cd5-9fb9-522c691e805f
+http://ns.adobe.com/pdf/1.3/_1
+Tourism
+
+59572f7e-efdc-4cd5-9fb9-522c691e805f
+http://ns.adobe.com/pdf/1.3/_2
+Island
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/xap/1.0/ModifyDate
 2019-05-21T12:56:10+02:00
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
-http://purl.org/dc/elements/1.1/creator
-cec44f12-cb5f-45b6-bfda-adfc0a003399
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/pdf/1.3/Producer
@@ -32,7 +28,7 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://purl.org/dc/elements/1.1/subject
-64f8034d-16dc-49de-96cc-5adb60603086
+84591277-e88c-4dbd-bf6c-dfddb1226118
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/xap/1.0/CreateDate
@@ -43,8 +39,16 @@ http://purl.org/dc/elements/1.1/format
 application/pdf
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
+http://purl.org/dc/elements/1.1/creator
+2d7c8e3b-7890-4e97-be1d-4dc40652f2bc
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
+http://purl.org/dc/elements/1.1/title
+f6334afb-6ddb-4d9d-8fc6-fd68b5f52969
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/pdf/1.3/Keywords
-f0d41fa9-e5a0-4651-a029-27473bf10625
+59572f7e-efdc-4cd5-9fb9-522c691e805f
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/xap/1.0/MetadataDate
@@ -66,23 +70,19 @@ http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/xap/1.0/Label
 Islands
 
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
-http://purl.org/dc/elements/1.1/title
-19360201-fa40-451b-9b84-2a41af03488f
-
-19360201-fa40-451b-9b84-2a41af03488f
-http://purl.org/dc/elements/1.1/li
-Java
-
-19360201-fa40-451b-9b84-2a41af03488f
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt
-
-cec44f12-cb5f-45b6-bfda-adfc0a003399
+2d7c8e3b-7890-4e97-be1d-4dc40652f2bc
 http://purl.org/dc/elements/1.1/li
 Belal Abu Naim
 
-cec44f12-cb5f-45b6-bfda-adfc0a003399
+2d7c8e3b-7890-4e97-be1d-4dc40652f2bc
 http://www.w3.org/1999/02/22-rdf-syntax-ns#type
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq
+
+f6334afb-6ddb-4d9d-8fc6-fd68b5f52969
+http://purl.org/dc/elements/1.1/li
+Java
+
+f6334afb-6ddb-4d9d-8fc6-fd68b5f52969
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt
 

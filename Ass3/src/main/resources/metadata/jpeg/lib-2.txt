@@ -1,3 +1,13 @@
 lib-2.jpg
-XMP Value Count: 2
-Keywords: Library;Education;University
+xmp:Label: Library
+dc:subject[1]: Library | Education | University
+iptc:Keywords: Library;Education;University
+exif:Make: Canon
+exif:Model: Canon EOS 6D
+exif:Orientation: Top, left side (Horizontal / normal)
+exif:X Resolution: 350 dots per inch
+exif:Y Resolution: 350 dots per inch
+exif:Resolution Unit: Inch
+exif:Software: Digital Photo Professional
+exif:Date/Time: 2015:01:02 00:05:55
+exif:YCbCr Positioning: Center of pixel array

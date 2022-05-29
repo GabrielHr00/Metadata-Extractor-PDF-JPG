@@ -1,3 +1,5 @@
 vie-2.jpg
-XMP Value Count: 2
-Keywords: Holiday;Landscape;City;Tourism;Capital
+xmp:Label: Vienna
+dc:subject[1]: Capital | City | Holiday | Landscape | Tourism
+iptc:Keywords: Holiday;Landscape;City;Tourism;Capital
+exif:Orientation: Top, left side (Horizontal / normal)

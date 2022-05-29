@@ -1,21 +1,17 @@
-31d9e369-8952-4170-ac13-05dee0d33922
-http://purl.org/dc/elements/1.1/_1
-Temple
-
-31d9e369-8952-4170-ac13-05dee0d33922
-http://purl.org/dc/elements/1.1/_2
-Tourism
-
-31d9e369-8952-4170-ac13-05dee0d33922
-http://purl.org/dc/elements/1.1/_3
-Landscape
-
-31d9e369-8952-4170-ac13-05dee0d33922
-http://purl.org/dc/elements/1.1/_4
+ca48591c-8491-4b48-983f-36f8a0b55bb7
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 Island
 
-31d9e369-8952-4170-ac13-05dee0d33922
-http://purl.org/dc/elements/1.1/_5
+ca48591c-8491-4b48-983f-36f8a0b55bb7
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Tourism
+
+ca48591c-8491-4b48-983f-36f8a0b55bb7
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
+Landscape
+
+ca48591c-8491-4b48-983f-36f8a0b55bb7
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
 Holiday
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-1.jpg
@@ -24,9 +20,17 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-1.jpg
 http://purl.org/dc/elements/1.1/subject
-31d9e369-8952-4170-ac13-05dee0d33922
+Holiday
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-1.jpg
 http://ns.adobe.com/xap/1.0/Label
 Jawa
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-1.jpg
+http://ns.adobe.com/exif/1.0/Orientation
+Top, left side (Horizontal / normal)
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-1.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+ca48591c-8491-4b48-983f-36f8a0b55bb7
 

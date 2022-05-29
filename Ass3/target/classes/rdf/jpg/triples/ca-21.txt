@@ -1,22 +1,22 @@
-29d66397-e888-46b0-9ca5-d6e9c5575b0e
-http://purl.org/dc/elements/1.1/_1
+d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
+Capital
+
+d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Tourism
 
-29d66397-e888-46b0-9ca5-d6e9c5575b0e
-http://purl.org/dc/elements/1.1/_2
-Landscape
-
-29d66397-e888-46b0-9ca5-d6e9c5575b0e
-http://purl.org/dc/elements/1.1/_3
-Holiday
-
-29d66397-e888-46b0-9ca5-d6e9c5575b0e
-http://purl.org/dc/elements/1.1/_4
+d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
 City
 
-29d66397-e888-46b0-9ca5-d6e9c5575b0e
-http://purl.org/dc/elements/1.1/_5
-Capital
+d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
+Landscape
+
+d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
+Holiday
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-21.jpg
 http://purl.org/dc/elements/1.1/analyzedBy
@@ -24,9 +24,13 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-21.jpg
 http://purl.org/dc/elements/1.1/subject
-29d66397-e888-46b0-9ca5-d6e9c5575b0e
+Capital
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-21.jpg
 http://ns.adobe.com/xap/1.0/Label
 Cairo
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-21.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+d0bd006c-6f2b-40b3-b334-3c6b1f75cff8
 

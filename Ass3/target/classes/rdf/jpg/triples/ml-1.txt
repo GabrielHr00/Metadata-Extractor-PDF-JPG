@@ -4,21 +4,25 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-1.jpg
 http://purl.org/dc/elements/1.1/subject
-6cfa4332-8894-4c05-a173-2c16690abaf3
+Marine Life | Species | Mammals
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-1.jpg
 http://ns.adobe.com/xap/1.0/Label
 Marine Life
 
-6cfa4332-8894-4c05-a173-2c16690abaf3
-http://purl.org/dc/elements/1.1/_1
-Mammals
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-1.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+2e47549d-cb06-4cec-82d7-56787cfc85e7
 
-6cfa4332-8894-4c05-a173-2c16690abaf3
-http://purl.org/dc/elements/1.1/_2
+2e47549d-cb06-4cec-82d7-56787cfc85e7
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
+Marine Life
+
+2e47549d-cb06-4cec-82d7-56787cfc85e7
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Species
 
-6cfa4332-8894-4c05-a173-2c16690abaf3
-http://purl.org/dc/elements/1.1/_3
-Marine Life
+2e47549d-cb06-4cec-82d7-56787cfc85e7
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
+Mammals
 

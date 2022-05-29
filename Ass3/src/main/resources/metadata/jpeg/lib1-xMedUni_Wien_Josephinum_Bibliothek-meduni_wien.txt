@@ -1,3 +1,4 @@
 lib1-xMedUni_Wien_Josephinum_Bibliothek-meduni_wien.jpg
-XMP Value Count: 2
-Keywords: Library;Education;University
+xmp:Label: Library
+dc:subject[1]: Library | Education | University
+iptc:Keywords: Library;Education;University

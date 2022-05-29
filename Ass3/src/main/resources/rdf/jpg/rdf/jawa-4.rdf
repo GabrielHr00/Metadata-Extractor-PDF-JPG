@@ -1,159 +1,239 @@
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:j.0="http://ns.adobe.com/camera-raw-settings/1.0/"
-    xmlns:j.1="http://ns.adobe.com/photoshop/1.0/"
-    xmlns:j.2="http://cipa.jp/exif/1.0/"
-    xmlns:j.3="http://ns.adobe.com/xap/1.0/"
-    xmlns:j.4="http://ns.adobe.com/exif/1.0/aux/"
-    xmlns:j.5="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:j.6="http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:">
+    xmlns:j.1="http://ns.adobe.com/exif/1.0/Image "
+    xmlns:j.2="http://ns.adobe.com/exif/1.0/Resolution "
+    xmlns:j.3="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Object "
+    xmlns:j.4="http://ns.adobe.com/xap/1.0/"
+    xmlns:j.5="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:j.6="http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:"
+    xmlns:j.7="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Caption/"
+    xmlns:j.8="http://ns.adobe.com/exif/1.0/Y "
+    xmlns:j.9="http://ns.adobe.com/exif/1.0/X "
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:j.10="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:j.11="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital Date "
+    xmlns:j.12="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:j.13="http://cipa.jp/exif/1.0/"
+    xmlns:j.14="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Date "
+    xmlns:j.15="http://ns.adobe.com/exif/1.0/"
+    xmlns:j.16="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital Time "
+    xmlns:j.17="http://ns.adobe.com/exif/1.0/Date/"
+    xmlns:j.18="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:j.19="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Application Record ">
   <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg">
-    <j.0:SaturationAdjustmentGreen>0</j.0:SaturationAdjustmentGreen>
-    <j.0:ToneCurvePV2012G>255, 255</j.0:ToneCurvePV2012G>
-    <j.0:Version>8.1</j.0:Version>
-    <j.0:PerspectiveAspect>0</j.0:PerspectiveAspect>
-    <j.3:ModifyDate>2014-01-04T14:35:03Z</j.3:ModifyDate>
-    <j.0:HasCrop>False</j.0:HasCrop>
-    <j.0:ParametricHighlights>0</j.0:ParametricHighlights>
-    <j.0:DefringeGreenHueLo>40</j.0:DefringeGreenHueLo>
-    <j.0:Highlights2012>0</j.0:Highlights2012>
-    <j.0:Shadows2012>0</j.0:Shadows2012>
-    <j.5:H>saved to new location</j.5:H>
-    <j.2:PhotographicSensitivity>200</j.2:PhotographicSensitivity>
-    <j.0:SaturationAdjustmentMagenta>0</j.0:SaturationAdjustmentMagenta>
-    <j.0:UprightFocalMode>0</j.0:UprightFocalMode>
-    <j.0:Blacks2012>0</j.0:Blacks2012>
-    <j.5:H>Adobe Photoshop Camera Raw 8.1</j.5:H>
-    <j.5:H>xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263</j.5:H>
-    <j.5:H>2014-01-04T14:35:03Z</j.5:H>
-    <j.5:H>saved</j.5:H>
-    <j.0:Exposure2012>0.00</j.0:Exposure2012>
-    <j.0:PerspectiveHorizontal>0</j.0:PerspectiveHorizontal>
-    <j.0:SaturationAdjustmentRed>0</j.0:SaturationAdjustmentRed>
-    <j.0:PerspectiveRotate>0.0</j.0:PerspectiveRotate>
-    <j.0:WhiteBalance>As Shot</j.0:WhiteBalance>
-    <j.0:AlreadyApplied>True</j.0:AlreadyApplied>
-    <j.0:LuminanceAdjustmentAqua>0</j.0:LuminanceAdjustmentAqua>
-    <j.0:ToneCurvePV2012G>0, 0</j.0:ToneCurvePV2012G>
-    <j.0:ToneCurvePV2012>0, 0</j.0:ToneCurvePV2012>
-    <j.0:LensProfileEnable>0</j.0:LensProfileEnable>
-    <j.0:SplitToningBalance>0</j.0:SplitToningBalance>
-    <dc:subject rdf:parseType="Resource">
-      <dc:_1>Tourism</dc:_1>
-      <dc:_2>Landscape</dc:_2>
-      <dc:_3>Island</dc:_3>
-      <dc:_4>Holiday</dc:_4>
-    </dc:subject>
-    <j.0:LuminanceAdjustmentGreen>0</j.0:LuminanceAdjustmentGreen>
-    <j.0:Sharpness>0</j.0:Sharpness>
-    <j.0:UprightTransformCount>0</j.0:UprightTransformCount>
-    <dc:analyzedBy>11914741</dc:analyzedBy>
-    <j.0:Whites2012>0</j.0:Whites2012>
-    <j.0:Vibrance>0</j.0:Vibrance>
-    <j.0:SaturationAdjustmentPurple>0</j.0:SaturationAdjustmentPurple>
-    <j.3:CreateDate>2011-05-07T06:21:44.00</j.3:CreateDate>
-    <j.3:MetadataDate>2014-01-04T14:35:03Z</j.3:MetadataDate>
-    <j.0:GreenHue>0</j.0:GreenHue>
-    <j.0:HueAdjustmentYellow>0</j.0:HueAdjustmentYellow>
-    <j.0:ParametricShadowSplit>25</j.0:ParametricShadowSplit>
-    <j.4:ApproximateFocusDistance>282/100</j.4:ApproximateFocusDistance>
-    <j.0:ParametricMidtoneSplit>50</j.0:ParametricMidtoneSplit>
-    <j.0:SplitToningShadowSaturation>0</j.0:SplitToningShadowSaturation>
-    <j.0:LuminanceAdjustmentMagenta>0</j.0:LuminanceAdjustmentMagenta>
-    <j.0:HueAdjustmentRed>0</j.0:HueAdjustmentRed>
-    <dc:ti>x-default</dc:ti>
-    <j.0:GrainAmount>0</j.0:GrainAmount>
-    <j.3:Label>Jawa</j.3:Label>
-    <j.0:SplitToningShadowHue>0</j.0:SplitToningShadowHue>
-    <j.0:CameraProfileDigest>B852F51E5D7D40FF5B83A689497D3451</j.0:CameraProfileDigest>
-    <j.0:ToneCurvePV201>0, 0</j.0:ToneCurvePV201>
-    <dc:d>2011-05-07T06:21:44</dc:d>
-    <j.0:UprightVersion>134217728</j.0:UprightVersion>
-    <j.0:DefringePurpleAmount>0</j.0:DefringePurpleAmount>
-    <j.0:UprightCenterNormY>0.5</j.0:UprightCenterNormY>
-    <j.0:ParametricHighlightSplit>75</j.0:ParametricHighlightSplit>
-    <j.5:H>/metadata</j.5:H>
-    <j.0:DefringePurpleHueLo>30</j.0:DefringePurpleHueLo>
-    <j.5:H>Adobe Photoshop Camera Raw 8.1 (Macintosh)</j.5:H>
-    <j.0:RedSaturation>0</j.0:RedSaturation>
-    <j.5:H>xmp.iid:26113ba3-dbf9-46d7-bd63-cc2c8db553fa</j.5:H>
-    <j.0:Saturation>0</j.0:Saturation>
-    <j.0:SaturationAdjustmentOrange>0</j.0:SaturationAdjustmentOrange>
-    <j.6:instanceID>xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263</j.6:instanceID>
-    <j.0:DefringePurpleHueHi>70</j.0:DefringePurpleHueHi>
-    <j.0:CameraProfile>Embedded</j.0:CameraProfile>
-    <j.0:UprightFocalLength35mm>35</j.0:UprightFocalLength35mm>
-    <j.0:ParametricDarks>0</j.0:ParametricDarks>
-    <j.6:documentID>977212B02F6F436BC597032017DA02AB</j.6:documentID>
-    <j.0:HueAdjustmentGreen>0</j.0:HueAdjustmentGreen>
-    <dc:descript>x-default</dc:descript>
-    <j.0:GreenSaturation>0</j.0:GreenSaturation>
-    <j.0:SaturationAdjustmentBlue>0</j.0:SaturationAdjustmentBlue>
-    <j.0:SharpenEdgeMasking>0</j.0:SharpenEdgeMasking>
-    <j.0:PostCropVignetteAmount>0</j.0:PostCropVignetteAmount>
-    <j.0:HueAdjustmentMagenta>0</j.0:HueAdjustmentMagenta>
-    <j.0:IncrementalTemperature>0</j.0:IncrementalTemperature>
-    <j.1:Headline>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis</j.1:Headline>
-    <j.0:LuminanceAdjustmentYellow>0</j.0:LuminanceAdjustmentYellow>
-    <j.0:ProcessVersion>6.7</j.0:ProcessVersion>
     <j.0:UprightCenterNormX>0.5</j.0:UprightCenterNormX>
-    <j.0:PerspectiveUpright>0</j.0:PerspectiveUpright>
-    <j.0:LuminanceAdjustmentOrange>0</j.0:LuminanceAdjustmentOrange>
-    <j.0:HueAdjustmentAqua>0</j.0:HueAdjustmentAqua>
-    <j.0:ColorNoiseReduction>0</j.0:ColorNoiseReduction>
+    <j.0:HueAdjustmentGreen>0</j.0:HueAdjustmentGreen>
+    <j.1:Description>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis</j.1:Description>
+    <dc:description>x-default</dc:description>
     <j.0:SaturationAdjustmentAqua>0</j.0:SaturationAdjustmentAqua>
-    <j.0:ToneCurvePV>0, 0</j.0:ToneCurvePV>
-    <j.0:SplitToningHighlightHue>0</j.0:SplitToningHighlightHue>
-    <j.5:DocumentID>xmp.did:26113ba3-dbf9-46d7-bd63-cc2c8db553fa</j.5:DocumentID>
-    <j.0:BlueHue>0</j.0:BlueHue>
-    <j.5:H>xmp.iid:6FC825E630206811822ADBA244B54B5B</j.5:H>
-    <j.0:VignetteAmount>0</j.0:VignetteAmount>
-    <j.0:UprightPreview>False</j.0:UprightPreview>
-    <j.1:DateCreated>2011-05-07</j.1:DateCreated>
-    <j.0:SharpenDetail>25</j.0:SharpenDetail>
-    <j.0:RedHue>0</j.0:RedHue>
-    <j.0:AutoLateralCA>0</j.0:AutoLateralCA>
-    <j.0:HasSettings>True</j.0:HasSettings>
-    <j.0:LuminanceSmoothing>0</j.0:LuminanceSmoothing>
-    <j.0:UprightCenterMode>0</j.0:UprightCenterMode>
-    <j.0:HueAdjustmentOrange>0</j.0:HueAdjustmentOrange>
-    <j.0:ParametricShadows>0</j.0:ParametricShadows>
-    <j.0:Clarity2012>0</j.0:Clarity2012>
-    <j.0:DefringeGreenAmount>0</j.0:DefringeGreenAmount>
-    <j.0:ParametricLights>0</j.0:ParametricLights>
-    <j.0:SharpenRadius>+1.0</j.0:SharpenRadius>
-    <j.5:H>derived</j.5:H>
-    <j.6:originalDocumentID>977212B02F6F436BC597032017DA02AB</j.6:originalDocumentID>
-    <j.0:Contrast2012>0</j.0:Contrast2012>
-    <j.0:HueAdjustmentBlue>0</j.0:HueAdjustmentBlue>
-    <j.0:IncrementalTint>0</j.0:IncrementalTint>
-    <j.3:CreatorTool>Adobe Photoshop Camera Raw 8.1 (Macintosh)</j.3:CreatorTool>
-    <j.5:H>2014-01-04T14:29:52Z</j.5:H>
-    <j.5:OriginalDocumentID>977212B02F6F436BC597032017DA02AB</j.5:OriginalDocumentID>
-    <j.5:InstanceID>xmp.iid:26113ba3-dbf9-46d7-bd63-cc2c8db553fa</j.5:InstanceID>
-    <j.0:LensManualDistortionAmount>0</j.0:LensManualDistortionAmount>
-    <j.0:SaturationAdjustmentYellow>0</j.0:SaturationAdjustmentYellow>
-    <j.0:LuminanceAdjustmentRed>0</j.0:LuminanceAdjustmentRed>
-    <j.0:ToneCurvePV201>255, 255</j.0:ToneCurvePV201>
-    <j.0:ConvertToGrayscale>False</j.0:ConvertToGrayscale>
-    <dc:descript>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis</dc:descript>
-    <j.5:H>/</j.5:H>
-    <j.0:ToneCurvePV>255, 255</j.0:ToneCurvePV>
-    <j.0:LuminanceAdjustmentPurple>0</j.0:LuminanceAdjustmentPurple>
-    <j.0:LensProfileSetup>LensDefaults</j.0:LensProfileSetup>
-    <j.0:HueAdjustmentPurple>0</j.0:HueAdjustmentPurple>
-    <j.0:PerspectiveVertical>0</j.0:PerspectiveVertical>
-    <j.0:ToneCurvePV2012>255, 255</j.0:ToneCurvePV2012>
-    <dc:format>image/jpeg</dc:format>
-    <j.0:BlueSaturation>0</j.0:BlueSaturation>
-    <j.0:RawFileName>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis.JPG</j.0:RawFileName>
-    <j.0:ShadowTint>0</j.0:ShadowTint>
-    <j.0:PerspectiveScale>100</j.0:PerspectiveScale>
-    <dc:ti>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis</dc:ti>
-    <j.0:LuminanceAdjustmentBlue>0</j.0:LuminanceAdjustmentBlue>
     <j.0:DefringeGreenHueHi>60</j.0:DefringeGreenHueHi>
+    <j.0:ParametricDarks>0</j.0:ParametricDarks>
+    <j.6:instanceID>xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263</j.6:instanceID>
+    <j.4:CreatorTool>Adobe Photoshop Camera Raw 8.1 (Macintosh)</j.4:CreatorTool>
+    <j.15:Model>NIKON D700</j.15:Model>
+    <j.0:SaturationAdjustmentOrange>0</j.0:SaturationAdjustmentOrange>
+    <j.0:Highlights2012>0</j.0:Highlights2012>
+    <j.18:History>/</j.18:History>
+    <j.0:SaturationAdjustmentYellow>0</j.0:SaturationAdjustmentYellow>
+    <j.0:SplitToningShadowSaturation>0</j.0:SplitToningShadowSaturation>
+    <j.18:History>xmp.iid:6FC825E630206811822ADBA244B54B5B</j.18:History>
+    <dc:description>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis</dc:description>
+    <j.18:History>Adobe Photoshop Camera Raw 8.1 (Macintosh)</j.18:History>
+    <j.0:PerspectiveAspect>0</j.0:PerspectiveAspect>
+    <j.0:Clarity2012>0</j.0:Clarity2012>
+    <j.0:HueAdjustmentPurple>0</j.0:HueAdjustmentPurple>
+    <j.18:History>saved to new location</j.18:History>
+    <j.0:SplitToningShadowHue>0</j.0:SplitToningShadowHue>
+    <j.0:RedSaturation>0</j.0:RedSaturation>
+    <j.0:Whites2012>0</j.0:Whites2012>
+    <j.0:ToneCurvePV2012Blue>255, 255</j.0:ToneCurvePV2012Blue>
+    <j.0:PerspectiveVertical>0</j.0:PerspectiveVertical>
+    <j.12:Headline>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis</j.12:Headline>
+    <j.14:Created>2011:05:07</j.14:Created>
+    <dc:format>image/jpeg</dc:format>
+    <j.0:ToneCurvePV2012>255, 255</j.0:ToneCurvePV2012>
+    <j.0:AlreadyApplied>True</j.0:AlreadyApplied>
+    <j.3:Name>Indonesia travel landscape photography, Sunrise at Borobudur Tem</j.3:Name>
+    <j.0:HueAdjustmentAqua>0</j.0:HueAdjustmentAqua>
+    <j.18:History>Adobe Photoshop Camera Raw 8.1</j.18:History>
+    <j.0:Saturation>0</j.0:Saturation>
+    <j.0:AutoLateralCA>0</j.0:AutoLateralCA>
+    <j.18:History>derived</j.18:History>
+    <j.0:PerspectiveRotate>0.0</j.0:PerspectiveRotate>
+    <j.0:BlueSaturation>0</j.0:BlueSaturation>
+    <j.0:ToneCurvePV2012Green>255, 255</j.0:ToneCurvePV2012Green>
+    <j.13:PhotographicSensitivity>200</j.13:PhotographicSensitivity>
+    <j.0:SaturationAdjustmentBlue>0</j.0:SaturationAdjustmentBlue>
+    <j.0:PerspectiveUpright>0</j.0:PerspectiveUpright>
+    <j.0:DefringePurpleHueHi>70</j.0:DefringePurpleHueHi>
+    <j.0:LensProfileEnable>0</j.0:LensProfileEnable>
+    <dc:title>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis</dc:title>
+    <j.0:LuminanceAdjustmentYellow>0</j.0:LuminanceAdjustmentYellow>
+    <j.0:SplitToningBalance>0</j.0:SplitToningBalance>
+    <j.4:MetadataDate>2014-01-04T14:35:03Z</j.4:MetadataDate>
+    <j.0:ParametricHighlights>0</j.0:ParametricHighlights>
+    <j.0:SharpenDetail>25</j.0:SharpenDetail>
+    <j.0:UprightTransformCount>0</j.0:UprightTransformCount>
+    <j.0:LuminanceAdjustmentAqua>0</j.0:LuminanceAdjustmentAqua>
+    <j.0:VignetteAmount>0</j.0:VignetteAmount>
+    <j.0:LuminanceAdjustmentRed>0</j.0:LuminanceAdjustmentRed>
+    <j.4:Label>Jawa</j.4:Label>
+    <dc:subject>Holiday</dc:subject>
+    <j.0:Contrast2012>0</j.0:Contrast2012>
+    <j.0:SaturationAdjustmentGreen>0</j.0:SaturationAdjustmentGreen>
+    <j.0:SplitToningHighlightHue>0</j.0:SplitToningHighlightHue>
+    <j.0:DefringeGreenHueLo>40</j.0:DefringeGreenHueLo>
+    <j.0:HasSettings>True</j.0:HasSettings>
     <j.0:SplitToningHighlightSaturation>0</j.0:SplitToningHighlightSaturation>
+    <j.0:PerspectiveHorizontal>0</j.0:PerspectiveHorizontal>
+    <j.0:UprightPreview>False</j.0:UprightPreview>
+    <j.0:PostCropVignetteAmount>0</j.0:PostCropVignetteAmount>
+    <j.0:UprightCenterNormY>0.5</j.0:UprightCenterNormY>
+    <j.0:GreenSaturation>0</j.0:GreenSaturation>
+    <j.0:HueAdjustmentOrange>0</j.0:HueAdjustmentOrange>
+    <j.0:ParametricLights>0</j.0:ParametricLights>
+    <j.4:CreateDate>2011-05-07T06:21:44.00</j.4:CreateDate>
+    <dc:title>x-default</dc:title>
+    <j.0:LensProfileSetup>LensDefaults</j.0:LensProfileSetup>
+    <j.18:History>xmp.iid:26113ba3-dbf9-46d7-bd63-cc2c8db553fa</j.18:History>
+    <j.0:ProcessVersion>6.7</j.0:ProcessVersion>
+    <j.0:HueAdjustmentYellow>0</j.0:HueAdjustmentYellow>
+    <j.0:LuminanceAdjustmentBlue>0</j.0:LuminanceAdjustmentBlue>
+    <j.18:InstanceID>xmp.iid:26113ba3-dbf9-46d7-bd63-cc2c8db553fa</j.18:InstanceID>
+    <j.0:GrainAmount>0</j.0:GrainAmount>
+    <j.18:History>2014-01-04T14:29:52Z</j.18:History>
+    <j.18:History>2014-01-04T14:35:03Z</j.18:History>
+    <j.5:ApproximateFocusDistance>282/100</j.5:ApproximateFocusDistance>
+    <j.0:Vibrance>0</j.0:Vibrance>
     <j.0:ToneCurveName2012>Linear</j.0:ToneCurveName2012>
+    <j.0:Shadows2012>0</j.0:Shadows2012>
+    <j.0:ParametricHighlightSplit>75</j.0:ParametricHighlightSplit>
+    <j.0:UprightFocalMode>0</j.0:UprightFocalMode>
+    <j.0:RedHue>0</j.0:RedHue>
+    <j.10:Headline>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis</j.10:Headline>
+    <j.0:LuminanceAdjustmentGreen>0</j.0:LuminanceAdjustmentGreen>
+    <j.0:IncrementalTemperature>0</j.0:IncrementalTemperature>
+    <j.0:SaturationAdjustmentRed>0</j.0:SaturationAdjustmentRed>
+    <j.0:ParametricShadowSplit>25</j.0:ParametricShadowSplit>
+    <j.0:ToneCurvePV2012Green>0, 0</j.0:ToneCurvePV2012Green>
+    <j.18:History>saved</j.18:History>
+    <j.10:Keywords rdf:parseType="Resource">
+      <j.10:_49>building</j.10:_49>
+      <j.10:_22>photography</j.10:_22>
+      <j.10:_56>above</j.10:_56>
+      <j.10:_27>misty</j.10:_27>
+      <j.10:_5>Yogyakarta</j.10:_5>
+      <j.10:_48>dawn</j.10:_48>
+      <j.10:_46>early</j.10:_46>
+      <j.10:_21>rights managed</j.10:_21>
+      <j.10:_43>green</j.10:_43>
+      <j.10:_55>ancient</j.10:_55>
+      <j.10:_52>Borobudur</j.10:_52>
+      <j.10:_15>Southeast Asia</j.10:_15>
+      <j.10:_35>image</j.10:_35>
+      <j.10:_53>Asia</j.10:_53>
+      <j.10:_30>landscape</j.10:_30>
+      <j.10:_12>temple</j.10:_12>
+      <j.10:_6>world heritage site</j.10:_6>
+      <j.10:_16>south east asia</j.10:_16>
+      <j.10:_51>Borobudur Temple</j.10:_51>
+      <j.10:_28>mist</j.10:_28>
+      <j.10:_54>architecture</j.10:_54>
+      <j.10:_10>trees</j.10:_10>
+      <j.10:_45>famous</j.10:_45>
+      <j.10:_26>morning</j.10:_26>
+      <j.10:_32>jungle</j.10:_32>
+      <j.10:_13>stupas</j.10:_13>
+      <j.10:_25>nobody</j.10:_25>
+      <j.10:_38>historic</j.10:_38>
+      <j.10:_34>Indonesia</j.10:_34>
+      <j.10:_2>Tourism</j.10:_2>
+      <j.10:_19>silhouette</j.10:_19>
+      <j.10:_42>HDR</j.10:_42>
+      <j.10:_50>buddhist</j.10:_50>
+      <j.10:_20>rm</j.10:_20>
+      <j.10:_47>dramatic</j.10:_47>
+      <j.10:_17>sky</j.10:_17>
+      <j.10:_39>hilly</j.10:_39>
+      <j.10:_9>UNESCO</j.10:_9>
+      <j.10:_1>Island</j.10:_1>
+      <j.10:_11>travel photography</j.10:_11>
+      <j.10:_3>Landscape</j.10:_3>
+      <j.10:_40>hills</j.10:_40>
+      <j.10:_18>silhouetted</j.10:_18>
+      <j.10:_33>Java</j.10:_33>
+      <j.10:_14>stock photo travel</j.10:_14>
+      <j.10:_24>palm tree</j.10:_24>
+      <j.10:_41>high dynamic range</j.10:_41>
+      <j.10:_31>landmark</j.10:_31>
+      <j.10:_37>horizontal</j.10:_37>
+      <j.10:_7>wellistravelphotography</j.10:_7>
+      <j.10:_8>Unesco world heritage site</j.10:_8>
+      <j.10:_44>forest</j.10:_44>
+      <j.10:_29>landscape photography</j.10:_29>
+      <j.10:_23>photo</j.10:_23>
+      <j.10:_36>iconic</j.10:_36>
+      <j.10:_4>Holiday</j.10:_4>
+    </j.10:Keywords>
+    <j.0:IncrementalTint>0</j.0:IncrementalTint>
+    <j.18:History>xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263</j.18:History>
+    <j.0:Version>8.1</j.0:Version>
+    <j.0:Sharpness>0</j.0:Sharpness>
+    <j.0:ColorNoiseReduction>0</j.0:ColorNoiseReduction>
+    <j.15:Software>Adobe Photoshop Camera Raw 8.1 (Macintosh)</j.15:Software>
+    <j.0:DefringePurpleHueLo>30</j.0:DefringePurpleHueLo>
+    <j.0:ParametricMidtoneSplit>50</j.0:ParametricMidtoneSplit>
+    <j.0:DefringeGreenAmount>0</j.0:DefringeGreenAmount>
+    <j.18:OriginalDocumentID>977212B02F6F436BC597032017DA02AB</j.18:OriginalDocumentID>
+    <j.0:LuminanceAdjustmentMagenta>0</j.0:LuminanceAdjustmentMagenta>
+    <j.0:LensManualDistortionAmount>0</j.0:LensManualDistortionAmount>
+    <j.18:DocumentID>xmp.did:26113ba3-dbf9-46d7-bd63-cc2c8db553fa</j.18:DocumentID>
+    <j.0:HasCrop>False</j.0:HasCrop>
+    <j.0:ParametricShadows>0</j.0:ParametricShadows>
+    <j.6:originalDocumentID>977212B02F6F436BC597032017DA02AB</j.6:originalDocumentID>
+    <j.0:ConvertToGrayscale>False</j.0:ConvertToGrayscale>
+    <j.0:ToneCurvePV2012Red>255, 255</j.0:ToneCurvePV2012Red>
+    <j.2:Unit>Inch</j.2:Unit>
+    <j.11:Created>2011:05:07</j.11:Created>
+    <dc:analyzedBy>11914741</dc:analyzedBy>
+    <j.17:Time>2014:01:04 14:35:03</j.17:Time>
+    <j.7:Abstract>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis</j.7:Abstract>
+    <j.0:SharpenEdgeMasking>0</j.0:SharpenEdgeMasking>
+    <j.0:UprightVersion>134217728</j.0:UprightVersion>
+    <j.0:LuminanceAdjustmentOrange>0</j.0:LuminanceAdjustmentOrange>
+    <j.0:WhiteBalance>As Shot</j.0:WhiteBalance>
+    <j.9:Resolution>72 dots per inch</j.9:Resolution>
+    <j.0:LuminanceSmoothing>0</j.0:LuminanceSmoothing>
+    <j.0:ToneCurvePV2012Red>0, 0</j.0:ToneCurvePV2012Red>
+    <j.0:GreenHue>0</j.0:GreenHue>
+    <j.18:History>/metadata</j.18:History>
+    <j.0:DefringePurpleAmount>0</j.0:DefringePurpleAmount>
+    <j.0:ToneCurvePV2012>0, 0</j.0:ToneCurvePV2012>
+    <j.4:ModifyDate>2014-01-04T14:35:03Z</j.4:ModifyDate>
+    <j.0:HueAdjustmentBlue>0</j.0:HueAdjustmentBlue>
+    <j.0:UprightFocalLength35mm>35</j.0:UprightFocalLength35mm>
+    <j.0:LuminanceAdjustmentPurple>0</j.0:LuminanceAdjustmentPurple>
+    <j.0:Exposure2012>0.00</j.0:Exposure2012>
+    <j.0:SaturationAdjustmentPurple>0</j.0:SaturationAdjustmentPurple>
+    <j.0:BlueHue>0</j.0:BlueHue>
+    <j.0:SaturationAdjustmentMagenta>0</j.0:SaturationAdjustmentMagenta>
+    <dc:date>2011-05-07T06:21:44</dc:date>
+    <j.0:CameraProfileDigest>B852F51E5D7D40FF5B83A689497D3451</j.0:CameraProfileDigest>
+    <j.12:DateCreated>2011-05-07</j.12:DateCreated>
+    <j.6:documentID>977212B02F6F436BC597032017DA02AB</j.6:documentID>
+    <j.0:ShadowTint>0</j.0:ShadowTint>
+    <j.19:Version>4</j.19:Version>
+    <j.0:HueAdjustmentRed>0</j.0:HueAdjustmentRed>
+    <j.0:HueAdjustmentMagenta>0</j.0:HueAdjustmentMagenta>
+    <j.0:RawFileName>Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis.JPG</j.0:RawFileName>
+    <j.0:ToneCurvePV2012Blue>0, 0</j.0:ToneCurvePV2012Blue>
+    <j.0:SharpenRadius>+1.0</j.0:SharpenRadius>
+    <j.0:CameraProfile>Embedded</j.0:CameraProfile>
+    <j.0:Blacks2012>0</j.0:Blacks2012>
+    <j.16:Created>06:21:44+0000</j.16:Created>
+    <j.8:Resolution>72 dots per inch</j.8:Resolution>
+    <j.0:PerspectiveScale>100</j.0:PerspectiveScale>
+    <j.0:UprightCenterMode>0</j.0:UprightCenterMode>
   </rdf:Description>
 </rdf:RDF>

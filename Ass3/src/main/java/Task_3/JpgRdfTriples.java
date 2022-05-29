@@ -9,6 +9,8 @@ import com.aspose.pdf.XmpValue;
 import com.drew.imaging.ImageMetadataReader;
 import com.drew.imaging.ImageProcessingException;
 import com.drew.metadata.Metadata;
+import com.drew.metadata.Tag;
+import com.drew.metadata.exif.ExifIFD0Directory;
 import com.drew.metadata.iptc.IptcDirectory;
 import com.drew.metadata.jpeg.JpegReader;
 import com.drew.metadata.xmp.XmpDirectory;
@@ -19,15 +21,12 @@ import org.apache.commons.imaging.common.ImageMetadata;
 import org.apache.commons.imaging.common.XmpImagingParameters;
 import org.apache.jena.rdf.model.*;
 
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Iterator;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.Map;
+import java.io.*;
+import java.util.*;
 import java.util.stream.Collectors;
+
+import static com.adobe.internal.xmp.XMPConst.NS_EXIF;
+import static com.adobe.internal.xmp.XMPConst.NS_IPTCCORE;
 
 public class JpgRdfTriples {
     private final static String root = "http://www.w3.org/1999/02/22-rdf-syntax-ns#";
@@ -44,8 +43,10 @@ public class JpgRdfTriples {
 
         Metadata metadata = ImageMetadataReader.readMetadata(new File("src/main/java/Assignment3Files/jpeg/" + this.fileName));
 
+        fillInMetadataIntoMapsIptcAndExif(namespaces, meta, metadata);
+
         // fill in the metadata info in the map
-        fillInMetadataIntoMaps(namespaces, meta, metadata);
+        fillInMetadataIntoMapsXmp(namespaces, meta, metadata);
 
         // create a Jena model, where to put all the values in
         Model model = ModelFactory.createDefaultModel();
@@ -55,27 +56,48 @@ public class JpgRdfTriples {
         for (var key : meta.keySet()) {
             int index = key.indexOf(":");
 
-            if(key.substring(index + 1).startsWith("subject")) {
-                String[] split = meta.get(key).split("\s+\\|\s+");
-                Property prop = model.createProperty(namespaces.get(key.substring(0, index)), "subject");
-                // key.substring(index + 1)
-                Resource node = model.createResource();
-                int i = split.length + 1;
-                for (String s : split) {
-                    // empty node
-                    Property keyw = model.createProperty(namespaces.get(key.substring(0, index)), "_" + --i);
-                    node.addProperty(keyw, s);
+            if(key.substring(0,index).equals("iptc")) {
+                if(key.substring(index + 1).startsWith("Keywords")) {
+                    String[] split = meta.get(key).split(";");
+                    Property prop = model.createProperty(NS_IPTCCORE, key.substring(index + 1));
+                    Resource node = model.createResource();
+
+                    int i = split.length + 1;
+                    for (String s : split) {
+                        // empty node
+                        Property keyw = model.createProperty(NS_IPTCCORE, "_" + --i);
+                        node.addProperty(keyw, s);
+                    }
+                    res.addProperty(prop, node);
                 }
-                res.addProperty(prop, node);
+                else {
+                    Property iptc = model.createProperty(NS_IPTCCORE, key.substring(index + 1));
+                    res.addProperty(iptc, meta.get(key));
+                }
             }
-            else if(key.substring(index + 1).contains("[") && key.substring(index + 1).contains("]")) {
-                int i = key.substring(index + 1).indexOf("[");
-                Property dc = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1, i));
-                res.addProperty(dc, meta.get(key));
+            else if(key.substring(0,index).equals("exif")) {
+                Property iptc = model.createProperty(NS_EXIF, key.substring(index + 1));
+                res.addProperty(iptc, meta.get(key));
             }
             else {
-                Property dc = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
-                res.addProperty(dc, meta.get(key));
+                if(key.substring(index + 1).contains("[") && key.substring(index + 1).contains("]")) {
+                    int i = key.indexOf("[");
+                    // find the element position
+                    int element = Integer.parseInt(key.substring(i+1, i+2));
+                    String[] result = meta.get(key).split(" \\| ");
+                    Property dc = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1, i));
+
+                    if(result.length <= element-1) {
+                        res.addProperty(dc, meta.get(key));
+                    }
+                    else {
+                        res.addProperty(dc, result[element-1]);
+                    }
+                }
+                else {
+                    Property dc = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
+                    res.addProperty(dc, meta.get(key));
+                }
             }
         }
 
@@ -90,7 +112,31 @@ public class JpgRdfTriples {
         model.write(fos, "RDF/XML");
     }
 
-    private void fillInMetadataIntoMaps(Map<String, String> namespaces, Map<String, String> meta, Metadata metadata) throws XMPException {
+    private void fillInMetadataIntoMapsIptcAndExif(Map<String, String> namespaces, Map<String, String> meta, Metadata metadata) {
+        // obtain the iptc directory
+        if(metadata.getFirstDirectoryOfType(IptcDirectory.class) != null) {
+            IptcDirectory exif = metadata.getFirstDirectoryOfType(IptcDirectory.class);
+            for (Tag t : exif.getTags()) {
+                if(t.hasTagName()){
+                    namespaces.put("iptc", "");
+                    meta.putIfAbsent("iptc:" + t.getTagName(), t.getDescription());
+                }
+            }
+        }
+
+        // obtain the exif directory
+        if(metadata.getFirstDirectoryOfType(ExifIFD0Directory.class) != null) {
+            ExifIFD0Directory exif = metadata.getFirstDirectoryOfType(ExifIFD0Directory.class);
+            for (Tag t : exif.getTags()) {
+                if(t.hasTagName()) {
+                    namespaces.put("exif", "");
+                    meta.putIfAbsent("exif:" + t.getTagName(), t.getDescription());
+                }
+            }
+        }
+    }
+
+    private void fillInMetadataIntoMapsXmp(Map<String, String> namespaces, Map<String, String> meta, Metadata metadata) throws XMPException {
         XmpDirectory xmpDirectory = metadata.getFirstDirectoryOfType(XmpDirectory.class);
         List<String> subjects = xmpDirectory.getXmpProperties().keySet().stream().collect(Collectors.toList());
         for (String key : subjects) {

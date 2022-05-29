@@ -1,21 +1,17 @@
-10cfdf06-b3ad-42cb-b4be-a6e22ccc4691
-http://purl.org/dc/elements/1.1/_1
-Water Fall
-
-10cfdf06-b3ad-42cb-b4be-a6e22ccc4691
-http://purl.org/dc/elements/1.1/_2
-Tourism
-
-10cfdf06-b3ad-42cb-b4be-a6e22ccc4691
-http://purl.org/dc/elements/1.1/_3
-Landscape
-
-10cfdf06-b3ad-42cb-b4be-a6e22ccc4691
-http://purl.org/dc/elements/1.1/_4
+3ace6e1d-c30c-4459-8ac4-d765a4b74792
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 Island
 
-10cfdf06-b3ad-42cb-b4be-a6e22ccc4691
-http://purl.org/dc/elements/1.1/_5
+3ace6e1d-c30c-4459-8ac4-d765a4b74792
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Tourism
+
+3ace6e1d-c30c-4459-8ac4-d765a4b74792
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
+Landscape
+
+3ace6e1d-c30c-4459-8ac4-d765a4b74792
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
 Holiday
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
@@ -24,9 +20,17 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
 http://purl.org/dc/elements/1.1/subject
-10cfdf06-b3ad-42cb-b4be-a6e22ccc4691
+Holiday
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
 http://ns.adobe.com/xap/1.0/Label
 Jawa
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
+http://ns.adobe.com/exif/1.0/Orientation
+Top, left side (Horizontal / normal)
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+3ace6e1d-c30c-4459-8ac4-d765a4b74792
 

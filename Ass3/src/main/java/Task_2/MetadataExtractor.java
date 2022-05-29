@@ -6,9 +6,12 @@ import com.aspose.pdf.Document;
 import com.aspose.pdf.internal.ms.System.Collections.Generic.lk;
 import com.drew.imaging.ImageMetadataReader;
 import com.drew.imaging.ImageProcessingException;
+import com.drew.metadata.Directory;
 import com.drew.metadata.Metadata;
 import com.drew.metadata.Tag;
+import com.drew.metadata.exif.ExifIFD0Directory;
 import com.drew.metadata.exif.ExifImageDirectory;
+import com.drew.metadata.iptc.IptcDescriptor;
 import com.drew.metadata.iptc.IptcDirectory;
 import com.drew.metadata.xmp.XmpDirectory;
 import com.lowagie.text.pdf.PdfReader;
@@ -16,7 +19,9 @@ import com.lowagie.text.pdf.PdfReader;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Iterator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class MetadataExtractor {
     public static void main(String[] args) throws IOException, ImageProcessingException {
@@ -74,26 +79,26 @@ public class MetadataExtractor {
         StringBuilder result = new StringBuilder();
         result.append(jpg.getFileName() + "\n");
 
-        // obtain the Exif directory
-        XmpDirectory xmp = metadata.getFirstDirectoryOfType(XmpDirectory.class);
-        for (Tag t : xmp.getTags()) {
-            result.append(t.getTagName() + ": " + t.getDescription());
-            result.append("\n");
+        // obtain the xmp directory
+        XmpDirectory xmpDirectory = metadata.getFirstDirectoryOfType(XmpDirectory.class);
+        List<String> subjects = xmpDirectory.getXmpProperties().keySet().stream().collect(Collectors.toList());
+        for (String key : subjects) {
+            result.append(key + ": " + xmpDirectory.getXmpProperties().get(key) + "\n");
         }
 
         // obtain the iptc directory
-        IptcDirectory iptc = metadata.getFirstDirectoryOfType(IptcDirectory.class);
-        for (Tag t : iptc.getTags()) {
-            result.append(t.getTagName() + ": " + t.getDescription());
-            result.append("\n");
+        if(metadata.getFirstDirectoryOfType(IptcDirectory.class) != null) {
+            IptcDirectory exif = metadata.getFirstDirectoryOfType(IptcDirectory.class);
+            for (Tag t : exif.getTags()) {
+                result.append("iptc:" + t.getTagName() + ": " + t.getDescription() + "\n");
+            }
         }
 
         // obtain the exif directory
-        if(metadata.getFirstDirectoryOfType(ExifImageDirectory.class) != null) {
-            ExifImageDirectory exif = metadata.getFirstDirectoryOfType(ExifImageDirectory.class);
+        if(metadata.getFirstDirectoryOfType(ExifIFD0Directory.class) != null) {
+            ExifIFD0Directory exif = metadata.getFirstDirectoryOfType(ExifIFD0Directory.class);
             for (Tag t : exif.getTags()) {
-                result.append(t.getTagName() + ": " + t.getDescription());
-                result.append("\n");
+                result.append("exif:" + t.getTagName() + ": " + t.getDescription() + "\n");
             }
         }
 

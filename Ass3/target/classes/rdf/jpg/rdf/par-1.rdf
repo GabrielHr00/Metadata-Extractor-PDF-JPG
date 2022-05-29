@@ -1,16 +1,20 @@
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:j.0="http://ns.adobe.com/xap/1.0/">
+    xmlns:j.1="http://ns.adobe.com/xap/1.0/"
+    xmlns:j.2="http://ns.adobe.com/exif/1.0/">
   <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#par-1.jpg">
     <dc:analyzedBy>11914741</dc:analyzedBy>
-    <dc:subject rdf:parseType="Resource">
-      <dc:_1>Tourism</dc:_1>
-      <dc:_2>Landscape</dc:_2>
-      <dc:_3>Holiday</dc:_3>
-      <dc:_4>City</dc:_4>
-      <dc:_5>Capital</dc:_5>
-    </dc:subject>
-    <j.0:Label>Paris</j.0:Label>
+    <dc:subject>Capital | City | Holiday | Landscape | Tourism</dc:subject>
+    <j.1:Label>Paris</j.1:Label>
+    <j.2:Orientation>Top, left side (Horizontal / normal)</j.2:Orientation>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Capital</j.0:_1>
+      <j.0:_2>Tourism</j.0:_2>
+      <j.0:_3>City</j.0:_3>
+      <j.0:_4>Landscape</j.0:_4>
+      <j.0:_5>Holiday</j.0:_5>
+    </j.0:Keywords>
   </rdf:Description>
 </rdf:RDF>

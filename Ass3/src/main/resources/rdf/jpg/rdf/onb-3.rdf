@@ -1,14 +1,18 @@
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:j.0="http://ns.adobe.com/xap/1.0/">
+    xmlns:j.1="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Special "
+    xmlns:j.2="http://ns.adobe.com/xap/1.0/">
   <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-3.jpg">
     <dc:analyzedBy>11914741</dc:analyzedBy>
-    <dc:subject rdf:parseType="Resource">
-      <dc:_1>Tourism</dc:_1>
-      <dc:_2>Library</dc:_2>
-      <dc:_3>Education</dc:_3>
-    </dc:subject>
-    <j.0:Label>Austrian National Library</j.0:Label>
+    <dc:subject>Education</dc:subject>
+    <j.2:Label>Austrian National Library</j.2:Label>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Education</j.0:_1>
+      <j.0:_2>Tourism</j.0:_2>
+      <j.0:_3>Library</j.0:_3>
+    </j.0:Keywords>
+    <j.1:Instructions>FBMD2300098703000011150000ae2000003c29000079730000a48a000039ab00006bc2000055d9000092030100</j.1:Instructions>
   </rdf:Description>
 </rdf:RDF>

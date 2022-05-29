@@ -4,29 +4,33 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
 http://purl.org/dc/elements/1.1/subject
-45341a87-71aa-44f2-8bbf-85472dbebe25
+Holiday
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
 http://ns.adobe.com/xap/1.0/Label
 Jawa
 
-45341a87-71aa-44f2-8bbf-85472dbebe25
-http://purl.org/dc/elements/1.1/_1
-Water Fall
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
+http://ns.adobe.com/exif/1.0/Orientation
+Top, left side (Horizontal / normal)
 
-45341a87-71aa-44f2-8bbf-85472dbebe25
-http://purl.org/dc/elements/1.1/_2
-Tourism
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+7d941242-4c0e-43b6-bee8-7c397acb0f33
 
-45341a87-71aa-44f2-8bbf-85472dbebe25
-http://purl.org/dc/elements/1.1/_3
-Landscape
-
-45341a87-71aa-44f2-8bbf-85472dbebe25
-http://purl.org/dc/elements/1.1/_4
+7d941242-4c0e-43b6-bee8-7c397acb0f33
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 Island
 
-45341a87-71aa-44f2-8bbf-85472dbebe25
-http://purl.org/dc/elements/1.1/_5
+7d941242-4c0e-43b6-bee8-7c397acb0f33
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Tourism
+
+7d941242-4c0e-43b6-bee8-7c397acb0f33
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
+Landscape
+
+7d941242-4c0e-43b6-bee8-7c397acb0f33
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
 Holiday
 

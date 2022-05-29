@@ -4,21 +4,25 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg
 http://purl.org/dc/elements/1.1/subject
-6408df3d-542b-4c92-8f75-7c2c97492668
+Animals | Mammals | Species
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg
 http://ns.adobe.com/xap/1.0/Label
 Mammals
 
-6408df3d-542b-4c92-8f75-7c2c97492668
-http://purl.org/dc/elements/1.1/_1
+http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+edf2b569-eac7-4748-a2ce-5dee16099218
+
+edf2b569-eac7-4748-a2ce-5dee16099218
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 Species
 
-6408df3d-542b-4c92-8f75-7c2c97492668
-http://purl.org/dc/elements/1.1/_2
+edf2b569-eac7-4748-a2ce-5dee16099218
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Mammals
 
-6408df3d-542b-4c92-8f75-7c2c97492668
-http://purl.org/dc/elements/1.1/_3
+edf2b569-eac7-4748-a2ce-5dee16099218
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
 Animals
 

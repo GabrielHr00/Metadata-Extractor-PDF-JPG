@@ -6,11 +6,6 @@
     xmlns:j.2="http://ns.adobe.com/xap/1.0/mm/">
   <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf">
     <j.1:ModifyDate>2019-05-21T12:56:10+02:00</j.1:ModifyDate>
-    <dc:creator>
-      <rdf:Seq>
-        <dc:li>Belal Abu Naim</dc:li>
-      </rdf:Seq>
-    </dc:creator>
     <j.0:Producer>Adobe PDF Library 15.0</j.0:Producer>
     <dc:analyzedBy>11914741</dc:analyzedBy>
     <dc:subject>
@@ -20,6 +15,16 @@
     </dc:subject>
     <j.1:CreateDate>2019-05-21T11:20:21+02:00</j.1:CreateDate>
     <dc:format>application/pdf</dc:format>
+    <dc:creator>
+      <rdf:Seq>
+        <dc:li>Belal Abu Naim</dc:li>
+      </rdf:Seq>
+    </dc:creator>
+    <dc:title>
+      <rdf:Alt>
+        <dc:li>Java</dc:li>
+      </rdf:Alt>
+    </dc:title>
     <j.0:Keywords rdf:parseType="Resource">
       <j.0:_1>Tourism</j.0:_1>
       <j.0:_2>Island</j.0:_2>
@@ -29,10 +34,5 @@
     <j.2:DocumentID>uuid:f3b52374-d9f8-408e-a2c9-09beada8786a</j.2:DocumentID>
     <j.1:CreatorTool>Acrobat PDFMaker 17 for Word</j.1:CreatorTool>
     <j.1:Label>Islands</j.1:Label>
-    <dc:title>
-      <rdf:Alt>
-        <dc:li>Java</dc:li>
-      </rdf:Alt>
-    </dc:title>
   </rdf:Description>
 </rdf:RDF>

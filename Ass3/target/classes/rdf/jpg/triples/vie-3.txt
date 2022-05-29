@@ -1,26 +1,22 @@
-278caee1-e33f-49e0-8742-f8f7832595a8
-http://purl.org/dc/elements/1.1/_1
-Unitednations
+2c8c6d87-29fb-42e9-a7a3-2fd3b28ce71f
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
+Capital
 
-278caee1-e33f-49e0-8742-f8f7832595a8
-http://purl.org/dc/elements/1.1/_2
+2c8c6d87-29fb-42e9-a7a3-2fd3b28ce71f
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Tourism
 
-278caee1-e33f-49e0-8742-f8f7832595a8
-http://purl.org/dc/elements/1.1/_3
-Landscape
-
-278caee1-e33f-49e0-8742-f8f7832595a8
-http://purl.org/dc/elements/1.1/_4
-Holiday
-
-278caee1-e33f-49e0-8742-f8f7832595a8
-http://purl.org/dc/elements/1.1/_5
+2c8c6d87-29fb-42e9-a7a3-2fd3b28ce71f
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
 City
 
-278caee1-e33f-49e0-8742-f8f7832595a8
-http://purl.org/dc/elements/1.1/_6
-Capital
+2c8c6d87-29fb-42e9-a7a3-2fd3b28ce71f
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
+Landscape
+
+2c8c6d87-29fb-42e9-a7a3-2fd3b28ce71f
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
+Holiday
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-3.jpg
 http://purl.org/dc/elements/1.1/analyzedBy
@@ -28,9 +24,13 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-3.jpg
 http://purl.org/dc/elements/1.1/subject
-278caee1-e33f-49e0-8742-f8f7832595a8
+Capital | City | Holiday | Landscape | Tourism | Unitednations
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-3.jpg
 http://ns.adobe.com/xap/1.0/Label
 Vienna
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-3.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+2c8c6d87-29fb-42e9-a7a3-2fd3b28ce71f
 
