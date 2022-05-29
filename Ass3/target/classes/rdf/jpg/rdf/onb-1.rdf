@@ -1,0 +1,44 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:j.0="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:j.1="http://ns.adobe.com/xap/1.0/"
+    xmlns:j.2="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:j.3="http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:">
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-1.jpg">
+    <dc:format>image/jpeg</dc:format>
+    <dc:analyzedBy>11914741</dc:analyzedBy>
+    <j.0:ColorMode>3</j.0:ColorMode>
+    <j.3:instanceID>xmp.iid:EEB3D98DEA52E4118819A650C11C4592</j.3:instanceID>
+    <dc:rig>KLAUS.PICHLER</dc:rig>
+    <j.0:LegacyIPTCDigest>BF9220863099C04E6AB05B29F4BD8329</j.0:LegacyIPTCDigest>
+    <j.1:MetadataDate>2014-12-09T16:54:12+01:00</j.1:MetadataDate>
+    <j.2:H>Adobe Photoshop CC (Windows)</j.2:H>
+    <j.1:Rating>5</j.1:Rating>
+    <dc:crea>KLAUS.PICHLER,www.kpic.at</dc:crea>
+    <j.1:CreateDate>2014-09-03T15:23:39</j.1:CreateDate>
+    <dc:subject rdf:parseType="Resource">
+      <dc:_1>Vienna</dc:_1>
+      <dc:_2>Tourism</dc:_2>
+      <dc:_3>Library</dc:_3>
+      <dc:_4>Education</dc:_4>
+    </dc:subject>
+    <j.2:H>xmp.iid:00b56a12-d51e-b447-85f7-8b4306e0beac</j.2:H>
+    <j.2:OriginalDocumentID>4F8F45EBDFFDE1EB09609958C54FFF9C</j.2:OriginalDocumentID>
+    <j.3:documentID>xmp.did:61ac44d8-42ab-5b4b-8937-98ec61c88697</j.3:documentID>
+    <j.2:InstanceID>xmp.iid:b39274c6-e6dd-fd44-9996-b53a627b1b8f</j.2:InstanceID>
+    <j.2:H>saved</j.2:H>
+    <j.2:H>xmp.iid:b39274c6-e6dd-fd44-9996-b53a627b1b8f</j.2:H>
+    <j.2:H>2014-12-09T16:54:03+01:00</j.2:H>
+    <j.3:originalDocumentID>4F8F45EBDFFDE1EB09609958C54FFF9C</j.3:originalDocumentID>
+    <j.2:H>2014-12-09T16:54:12+01:00</j.2:H>
+    <j.1:ModifyDate>2014-12-09T16:54:12+01:00</j.1:ModifyDate>
+    <j.2:DocumentID>xmp.did:25d2989d-83a6-a042-81b7-437922a74ad0</j.2:DocumentID>
+    <j.0:ICCProfile>sRGB IEC61966-2.1</j.0:ICCProfile>
+    <j.1:CreatorTool>Adobe Photoshop Lightroom 5.6 (Windows)</j.1:CreatorTool>
+    <j.2:H>/</j.2:H>
+    <dc:rig>x-default</dc:rig>
+    <j.1:Label>Austrian National Library</j.1:Label>
+    <j.0:DateCreated>2014-09-03T15:23:39.007</j.0:DateCreated>
+  </rdf:Description>
+</rdf:RDF>

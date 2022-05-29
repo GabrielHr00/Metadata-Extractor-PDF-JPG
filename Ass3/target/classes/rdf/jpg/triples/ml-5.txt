@@ -1,0 +1,28 @@
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://purl.org/dc/elements/1.1/analyzedBy
+11914741
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/xap/1.0/mm/InstanceID
+uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://purl.org/dc/elements/1.1/subject
+700079b7-adf5-4ec0-99f2-c0e356d04bea
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/xap/1.0/Label
+Marine Life
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/xap/1.0/CreatorTool
+Windows Photo Editor 10.0.10011.16384
+
+700079b7-adf5-4ec0-99f2-c0e356d04bea
+http://purl.org/dc/elements/1.1/_1
+Species
+
+700079b7-adf5-4ec0-99f2-c0e356d04bea
+http://purl.org/dc/elements/1.1/_2
+Marine Life
+

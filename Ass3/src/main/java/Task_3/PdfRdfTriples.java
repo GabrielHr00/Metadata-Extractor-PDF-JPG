@@ -40,9 +40,9 @@ public class PdfRdfTriples {
                 String[] split = metadata.get(key).toString().split(";\s+");
                 Property prop = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
                 Resource node = model.createResource();
-                int i = 0;
+                int i = split.length + 1;
                 for (String s : split) {
-                    Property keyw = model.createProperty(namespaces.get(key.substring(0, index)), "_" + ++i);
+                    Property keyw = model.createProperty(namespaces.get(key.substring(0, index)), "_" + --i);
                     node.addProperty(keyw, s);
                 }
                 res.addProperty(prop, node);
@@ -104,7 +104,7 @@ public class PdfRdfTriples {
             result.append(next.getPredicate() + "\n");
             result.append(next.getObject() + "\n\n");
         }
-        FileWriter jpegWriter = new FileWriter("src/main/resources/rdf/pdf/txt/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
+        FileWriter jpegWriter = new FileWriter("src/main/resources/rdf/pdf/triples/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
         jpegWriter.write(result.toString());
         jpegWriter.close();
     }
