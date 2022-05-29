@@ -333,16 +333,78 @@
                 "As Shot" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/Whites2012>
                 "0" ;
+        <http://ns.adobe.com/exif/1.0/ApertureValue>
+                "f/8.0" ;
+        <http://ns.adobe.com/exif/1.0/CFAPattern>
+                "[Red,Green][Green,Blue]" ;
+        <http://ns.adobe.com/exif/1.0/Contrast>
+                "None" ;
+        <http://ns.adobe.com/exif/1.0/CustomRendered>
+                "Normal process" ;
         <http://ns.adobe.com/exif/1.0/Date/Time>
                 "2014:01:04 14:35:03" ;
+        <http://ns.adobe.com/exif/1.0/Date/TimeDigitized>
+                "2011:05:07 06:21:44" ;
+        <http://ns.adobe.com/exif/1.0/DigitalZoomRatio>
+                "1" ;
+        <http://ns.adobe.com/exif/1.0/ExifVersion>
+                "2.30" ;
+        <http://ns.adobe.com/exif/1.0/ExposureBiasValue>
+                "0 EV" ;
+        <http://ns.adobe.com/exif/1.0/ExposureMode>
+                "Auto exposure" ;
+        <http://ns.adobe.com/exif/1.0/ExposureProgram>
+                "Aperture priority" ;
+        <http://ns.adobe.com/exif/1.0/ExposureTime>
+                "1/80 sec" ;
+        <http://ns.adobe.com/exif/1.0/F-Number>
+                "f/8.0" ;
+        <http://ns.adobe.com/exif/1.0/FileSource>
+                "Digital Still Camera (DSC)" ;
+        <http://ns.adobe.com/exif/1.0/Flash>
+                "Flash did not fire" ;
+        <http://ns.adobe.com/exif/1.0/FocalLength>
+                "34 mm" ;
+        <http://ns.adobe.com/exif/1.0/FocalLength35>
+                "34 mm" ;
+        <http://ns.adobe.com/exif/1.0/GainControl>
+                "None" ;
+        <http://ns.adobe.com/exif/1.0/ISOSpeedRatings>
+                "200" ;
         <http://ns.adobe.com/exif/1.0/ImageDescription>
                 "Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis" ;
+        <http://ns.adobe.com/exif/1.0/MaxApertureValue>
+                "f/2.8" ;
+        <http://ns.adobe.com/exif/1.0/MeteringMode>
+                "Multi-segment" ;
         <http://ns.adobe.com/exif/1.0/Model>
                 "NIKON D700" ;
         <http://ns.adobe.com/exif/1.0/ResolutionUnit>
                 "Inch" ;
+        <http://ns.adobe.com/exif/1.0/Saturation>
+                "None" ;
+        <http://ns.adobe.com/exif/1.0/SceneCaptureType>
+                "Standard" ;
+        <http://ns.adobe.com/exif/1.0/SceneType>
+                "Directly photographed image" ;
+        <http://ns.adobe.com/exif/1.0/SensingMethod>
+                "One-chip color area sensor" ;
+        <http://ns.adobe.com/exif/1.0/Sharpness>
+                "None" ;
+        <http://ns.adobe.com/exif/1.0/ShutterSpeedValue>
+                "1/79 sec" ;
         <http://ns.adobe.com/exif/1.0/Software>
                 "Adobe Photoshop Camera Raw 8.1 (Macintosh)" ;
+        <http://ns.adobe.com/exif/1.0/Sub-SecTimeDigitized>
+                "00" ;
+        <http://ns.adobe.com/exif/1.0/SubjectDistance>
+                "2.82 metres" ;
+        <http://ns.adobe.com/exif/1.0/SubjectDistanceRange>
+                "Unknown" ;
+        <http://ns.adobe.com/exif/1.0/WhiteBalance>
+                "Unknown" ;
+        <http://ns.adobe.com/exif/1.0/WhiteBalanceMode>
+                "Auto white balance" ;
         <http://ns.adobe.com/exif/1.0/XResolution>
                 "72 dots per inch" ;
         <http://ns.adobe.com/exif/1.0/YResolution>

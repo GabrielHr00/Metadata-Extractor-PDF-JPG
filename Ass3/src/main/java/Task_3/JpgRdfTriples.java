@@ -1,24 +1,16 @@
 package Task_3;
 
 import com.adobe.internal.xmp.*;
-import com.adobe.internal.xmp.impl.xpath.XMPPath;
-import com.adobe.internal.xmp.properties.XMPAliasInfo;
-import com.adobe.internal.xmp.properties.XMPProperty;
 import com.adobe.internal.xmp.properties.XMPPropertyInfo;
-import com.aspose.pdf.XmpValue;
 import com.drew.imaging.ImageMetadataReader;
 import com.drew.imaging.ImageProcessingException;
 import com.drew.metadata.Metadata;
 import com.drew.metadata.Tag;
 import com.drew.metadata.exif.ExifIFD0Directory;
+import com.drew.metadata.exif.ExifImageDirectory;
+import com.drew.metadata.exif.ExifSubIFDDirectory;
 import com.drew.metadata.iptc.IptcDirectory;
-import com.drew.metadata.jpeg.JpegReader;
 import com.drew.metadata.xmp.XmpDirectory;
-import com.lowagie.text.Document;
-import org.apache.commons.imaging.ImageReadException;
-import org.apache.commons.imaging.Imaging;
-import org.apache.commons.imaging.common.ImageMetadata;
-import org.apache.commons.imaging.common.XmpImagingParameters;
 import org.apache.jena.rdf.model.*;
 
 import java.io.*;
@@ -139,6 +131,28 @@ public class JpgRdfTriples {
                 }
             }
         }
+
+        if(metadata.getFirstDirectoryOfType(ExifSubIFDDirectory.class) != null) {
+            ExifSubIFDDirectory exif = metadata.getFirstDirectoryOfType(ExifSubIFDDirectory.class);
+            for (Tag t : exif.getTags()) {
+                if(t.hasTagName()) {
+                    namespaces.put("exif", "");
+                    String tagN = t.getTagName().replaceAll(" ", "");
+                    meta.putIfAbsent("exif:" + tagN, t.getDescription());
+                }
+            }
+        }
+
+        if(metadata.getFirstDirectoryOfType(ExifImageDirectory.class) != null) {
+            ExifImageDirectory exif = metadata.getFirstDirectoryOfType(ExifImageDirectory.class);
+            for (Tag t : exif.getTags()) {
+                if(t.hasTagName()) {
+                    namespaces.put("exif", "");
+                    String tagN = t.getTagName().replaceAll(" ", "");
+                    meta.putIfAbsent("exif:" + tagN, t.getDescription());
+                }
+            }
+        }
     }
 
     private void fillInMetadataIntoMapsXmp(Map<String, String> namespaces, Map<String, String> meta, Metadata metadata) throws XMPException {
@@ -166,9 +180,9 @@ public class JpgRdfTriples {
         StringBuilder result = new StringBuilder();
         while(stmtIterator.hasNext()) {
             Statement next = stmtIterator.next();
-            result.append(next.getSubject() + "\n");
-            result.append(next.getPredicate() + "\n");
-            result.append(next.getObject() + "\n\n");
+            result.append(next.getSubject() + "    ");
+            result.append(next.getPredicate() + "    ");
+            result.append(next.getObject() + "  .\n");
         }
         FileWriter jpegWriter = new FileWriter("src/main/resources/rdf/jpg/triples/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
         jpegWriter.write(result.toString());

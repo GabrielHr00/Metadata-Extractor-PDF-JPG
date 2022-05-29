@@ -1,24 +1,6 @@
-db04580a-b06d-45eb-95b4-8239264ee8f4
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-Marine Life
-
-db04580a-b06d-45eb-95b4-8239264ee8f4
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
-Species
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-3.jpg
-http://purl.org/dc/elements/1.1/analyzedBy
-11914741
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-3.jpg
-http://purl.org/dc/elements/1.1/subject
-Marine Life
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-3.jpg
-http://ns.adobe.com/xap/1.0/Label
-Marine Life
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-3.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-db04580a-b06d-45eb-95b4-8239264ee8f4
-
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-3.jpg    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-3.jpg    http://purl.org/dc/elements/1.1/subject    Marine Life  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-3.jpg    http://ns.adobe.com/xap/1.0/Label    Marine Life  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-3.jpg    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    e67ab758-89c2-4b1d-8a21-d3a290cd02a9  .
+e67ab758-89c2-4b1d-8a21-d3a290cd02a9    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Marine Life  .
+e67ab758-89c2-4b1d-8a21-d3a290cd02a9    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Species  .

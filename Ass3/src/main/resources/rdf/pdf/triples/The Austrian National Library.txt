@@ -1,88 +1,22 @@
-bdf2505e-6c33-479c-acc7-5fcfad6067e7
-http://purl.org/dc/elements/1.1/li
-Library
-
-bdf2505e-6c33-479c-acc7-5fcfad6067e7
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag
-
-38c57f17-df09-4138-b435-4c7eac9fb165
-http://purl.org/dc/elements/1.1/li
-Austrian National Library
-
-38c57f17-df09-4138-b435-4c7eac9fb165
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt
-
-4f2c4f3c-bc4c-4e82-a7fb-c6516e767ba5
-http://ns.adobe.com/pdf/1.3/_1
-Tourism
-
-4f2c4f3c-bc4c-4e82-a7fb-c6516e767ba5
-http://ns.adobe.com/pdf/1.3/_2
-Vienna
-
-4f2c4f3c-bc4c-4e82-a7fb-c6516e767ba5
-http://ns.adobe.com/pdf/1.3/_3
-Library
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://purl.org/dc/elements/1.1/format
-application/pdf
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://purl.org/dc/elements/1.1/analyzedBy
-11914741
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://ns.adobe.com/xap/1.0/CreateDate
-2019-05-21T11:32:26+02:00
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://ns.adobe.com/pdf/1.3/Keywords
-4f2c4f3c-bc4c-4e82-a7fb-c6516e767ba5
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://ns.adobe.com/xap/1.0/CreatorTool
-Acrobat PDFMaker 17 for Word
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://ns.adobe.com/xap/1.0/MetadataDate
-2019-05-21T13:02:32+02:00
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://ns.adobe.com/xap/1.0/ModifyDate
-2019-05-21T13:02:32+02:00
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://purl.org/dc/elements/1.1/creator
-9fc803c1-cc5b-4750-80aa-8656a874e66e
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://purl.org/dc/elements/1.1/title
-38c57f17-df09-4138-b435-4c7eac9fb165
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://ns.adobe.com/xap/1.0/mm/DocumentID
-uuid:a4345961-a208-4bf7-80ed-e601282316c2
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://purl.org/dc/elements/1.1/subject
-bdf2505e-6c33-479c-acc7-5fcfad6067e7
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://ns.adobe.com/pdf/1.3/Producer
-Adobe PDF Library 15.0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf
-http://ns.adobe.com/xap/1.0/mm/InstanceID
-uuid:c391cc83-da2f-4970-8e33-6928d17a96c2
-
-9fc803c1-cc5b-4750-80aa-8656a874e66e
-http://purl.org/dc/elements/1.1/li
-Belal Abu Naim
-
-9fc803c1-cc5b-4750-80aa-8656a874e66e
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq
-
+6ccc56f1-4d84-41b3-b276-88ccb21ca047    http://ns.adobe.com/pdf/1.3/_1    Tourism  .
+6ccc56f1-4d84-41b3-b276-88ccb21ca047    http://ns.adobe.com/pdf/1.3/_2    Vienna  .
+6ccc56f1-4d84-41b3-b276-88ccb21ca047    http://ns.adobe.com/pdf/1.3/_3    Library  .
+c16a2236-b67e-4632-99bc-e5a2fe521a5b    http://purl.org/dc/elements/1.1/li    Austrian National Library  .
+c16a2236-b67e-4632-99bc-e5a2fe521a5b    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt  .
+b973881a-03ae-495b-b68c-adff1f947188    http://purl.org/dc/elements/1.1/li    Library  .
+b973881a-03ae-495b-b68c-adff1f947188    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://purl.org/dc/elements/1.1/format    application/pdf  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://ns.adobe.com/xap/1.0/CreateDate    2019-05-21T11:32:26+02:00  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://purl.org/dc/elements/1.1/title    c16a2236-b67e-4632-99bc-e5a2fe521a5b  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://ns.adobe.com/xap/1.0/CreatorTool    Acrobat PDFMaker 17 for Word  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://ns.adobe.com/xap/1.0/MetadataDate    2019-05-21T13:02:32+02:00  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://ns.adobe.com/xap/1.0/ModifyDate    2019-05-21T13:02:32+02:00  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://ns.adobe.com/pdf/1.3/Keywords    6ccc56f1-4d84-41b3-b276-88ccb21ca047  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://ns.adobe.com/xap/1.0/mm/DocumentID    uuid:a4345961-a208-4bf7-80ed-e601282316c2  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://purl.org/dc/elements/1.1/subject    b973881a-03ae-495b-b68c-adff1f947188  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://purl.org/dc/elements/1.1/creator    a7133e6f-e5b5-454d-bbc1-87bae874f0d1  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://ns.adobe.com/pdf/1.3/Producer    Adobe PDF Library 15.0  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#The_Austrian_National_Library.pdf    http://ns.adobe.com/xap/1.0/mm/InstanceID    uuid:c391cc83-da2f-4970-8e33-6928d17a96c2  .
+a7133e6f-e5b5-454d-bbc1-87bae874f0d1    http://purl.org/dc/elements/1.1/li    Belal Abu Naim  .
+a7133e6f-e5b5-454d-bbc1-87bae874f0d1    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq  .

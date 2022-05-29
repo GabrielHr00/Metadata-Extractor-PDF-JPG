@@ -1,28 +1,7 @@
-http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg
-http://purl.org/dc/elements/1.1/analyzedBy
-11914741
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg
-http://purl.org/dc/elements/1.1/subject
-Library
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg
-http://ns.adobe.com/xap/1.0/Label
-Library
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-f91f780d-ed49-40a6-88c8-4a9d66a2c5fd
-
-f91f780d-ed49-40a6-88c8-4a9d66a2c5fd
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-University
-
-f91f780d-ed49-40a6-88c8-4a9d66a2c5fd
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
-Education
-
-f91f780d-ed49-40a6-88c8-4a9d66a2c5fd
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
-Library
-
+http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg    http://purl.org/dc/elements/1.1/subject    Library  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg    http://ns.adobe.com/xap/1.0/Label    Library  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    b0579a05-c1c9-4122-b33e-f5831ddf5dd6  .
+b0579a05-c1c9-4122-b33e-f5831ddf5dd6    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    University  .
+b0579a05-c1c9-4122-b33e-f5831ddf5dd6    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Education  .
+b0579a05-c1c9-4122-b33e-f5831ddf5dd6    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3    Library  .
