@@ -52,7 +52,7 @@ public class JpgRdfTriples {
         Model model = ModelFactory.createDefaultModel();
 
         // fill in Properties into the JENA model
-        Resource res = model.createResource(root + this.fileName);
+        Resource res = model.createResource(root + this.fileName.replaceAll(" ", "_"));
         for (var key : meta.keySet()) {
             int index = key.indexOf(":");
 
@@ -108,8 +108,8 @@ public class JpgRdfTriples {
         writeRDFTriplesIntoTXT(model);
 
         // write to the appropriate file
-        FileOutputStream fos = new FileOutputStream(new File("src/main/resources/rdf/jpg/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "rdf"));
-        model.write(fos, "RDF/XML");
+        FileOutputStream fos = new FileOutputStream(new File("src/main/resources/rdf/jpg/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "ttl"));
+        model.write(fos, "TURTLE");
     }
 
     private void fillInMetadataIntoMapsIptcAndExif(Map<String, String> namespaces, Map<String, String> meta, Metadata metadata) {
@@ -119,7 +119,9 @@ public class JpgRdfTriples {
             for (Tag t : exif.getTags()) {
                 if(t.hasTagName()){
                     namespaces.put("iptc", "");
-                    meta.putIfAbsent("iptc:" + t.getTagName(), t.getDescription());
+                    String tagN = t.getTagName().replaceAll(" ", "_");
+                    String tagD = t.getDescription().replaceAll(" ", "_");
+                    meta.putIfAbsent("iptc:" + tagN, tagD);
                 }
             }
         }
@@ -130,7 +132,9 @@ public class JpgRdfTriples {
             for (Tag t : exif.getTags()) {
                 if(t.hasTagName()) {
                     namespaces.put("exif", "");
-                    meta.putIfAbsent("exif:" + t.getTagName(), t.getDescription());
+                    String tagN = t.getTagName().replaceAll(" ", "_");
+                    String tagD = t.getDescription().replaceAll(" ", "_");
+                    meta.putIfAbsent("exif:" + tagN, tagD);
                 }
             }
         }
@@ -140,7 +144,8 @@ public class JpgRdfTriples {
         XmpDirectory xmpDirectory = metadata.getFirstDirectoryOfType(XmpDirectory.class);
         List<String> subjects = xmpDirectory.getXmpProperties().keySet().stream().collect(Collectors.toList());
         for (String key : subjects) {
-            meta.putIfAbsent(key, xmpDirectory.getXmpProperties().get(key));
+            String result = xmpDirectory.getXmpProperties().get(key).replaceAll(" ", "_");
+            meta.putIfAbsent(key, result);
         }
 
         XMPMeta xmpMeta = xmpDirectory.getXMPMeta();

@@ -1,10 +1,30 @@
+cab93233-6fa2-4123-b387-680658185cb3
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
+Capital
+
+cab93233-6fa2-4123-b387-680658185cb3
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Tourism
+
+cab93233-6fa2-4123-b387-680658185cb3
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
+City
+
+cab93233-6fa2-4123-b387-680658185cb3
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
+Landscape
+
+cab93233-6fa2-4123-b387-680658185cb3
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
+Holiday
+
 http://www.w3.org/1999/02/22-rdf-syntax-ns#par-1.jpg
 http://purl.org/dc/elements/1.1/analyzedBy
 11914741
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#par-1.jpg
 http://purl.org/dc/elements/1.1/subject
-Capital | City | Holiday | Landscape | Tourism
+Capital_|_City_|_Holiday_|_Landscape_|_Tourism
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#par-1.jpg
 http://ns.adobe.com/xap/1.0/Label
@@ -12,29 +32,9 @@ Paris
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#par-1.jpg
 http://ns.adobe.com/exif/1.0/Orientation
-Top, left side (Horizontal / normal)
+Top,_left_side_(Horizontal_/_normal)
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#par-1.jpg
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-9a4f5703-3385-451e-a972-69dc12a040c1
-
-9a4f5703-3385-451e-a972-69dc12a040c1
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-Capital
-
-9a4f5703-3385-451e-a972-69dc12a040c1
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
-Tourism
-
-9a4f5703-3385-451e-a972-69dc12a040c1
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
-City
-
-9a4f5703-3385-451e-a972-69dc12a040c1
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
-Landscape
-
-9a4f5703-3385-451e-a972-69dc12a040c1
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
-Holiday
+cab93233-6fa2-4123-b387-680658185cb3
 

@@ -1,28 +1,28 @@
-f552847f-70a3-485a-b3ae-012950061f66
+e34f77df-f529-4e07-951c-d7a1cdc9850d
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 University
 
-f552847f-70a3-485a-b3ae-012950061f66
+e34f77df-f529-4e07-951c-d7a1cdc9850d
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Education
 
-f552847f-70a3-485a-b3ae-012950061f66
+e34f77df-f529-4e07-951c-d7a1cdc9850d
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
 Capital
 
-f552847f-70a3-485a-b3ae-012950061f66
+e34f77df-f529-4e07-951c-d7a1cdc9850d
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
 Tourism
 
-f552847f-70a3-485a-b3ae-012950061f66
+e34f77df-f529-4e07-951c-d7a1cdc9850d
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
 City
 
-f552847f-70a3-485a-b3ae-012950061f66
+e34f77df-f529-4e07-951c-d7a1cdc9850d
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_6
 Landscape
 
-f552847f-70a3-485a-b3ae-012950061f66
+e34f77df-f529-4e07-951c-d7a1cdc9850d
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_7
 Holiday
 
@@ -32,7 +32,7 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-1.jpg
 http://purl.org/dc/elements/1.1/subject
-Capital
+Capital_|_City_|_Education_|_Holiday_|_Landscape_|_Tourism_|_University
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-1.jpg
 http://ns.adobe.com/xap/1.0/Label
@@ -40,5 +40,5 @@ Cairo
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ca-1.jpg
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-f552847f-70a3-485a-b3ae-012950061f66
+e34f77df-f529-4e07-951c-d7a1cdc9850d
 

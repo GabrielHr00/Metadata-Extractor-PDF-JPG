@@ -33,7 +33,7 @@ public class PdfRdfTriples {
         // create a Jena Model, where we store the RDF Triples
         Model model = ModelFactory.createDefaultModel();
 
-        Resource res = model.createResource(root + this.fileName);
+        Resource res = model.createResource(root + this.fileName.replaceAll(" ", "_"));
         for (var key : metadata.keySet()) {
             int index = key.indexOf(":");
 
@@ -82,8 +82,8 @@ public class PdfRdfTriples {
         writeRDFTriplesIntoTXT(model);
 
         // write to the appropriate file
-        FileOutputStream fos = new FileOutputStream(new File("src/main/resources/rdf/pdf/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "rdf"));
-        model.write(fos, "RDF/XML");
+        FileOutputStream fos = new FileOutputStream(new File("src/main/resources/rdf/pdf/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "ttl"));
+        model.write(fos, "TURTLE");
     }
 
     private void fillInInformationMaps(Document pdf, Map<String, String> namespaces, Map<String, XmpValue> metadata) {

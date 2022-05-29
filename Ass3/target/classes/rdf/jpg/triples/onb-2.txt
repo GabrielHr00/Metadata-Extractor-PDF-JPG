@@ -4,29 +4,29 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-2.jpg
 http://purl.org/dc/elements/1.1/subject
-Education | Library | Tourism | City | Vienna
+Education_|_Library_|_Tourism_|_City_|_Vienna
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-2.jpg
 http://ns.adobe.com/xap/1.0/Label
-Austrian National Library
+Austrian_National_Library
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-2.jpg
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-71f69e9c-96a3-4791-a0a0-49fb467d627b
+d8419130-b87c-4aa0-8c16-dc261082d66c
 
-71f69e9c-96a3-4791-a0a0-49fb467d627b
+d8419130-b87c-4aa0-8c16-dc261082d66c
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 Education
 
-71f69e9c-96a3-4791-a0a0-49fb467d627b
+d8419130-b87c-4aa0-8c16-dc261082d66c
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Tourism
 
-71f69e9c-96a3-4791-a0a0-49fb467d627b
+d8419130-b87c-4aa0-8c16-dc261082d66c
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
 Library
 
-71f69e9c-96a3-4791-a0a0-49fb467d627b
+d8419130-b87c-4aa0-8c16-dc261082d66c
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
 City
 

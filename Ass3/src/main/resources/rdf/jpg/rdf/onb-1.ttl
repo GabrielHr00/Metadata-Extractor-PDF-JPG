@@ -1,0 +1,87 @@
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-1.jpg>
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Application_Record_Version>
+                "4" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/By-line>
+                "KLAUS.PICHLER,www.kpic.at" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Copyright_Notice>
+                "KLAUS.PICHLER" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Date_Created>
+                "2014:09:03" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital_Date_Created>
+                "2014:09:03" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords>
+                [ <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1>
+                          "Education" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2>
+                          "Tourism" ;
+                  <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3>
+                          "Library"
+                ] ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Time_Created>
+                "15:23:39+0000" ;
+        <http://ns.adobe.com/exif/1.0/Bits_Per_Sample>
+                "8_8_8_bits/component/pixel" ;
+        <http://ns.adobe.com/exif/1.0/Copyright>
+                "KLAUS.PICHLER" ;
+        <http://ns.adobe.com/exif/1.0/Date/Time>
+                "2014:12:09_16:54:12" ;
+        <http://ns.adobe.com/exif/1.0/Image_Height>
+                "5315_pixels" ;
+        <http://ns.adobe.com/exif/1.0/Image_Width>
+                "7964_pixels" ;
+        <http://ns.adobe.com/exif/1.0/Orientation>
+                "Top,_left_side_(Horizontal_/_normal)" ;
+        <http://ns.adobe.com/exif/1.0/Resolution_Unit>
+                "Inch" ;
+        <http://ns.adobe.com/exif/1.0/Samples_Per_Pixel>
+                "3_samples/pixel" ;
+        <http://ns.adobe.com/exif/1.0/Software>
+                "Adobe_Photoshop_CC_(Windows)" ;
+        <http://ns.adobe.com/exif/1.0/X_Resolution>
+                "300_dots_per_inch" ;
+        <http://ns.adobe.com/exif/1.0/Y_Resolution>
+                "300_dots_per_inch" ;
+        <http://ns.adobe.com/photoshop/1.0/ColorMode>
+                "3" ;
+        <http://ns.adobe.com/photoshop/1.0/DateCreated>
+                "2014-09-03T15:23:39.007" ;
+        <http://ns.adobe.com/photoshop/1.0/ICCProfile>
+                "sRGB_IEC61966-2.1" ;
+        <http://ns.adobe.com/photoshop/1.0/LegacyIPTCDigest>
+                "BF9220863099C04E6AB05B29F4BD8329" ;
+        <http://ns.adobe.com/xap/1.0/CreateDate>
+                "2014-09-03T15:23:39" ;
+        <http://ns.adobe.com/xap/1.0/CreatorTool>
+                "Adobe_Photoshop_Lightroom_5.6_(Windows)" ;
+        <http://ns.adobe.com/xap/1.0/Label>
+                "Austrian_National_Library" ;
+        <http://ns.adobe.com/xap/1.0/MetadataDate>
+                "2014-12-09T16:54:12+01:00" ;
+        <http://ns.adobe.com/xap/1.0/ModifyDate>
+                "2014-12-09T16:54:12+01:00" ;
+        <http://ns.adobe.com/xap/1.0/Rating>
+                "5" ;
+        <http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:documentID>
+                "xmp.did:61ac44d8-42ab-5b4b-8937-98ec61c88697" ;
+        <http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:instanceID>
+                "xmp.iid:EEB3D98DEA52E4118819A650C11C4592" ;
+        <http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:originalDocumentID>
+                "4F8F45EBDFFDE1EB09609958C54FFF9C" ;
+        <http://ns.adobe.com/xap/1.0/mm/DocumentID>
+                "xmp.did:25d2989d-83a6-a042-81b7-437922a74ad0" ;
+        <http://ns.adobe.com/xap/1.0/mm/History>
+                "2014-12-09T16:54:03+01:00" , "saved" , "Adobe_Photoshop_CC_(Windows)" , "xmp.iid:b39274c6-e6dd-fd44-9996-b53a627b1b8f" , "/" , "xmp.iid:00b56a12-d51e-b447-85f7-8b4306e0beac" , "2014-12-09T16:54:12+01:00" ;
+        <http://ns.adobe.com/xap/1.0/mm/InstanceID>
+                "xmp.iid:b39274c6-e6dd-fd44-9996-b53a627b1b8f" ;
+        <http://ns.adobe.com/xap/1.0/mm/OriginalDocumentID>
+                "4F8F45EBDFFDE1EB09609958C54FFF9C" ;
+        <http://purl.org/dc/elements/1.1/analyzedBy>
+                "11914741" ;
+        <http://purl.org/dc/elements/1.1/creator>
+                "KLAUS.PICHLER,www.kpic.at" ;
+        <http://purl.org/dc/elements/1.1/format>
+                "image/jpeg" ;
+        <http://purl.org/dc/elements/1.1/rights>
+                "x-default" , "KLAUS.PICHLER" ;
+        <http://purl.org/dc/elements/1.1/subject>
+                "Education_|_Library_|_Tourism_|_Vienna" .

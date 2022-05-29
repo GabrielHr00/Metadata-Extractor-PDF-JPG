@@ -20,25 +20,25 @@ xmp.did:8F167E25FD6711E88C7B8CDA97FC16E4
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
 http://purl.org/dc/elements/1.1/subject
-Marine Life | Species | Mammals
+Marine_Life_|_Species_|_Mammals
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
 http://ns.adobe.com/xap/1.0/Label
-Marine Life
+Marine_Life
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
 http://ns.adobe.com/xap/1.0/CreatorTool
-Adobe Photoshop CC 2018 Macintosh
+Adobe_Photoshop_CC_2018_Macintosh
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-b9eccdf2-7cd9-4282-9307-854c3d45c678
+fa4c5a10-4ec4-401f-8380-24a9b17cc1ed
 
-b9eccdf2-7cd9-4282-9307-854c3d45c678
+fa4c5a10-4ec4-401f-8380-24a9b17cc1ed
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-Marine Life
+Marine_Life
 
-b9eccdf2-7cd9-4282-9307-854c3d45c678
+fa4c5a10-4ec4-401f-8380-24a9b17cc1ed
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Species
 
