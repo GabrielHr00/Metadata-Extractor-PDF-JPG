@@ -1,16 +1,16 @@
-991722d0-e954-4e18-9185-ab676006e564
+b90d2ed7-d8ac-4f88-99f6-4ba4698fb728
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 Island
 
-991722d0-e954-4e18-9185-ab676006e564
+b90d2ed7-d8ac-4f88-99f6-4ba4698fb728
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Tourism
 
-991722d0-e954-4e18-9185-ab676006e564
+b90d2ed7-d8ac-4f88-99f6-4ba4698fb728
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
 Landscape
 
-991722d0-e954-4e18-9185-ab676006e564
+b90d2ed7-d8ac-4f88-99f6-4ba4698fb728
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
 Holiday
 
@@ -20,7 +20,7 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
 http://purl.org/dc/elements/1.1/subject
-Holiday_|_Island_|_Landscape_|_Tourism_|_Water_Fall
+Holiday
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
 http://ns.adobe.com/xap/1.0/Label
@@ -28,9 +28,9 @@ Jawa
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
 http://ns.adobe.com/exif/1.0/Orientation
-Top,_left_side_(Horizontal_/_normal)
+Top, left side (Horizontal / normal)
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-991722d0-e954-4e18-9185-ab676006e564
+b90d2ed7-d8ac-4f88-99f6-4ba4698fb728
 

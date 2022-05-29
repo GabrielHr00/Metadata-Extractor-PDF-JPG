@@ -1,26 +1,50 @@
+2af3f945-b9ca-4437-9151-3ac49cb64772
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
+Capital
+
+2af3f945-b9ca-4437-9151-3ac49cb64772
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Tourism
+
+2af3f945-b9ca-4437-9151-3ac49cb64772
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
+City
+
+2af3f945-b9ca-4437-9151-3ac49cb64772
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
+Landscape
+
+2af3f945-b9ca-4437-9151-3ac49cb64772
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
+Holiday
+
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
 http://ns.adobe.com/exif/1.0/Make
-NIKON_CORPORATION
+NIKON CORPORATION
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/exif/1.0/Y_Resolution
-300_dots_per_inch
+http://ns.adobe.com/exif/1.0/Copyright
+Christian Philipp, CC-by-sa 3.0                       
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/exif/1.0/Date/Time
-2017:10:07_01:20:05
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/exif/1.0/X_Resolution
-300_dots_per_inch
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/exif/1.0/Software
-ViewNX_2.10_W
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/exif/1.0/Resolution_Unit
+http://ns.adobe.com/exif/1.0/ResolutionUnit
 Inch
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/Model
+NIKON D7000
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+2af3f945-b9ca-4437-9151-3ac49cb64772
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/YResolution
+300 dots per inch
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://purl.org/dc/elements/1.1/subject
+Capital
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
 http://ns.adobe.com/xap/1.0/Label
@@ -31,58 +55,34 @@ http://ns.microsoft.com/photo/1.0/Rating
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/exif/1.0/Copyright
-Christian_Philipp,_CC-by-sa_3.0_______________________
+http://ns.adobe.com/exif/1.0/ReferenceBlack/White
+[0,0,0] [255,255,255]
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
 http://purl.org/dc/elements/1.1/analyzedBy
 11914741
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/exif/1.0/Reference_Black/White
-[0,0,0]_[255,255,255]
+http://ns.adobe.com/exif/1.0/Orientation
+Top, left side (Horizontal / normal)
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/exif/1.0/Orientation
-Top,_left_side_(Horizontal_/_normal)
+http://ns.adobe.com/exif/1.0/Software
+ViewNX 2.10 W
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/XResolution
+300 dots per inch
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
 http://ns.adobe.com/photoshop/1.0/Urgency
 5
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/exif/1.0/YCbCr_Positioning
-Center_of_pixel_array
+http://ns.adobe.com/exif/1.0/YCbCrPositioning
+Center of pixel array
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/exif/1.0/Model
-NIKON_D7000
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-6abc3761-b163-43eb-83bd-87eb6d94b389
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://purl.org/dc/elements/1.1/subject
-Capital_|_City_|_Holiday_|_Landscape_|_Tourism
-
-6abc3761-b163-43eb-83bd-87eb6d94b389
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-Capital
-
-6abc3761-b163-43eb-83bd-87eb6d94b389
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
-Tourism
-
-6abc3761-b163-43eb-83bd-87eb6d94b389
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
-City
-
-6abc3761-b163-43eb-83bd-87eb6d94b389
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
-Landscape
-
-6abc3761-b163-43eb-83bd-87eb6d94b389
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
-Holiday
+http://ns.adobe.com/exif/1.0/Date/Time
+2017:10:07 01:20:05
 

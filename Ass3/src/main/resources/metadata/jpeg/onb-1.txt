@@ -48,3 +48,9 @@ exif:Resolution Unit: Inch
 exif:Software: Adobe Photoshop CC (Windows)
 exif:Date/Time: 2014:12:09 16:54:12
 exif:Copyright: KLAUS.PICHLER
+exif:Exif Version: 2.30
+exif:Date/Time Digitized: 2014:09:03 15:23:39
+exif:Sub-Sec Time Original: 70
+exif:Color Space: sRGB
+exif:Exif Image Width: 1772 pixels
+exif:Exif Image Height: 1183 pixels

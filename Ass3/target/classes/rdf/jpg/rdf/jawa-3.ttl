@@ -14,4 +14,4 @@
         <http://purl.org/dc/elements/1.1/analyzedBy>
                 "11914741" ;
         <http://purl.org/dc/elements/1.1/subject>
-                "Holiday_|_Island_|_Landscape_|_Tourism_|_Lake" .
+                "Holiday" .

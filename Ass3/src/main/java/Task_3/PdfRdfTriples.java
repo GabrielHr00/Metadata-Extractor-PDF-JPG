@@ -84,6 +84,9 @@ public class PdfRdfTriples {
         // write to the appropriate file
         FileOutputStream fos = new FileOutputStream(new File("src/main/resources/rdf/pdf/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "ttl"));
         model.write(fos, "TURTLE");
+
+        FileOutputStream task5 = new FileOutputStream(new File("src/main/java/Task_5/rdf/pdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "xml"));
+        model.write(task5, "RDF/XML");
     }
 
     private void fillInInformationMaps(Document pdf, Map<String, String> namespaces, Map<String, XmpValue> metadata) {

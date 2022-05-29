@@ -159,3 +159,34 @@ exif:Y Resolution: 72 dots per inch
 exif:Resolution Unit: Inch
 exif:Software: Adobe Photoshop Camera Raw 8.1 (Macintosh)
 exif:Date/Time: 2014:01:04 14:35:03
+exif:Exposure Time: 1/80 sec
+exif:F-Number: f/8.0
+exif:Exposure Program: Aperture priority
+exif:ISO Speed Ratings: 200
+exif:Exif Version: 2.30
+exif:Date/Time Digitized: 2011:05:07 06:21:44
+exif:Shutter Speed Value: 1/79 sec
+exif:Aperture Value: f/8.0
+exif:Exposure Bias Value: 0 EV
+exif:Max Aperture Value: f/2.8
+exif:Subject Distance: 2.82 metres
+exif:Metering Mode: Multi-segment
+exif:White Balance: Unknown
+exif:Flash: Flash did not fire
+exif:Focal Length: 34 mm
+exif:Sub-Sec Time Digitized: 00
+exif:Sensing Method: One-chip color area sensor
+exif:File Source: Digital Still Camera (DSC)
+exif:Scene Type: Directly photographed image
+exif:CFA Pattern: [Red,Green][Green,Blue]
+exif:Custom Rendered: Normal process
+exif:Exposure Mode: Auto exposure
+exif:White Balance Mode: Auto white balance
+exif:Digital Zoom Ratio: 1
+exif:Focal Length 35: 34 mm
+exif:Scene Capture Type: Standard
+exif:Gain Control: None
+exif:Contrast: None
+exif:Saturation: None
+exif:Sharpness: None
+exif:Subject Distance Range: Unknown
