@@ -1,0 +1,24 @@
+http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-3.jpg
+http://purl.org/dc/elements/1.1/analyzedBy
+11914741
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-3.jpg
+http://purl.org/dc/elements/1.1/subject
+931fd4ba-d4f1-4be6-8727-0d3137e89b4e
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#onb-3.jpg
+http://ns.adobe.com/xap/1.0/Label
+Austrian National Library
+
+931fd4ba-d4f1-4be6-8727-0d3137e89b4e
+http://purl.org/dc/elements/1.1/_1
+Tourism
+
+931fd4ba-d4f1-4be6-8727-0d3137e89b4e
+http://purl.org/dc/elements/1.1/_2
+Library
+
+931fd4ba-d4f1-4be6-8727-0d3137e89b4e
+http://purl.org/dc/elements/1.1/_3
+Education
+

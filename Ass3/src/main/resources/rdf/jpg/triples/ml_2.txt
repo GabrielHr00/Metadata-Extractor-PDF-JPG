@@ -1,0 +1,44 @@
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
+http://purl.org/dc/elements/1.1/analyzedBy
+11914741
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
+http://ns.adobe.com/xap/1.0/mm/DocumentID
+xmp.did:F7FE311907B911E98FAF9855E8E0FA0F
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
+http://ns.adobe.com/xap/1.0/mm/InstanceID
+xmp.iid:F7FE311807B911E98FAF9855E8E0FA0F
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
+http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:instanceID
+xmp.iid:8F167E24FD6711E88C7B8CDA97FC16E4
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
+http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:documentID
+xmp.did:8F167E25FD6711E88C7B8CDA97FC16E4
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
+http://purl.org/dc/elements/1.1/subject
+76990d4c-cb5d-4efe-b29f-7df66e829ebd
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
+http://ns.adobe.com/xap/1.0/Label
+Marine Life
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
+http://ns.adobe.com/xap/1.0/CreatorTool
+Adobe Photoshop CC 2018 Macintosh
+
+76990d4c-cb5d-4efe-b29f-7df66e829ebd
+http://purl.org/dc/elements/1.1/_1
+Mammals
+
+76990d4c-cb5d-4efe-b29f-7df66e829ebd
+http://purl.org/dc/elements/1.1/_2
+Species
+
+76990d4c-cb5d-4efe-b29f-7df66e829ebd
+http://purl.org/dc/elements/1.1/_3
+Marine Life
+
