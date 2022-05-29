@@ -4,6 +4,7 @@ import com.aspose.pdf.Document;
 import com.aspose.pdf.XmpValue;
 import com.aspose.pdf.internal.ms.System.Collections.Generic.lk;
 import org.apache.jena.rdf.model.*;
+import org.apache.jena.vocabulary.*;
 
 import java.io.*;
 import java.util.*;
@@ -30,31 +31,57 @@ public class PdfRdfTriples {
         // create a Jena Model, where we store the RDF Triples
         Model model = ModelFactory.createDefaultModel();
 
-        // fill in the model with statements
-        fillInModelStatements(namespaces, metadata, model);
+        Resource res = model.createResource(root + this.fileName);
+        for (var key : metadata.keySet()) {
+            int index = key.indexOf(":");
+
+            // handle the empty node case
+            if(key.substring(index + 1).equals("Keywords")) {
+                String[] split = metadata.get(key).toString().split(";\s+");
+                Property prop = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
+                Resource node = model.createResource();
+                int i = 0;
+                for (String s : split) {
+                    Property keyw = model.createProperty(namespaces.get(key.substring(0, index)), "_" + ++i);
+                    node.addProperty(keyw, s);
+                }
+                res.addProperty(prop, node);
+            }
+            else if(key.substring(index + 1).equals("title")) {
+                Property prop = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
+                Resource node = model.createResource(RDF.Alt);
+                Property keyw = model.createProperty("http://purl.org/dc/elements/1.1/", "li");
+                node.addProperty(keyw, metadata.get(key).toString());
+                res.addProperty(prop, node);
+            }
+            else if(key.substring(index + 1).equals("creator")) {
+                Property prop = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
+                Resource node = model.createResource(RDF.Seq);
+                Property keyw = model.createProperty("http://purl.org/dc/elements/1.1/", "li");
+                node.addProperty(keyw, metadata.get(key).toString());
+                res.addProperty(prop, node);
+            }
+            else if(key.substring(index + 1).equals("subject")) {
+                Property prop = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
+                Resource node = model.createResource(RDF.Bag);
+                Property keyw = model.createProperty("http://purl.org/dc/elements/1.1/", "li");
+                node.addProperty(keyw, metadata.get(key).toString());
+                res.addProperty(prop, node);
+            }
+            else{
+                Property dc = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
+                res.addProperty(dc, metadata.get(key).toString());
+            }
+        }
+
+        res.addProperty(model.createProperty("http://purl.org/dc/elements/1.1/", "analyzedBy"), "11914741");
 
         // write the statement triples as txt document
         writeRDFTriplesIntoTXT(model);
 
-        // add analyzed by
-        Statement stmt = model.createStatement(model.createResource(root), model.createProperty(namespaces.get("dc") + "analyzedBy"), model.createResource(namespaces.get("dc") + "11914741"));
-        model.add(stmt);
-
         // write to the appropriate file
-        FileOutputStream fos = new FileOutputStream(new File("src/main/resources/rdf/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "rdf"));
+        FileOutputStream fos = new FileOutputStream(new File("src/main/resources/rdf/pdf/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "rdf"));
         model.write(fos, "RDF/XML");
-    }
-
-    private void fillInModelStatements(Map<String, String> namespaces, Map<String, XmpValue> metadata, Model model) {
-        for (var key : metadata.keySet()) {
-            int index = key.indexOf(":");
-            Resource resource = model.createResource(root);
-            Property property = model.createProperty(namespaces.get(key.substring(0, index)) + key.substring(index + 1));
-            Resource literal = model.createResource(namespaces.get(key.substring(0, index)) + metadata.get(key));
-
-            Statement stmt = model.createStatement(resource, property, literal);
-            model.add(stmt);
-        }
     }
 
     private void fillInInformationMaps(Document pdf, Map<String, String> namespaces, Map<String, XmpValue> metadata) {
@@ -77,7 +104,7 @@ public class PdfRdfTriples {
             result.append(next.getPredicate() + "\n");
             result.append(next.getObject() + "\n\n");
         }
-        FileWriter jpegWriter = new FileWriter("src/main/resources/rdf/txt/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
+        FileWriter jpegWriter = new FileWriter("src/main/resources/rdf/pdf/txt/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
         jpegWriter.write(result.toString());
         jpegWriter.close();
     }
