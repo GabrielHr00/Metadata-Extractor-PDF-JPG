@@ -1,14 +1,16 @@
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:j.0="http://ns.adobe.com/xap/1.0/">
+    xmlns:j.1="http://ns.adobe.com/xap/1.0/">
   <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg">
     <dc:analyzedBy>11914741</dc:analyzedBy>
-    <dc:subject rdf:parseType="Resource">
-      <dc:_1>University</dc:_1>
-      <dc:_2>Education</dc:_2>
-      <dc:_3>Library</dc:_3>
-    </dc:subject>
-    <j.0:Label>Library</j.0:Label>
+    <dc:subject>Library</dc:subject>
+    <j.1:Label>Library</j.1:Label>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>University</j.0:_1>
+      <j.0:_2>Education</j.0:_2>
+      <j.0:_3>Library</j.0:_3>
+    </j.0:Keywords>
   </rdf:Description>
 </rdf:RDF>

@@ -1,3 +1,18 @@
 ml-5.jpg
-XMP Value Count: 4
-Keywords: Species;Marine Life
+xmp:CreatorTool: Windows Photo Editor 10.0.10011.16384
+xmp:Label: Marine Life
+dc:subject[1]: Marine Life | Species
+xmpMM:InstanceID: uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b
+iptc:Keywords: Species;Marine Life
+exif:Unknown tag (0x000b): Windows Photo Editor 10.0.10011.16384
+exif:Image Description: DCIM\100GOPRO\GOPR1293.
+exif:Make: GoPro
+exif:Model: HERO4 Silver
+exif:Orientation: Top, left side (Horizontal / normal)
+exif:X Resolution: 72 dots per inch
+exif:Y Resolution: 72 dots per inch
+exif:Resolution Unit: Inch
+exif:Software: Windows Photo Editor 10.0.10011.16384
+exif:Date/Time: 2018:10:26 01:12:44
+exif:YCbCr Positioning: Center of pixel array
+exif:Padding: [2060 values]

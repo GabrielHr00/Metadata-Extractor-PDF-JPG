@@ -1,3 +1,4 @@
 vie-3.jpg
-XMP Value Count: 2
-Keywords: Holiday;Landscape;City;Tourism;Capital
+xmp:Label: Vienna
+dc:subject[1]: Capital | City | Holiday | Landscape | Tourism | Unitednations
+iptc:Keywords: Holiday;Landscape;City;Tourism;Capital

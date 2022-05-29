@@ -1,9 +1,50 @@
 onb-1.jpg
-XMP Value Count: 31
-Keywords: Library;Tourism;Education
-By-line: KLAUS.PICHLER,www.kpic.at
-Copyright Notice: KLAUS.PICHLER
-Date Created: 2014:09:03
-Digital Date Created: 2014:09:03
-Application Record Version: 4
-Time Created: 15:23:39+0000
+xmp:CreatorTool: Adobe Photoshop Lightroom 5.6 (Windows)
+photoshop:ICCProfile: sRGB IEC61966-2.1
+xmpMM:History[2]/stEvt:when: 2014-12-09T16:54:12+01:00
+xmpMM:History[1]/stEvt:action: saved
+xmpMM:History[1]/stEvt:instanceID: xmp.iid:00b56a12-d51e-b447-85f7-8b4306e0beac
+dc:format: image/jpeg
+xmp:Rating: 5
+photoshop:DateCreated: 2014-09-03T15:23:39.007
+xmpMM:DocumentID: xmp.did:25d2989d-83a6-a042-81b7-437922a74ad0
+xmpMM:DerivedFrom/stRef:originalDocumentID: 4F8F45EBDFFDE1EB09609958C54FFF9C
+xmpMM:History[2]/stEvt:action: saved
+dc:subject[1]: Education | Library | Tourism | Vienna
+xmpMM:History[1]/stEvt:changed: /
+xmp:CreateDate: 2014-09-03T15:23:39
+xmpMM:History[2]/stEvt:softwareAgent: Adobe Photoshop CC (Windows)
+xmpMM:OriginalDocumentID: 4F8F45EBDFFDE1EB09609958C54FFF9C
+xmpMM:History[1]/stEvt:when: 2014-12-09T16:54:03+01:00
+xmp:ModifyDate: 2014-12-09T16:54:12+01:00
+xmp:MetadataDate: 2014-12-09T16:54:12+01:00
+dc:rights[1]/xml:lang: x-default
+xmpMM:History[2]/stEvt:changed: /
+xmpMM:History[1]/stEvt:softwareAgent: Adobe Photoshop CC (Windows)
+xmpMM:DerivedFrom/stRef:documentID: xmp.did:61ac44d8-42ab-5b4b-8937-98ec61c88697
+xmpMM:History[2]/stEvt:instanceID: xmp.iid:b39274c6-e6dd-fd44-9996-b53a627b1b8f
+photoshop:ColorMode: 3
+dc:rights[1]: KLAUS.PICHLER
+photoshop:LegacyIPTCDigest: BF9220863099C04E6AB05B29F4BD8329
+xmp:Label: Austrian National Library
+xmpMM:DerivedFrom/stRef:instanceID: xmp.iid:EEB3D98DEA52E4118819A650C11C4592
+xmpMM:InstanceID: xmp.iid:b39274c6-e6dd-fd44-9996-b53a627b1b8f
+dc:creator[1]: KLAUS.PICHLER,www.kpic.at
+iptc:Keywords: Library;Tourism;Education
+iptc:By-line: KLAUS.PICHLER,www.kpic.at
+iptc:Copyright Notice: KLAUS.PICHLER
+iptc:Date Created: 2014:09:03
+iptc:Digital Date Created: 2014:09:03
+iptc:Application Record Version: 4
+iptc:Time Created: 15:23:39+0000
+exif:Image Width: 7964 pixels
+exif:Image Height: 5315 pixels
+exif:Bits Per Sample: 8 8 8 bits/component/pixel
+exif:Orientation: Top, left side (Horizontal / normal)
+exif:Samples Per Pixel: 3 samples/pixel
+exif:X Resolution: 300 dots per inch
+exif:Y Resolution: 300 dots per inch
+exif:Resolution Unit: Inch
+exif:Software: Adobe Photoshop CC (Windows)
+exif:Date/Time: 2014:12:09 16:54:12
+exif:Copyright: KLAUS.PICHLER

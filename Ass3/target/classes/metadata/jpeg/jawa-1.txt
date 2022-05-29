@@ -1,3 +1,5 @@
 jawa-1.jpg
-XMP Value Count: 2
-Keywords: Holiday;Landscape;Tourism;Island
+xmp:Label: Jawa
+dc:subject[1]: Holiday | Island | Landscape | Tourism | Temple
+iptc:Keywords: Holiday;Landscape;Tourism;Island
+exif:Orientation: Top, left side (Horizontal / normal)

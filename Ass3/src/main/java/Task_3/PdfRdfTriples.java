@@ -9,6 +9,8 @@ import org.apache.jena.vocabulary.*;
 import java.io.*;
 import java.util.*;
 
+import static com.adobe.internal.xmp.XMPConst.NS_DC;
+
 public class PdfRdfTriples {
     private final static String root = "http://www.w3.org/1999/02/22-rdf-syntax-ns#";
     private String fileName;
@@ -50,21 +52,21 @@ public class PdfRdfTriples {
             else if(key.substring(index + 1).equals("title")) {
                 Property prop = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
                 Resource node = model.createResource(RDF.Alt);
-                Property keyw = model.createProperty("http://purl.org/dc/elements/1.1/", "li");
+                Property keyw = model.createProperty(NS_DC, "li");
                 node.addProperty(keyw, metadata.get(key).toString());
                 res.addProperty(prop, node);
             }
             else if(key.substring(index + 1).equals("creator")) {
                 Property prop = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
                 Resource node = model.createResource(RDF.Seq);
-                Property keyw = model.createProperty("http://purl.org/dc/elements/1.1/", "li");
+                Property keyw = model.createProperty(NS_DC, "li");
                 node.addProperty(keyw, metadata.get(key).toString());
                 res.addProperty(prop, node);
             }
             else if(key.substring(index + 1).equals("subject")) {
                 Property prop = model.createProperty(namespaces.get(key.substring(0, index)), key.substring(index + 1));
                 Resource node = model.createResource(RDF.Bag);
-                Property keyw = model.createProperty("http://purl.org/dc/elements/1.1/", "li");
+                Property keyw = model.createProperty(NS_DC, "li");
                 node.addProperty(keyw, metadata.get(key).toString());
                 res.addProperty(prop, node);
             }
@@ -74,7 +76,7 @@ public class PdfRdfTriples {
             }
         }
 
-        res.addProperty(model.createProperty("http://purl.org/dc/elements/1.1/", "analyzedBy"), "11914741");
+        res.addProperty(model.createProperty(NS_DC, "analyzedBy"), "11914741");
 
         // write the statement triples as txt document
         writeRDFTriplesIntoTXT(model);

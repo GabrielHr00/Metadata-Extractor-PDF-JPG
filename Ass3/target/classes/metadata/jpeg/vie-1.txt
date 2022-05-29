@@ -1,3 +1,17 @@
 vie-1.jpg
-XMP Value Count: 4
-Keywords: Holiday;Landscape;City;Tourism;Capital
+xmp:Label: Vienna
+dc:subject[1]: Capital | City | Holiday | Landscape | Tourism
+photoshop:Urgency: 5
+MicrosoftPhoto:Rating: 0
+iptc:Keywords: Holiday;Landscape;City;Tourism;Capital
+exif:Make: NIKON CORPORATION
+exif:Model: NIKON D7000
+exif:Orientation: Top, left side (Horizontal / normal)
+exif:X Resolution: 300 dots per inch
+exif:Y Resolution: 300 dots per inch
+exif:Resolution Unit: Inch
+exif:Software: ViewNX 2.10 W
+exif:Date/Time: 2017:10:07 01:20:05
+exif:YCbCr Positioning: Center of pixel array
+exif:Reference Black/White: [0,0,0] [255,255,255]
+exif:Copyright: Christian Philipp, CC-by-sa 3.0                       

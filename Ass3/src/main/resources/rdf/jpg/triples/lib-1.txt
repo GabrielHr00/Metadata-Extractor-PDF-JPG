@@ -4,21 +4,25 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg
 http://purl.org/dc/elements/1.1/subject
-05801c5a-e73b-4ffc-bf1f-8a1fd4e4c7cf
+Library
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg
 http://ns.adobe.com/xap/1.0/Label
 Library
 
-05801c5a-e73b-4ffc-bf1f-8a1fd4e4c7cf
-http://purl.org/dc/elements/1.1/_1
+http://www.w3.org/1999/02/22-rdf-syntax-ns#lib-1.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+09af07f4-7a21-46b3-8e63-adb06edb3698
+
+09af07f4-7a21-46b3-8e63-adb06edb3698
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 University
 
-05801c5a-e73b-4ffc-bf1f-8a1fd4e4c7cf
-http://purl.org/dc/elements/1.1/_2
+09af07f4-7a21-46b3-8e63-adb06edb3698
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Education
 
-05801c5a-e73b-4ffc-bf1f-8a1fd4e4c7cf
-http://purl.org/dc/elements/1.1/_3
+09af07f4-7a21-46b3-8e63-adb06edb3698
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
 Library
 

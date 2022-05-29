@@ -1,40 +1,88 @@
-50d3ddae-62b4-4ebe-a4f1-72d8984629a4
-http://purl.org/dc/elements/1.1/_1
-Tourism
-
-50d3ddae-62b4-4ebe-a4f1-72d8984629a4
-http://purl.org/dc/elements/1.1/_2
-Landscape
-
-50d3ddae-62b4-4ebe-a4f1-72d8984629a4
-http://purl.org/dc/elements/1.1/_3
-Holiday
-
-50d3ddae-62b4-4ebe-a4f1-72d8984629a4
-http://purl.org/dc/elements/1.1/_4
-City
-
-50d3ddae-62b4-4ebe-a4f1-72d8984629a4
-http://purl.org/dc/elements/1.1/_5
+7f236237-48f4-492e-bf21-d51039dc6cc3
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 Capital
 
+7f236237-48f4-492e-bf21-d51039dc6cc3
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Tourism
+
+7f236237-48f4-492e-bf21-d51039dc6cc3
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
+City
+
+7f236237-48f4-492e-bf21-d51039dc6cc3
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
+Landscape
+
+7f236237-48f4-492e-bf21-d51039dc6cc3
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
+Holiday
+
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://purl.org/dc/elements/1.1/analyzedBy
-11914741
+http://ns.adobe.com/exif/1.0/Make
+NIKON CORPORATION
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/Copyright
+Christian Philipp, CC-by-sa 3.0                       
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/Y Resolution
+300 dots per inch
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/Model
+NIKON D7000
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/Reference Black/White
+[0,0,0] [255,255,255]
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+7f236237-48f4-492e-bf21-d51039dc6cc3
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/xap/1.0/Label
+Vienna
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
 http://ns.microsoft.com/photo/1.0/Rating
 0
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/YCbCr Positioning
+Center of pixel array
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://purl.org/dc/elements/1.1/analyzedBy
+11914741
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/Orientation
+Top, left side (Horizontal / normal)
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/Software
+ViewNX 2.10 W
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
 http://ns.adobe.com/photoshop/1.0/Urgency
 5
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://purl.org/dc/elements/1.1/subject
-50d3ddae-62b4-4ebe-a4f1-72d8984629a4
+http://ns.adobe.com/exif/1.0/Resolution Unit
+Inch
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
-http://ns.adobe.com/xap/1.0/Label
-Vienna
+http://ns.adobe.com/exif/1.0/X Resolution
+300 dots per inch
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://purl.org/dc/elements/1.1/subject
+Capital | City | Holiday | Landscape | Tourism
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg
+http://ns.adobe.com/exif/1.0/Date/Time
+2017:10:07 01:20:05
 

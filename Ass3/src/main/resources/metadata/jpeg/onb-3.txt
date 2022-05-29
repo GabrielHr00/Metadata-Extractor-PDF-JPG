@@ -1,4 +1,5 @@
 onb-3.jpg
-XMP Value Count: 2
-Special Instructions: FBMD2300098703000011150000ae2000003c29000079730000a48a000039ab00006bc2000055d9000092030100
-Keywords: Library;Tourism;Education
+xmp:Label: Austrian National Library
+dc:subject[1]: Education | Library | Tourism
+iptc:Special Instructions: FBMD2300098703000011150000ae2000003c29000079730000a48a000039ab00006bc2000055d9000092030100
+iptc:Keywords: Library;Tourism;Education

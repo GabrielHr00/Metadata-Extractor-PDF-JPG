@@ -1,10 +1,26 @@
-de6759d2-34e7-46c0-ba47-abd4480d8b1c
+c2ee5ff8-e373-4404-8d4d-8fe73bd1171b
+http://ns.adobe.com/pdf/1.3/_1
+Mammals
+
+c2ee5ff8-e373-4404-8d4d-8fe73bd1171b
+http://ns.adobe.com/pdf/1.3/_2
+Species
+
+b6b1180f-1697-497e-99e3-2a2e1bba9217
 http://purl.org/dc/elements/1.1/li
 Mammals
 
-de6759d2-34e7-46c0-ba47-abd4480d8b1c
+b6b1180f-1697-497e-99e3-2a2e1bba9217
 http://www.w3.org/1999/02/22-rdf-syntax-ns#type
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Mammals.pdf
+http://ns.adobe.com/pdf/1.3/Keywords
+c2ee5ff8-e373-4404-8d4d-8fe73bd1171b
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Mammals.pdf
+http://purl.org/dc/elements/1.1/title
+b6b1180f-1697-497e-99e3-2a2e1bba9217
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Mammals.pdf
 http://ns.adobe.com/xap/1.0/ModifyDate
@@ -17,14 +33,6 @@ http://ns.adobe.com/xap/1.0/MetadataDate
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Mammals.pdf
 http://purl.org/dc/elements/1.1/format
 application/pdf
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Mammals.pdf
-http://ns.adobe.com/pdf/1.3/Keywords
-d23530c0-b88b-462d-8cae-53a46d161c5c
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Mammals.pdf
-http://purl.org/dc/elements/1.1/subject
-355efc5b-ed2d-4ba5-b1f3-443e3c23f298
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Mammals.pdf
 http://ns.adobe.com/xap/1.0/CreateDate
@@ -48,7 +56,7 @@ Acrobat PDFMaker 17 for Word
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Mammals.pdf
 http://purl.org/dc/elements/1.1/creator
-399b833b-61ac-430b-8676-539e0fc95b37
+940c1dad-16d2-49d6-9a66-2cbfd8232446
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Mammals.pdf
 http://purl.org/dc/elements/1.1/analyzedBy
@@ -59,30 +67,22 @@ http://ns.adobe.com/xap/1.0/Label
 Mammals
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Mammals.pdf
-http://purl.org/dc/elements/1.1/title
-de6759d2-34e7-46c0-ba47-abd4480d8b1c
+http://purl.org/dc/elements/1.1/subject
+31123f29-d6a4-4302-a541-db17ce0fceeb
 
-399b833b-61ac-430b-8676-539e0fc95b37
+31123f29-d6a4-4302-a541-db17ce0fceeb
+http://purl.org/dc/elements/1.1/li
+Species
+
+31123f29-d6a4-4302-a541-db17ce0fceeb
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag
+
+940c1dad-16d2-49d6-9a66-2cbfd8232446
 http://purl.org/dc/elements/1.1/li
 Belal Abu Naim
 
-399b833b-61ac-430b-8676-539e0fc95b37
+940c1dad-16d2-49d6-9a66-2cbfd8232446
 http://www.w3.org/1999/02/22-rdf-syntax-ns#type
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq
-
-d23530c0-b88b-462d-8cae-53a46d161c5c
-http://ns.adobe.com/pdf/1.3/_1
-Mammals
-
-d23530c0-b88b-462d-8cae-53a46d161c5c
-http://ns.adobe.com/pdf/1.3/_2
-Species
-
-355efc5b-ed2d-4ba5-b1f3-443e3c23f298
-http://purl.org/dc/elements/1.1/li
-Species
-
-355efc5b-ed2d-4ba5-b1f3-443e3c23f298
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag
 

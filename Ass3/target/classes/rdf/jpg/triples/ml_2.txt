@@ -1,15 +1,3 @@
-709b0c7f-a6f7-4f1b-8871-91f08f27df5b
-http://purl.org/dc/elements/1.1/_1
-Mammals
-
-709b0c7f-a6f7-4f1b-8871-91f08f27df5b
-http://purl.org/dc/elements/1.1/_2
-Species
-
-709b0c7f-a6f7-4f1b-8871-91f08f27df5b
-http://purl.org/dc/elements/1.1/_3
-Marine Life
-
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
 http://purl.org/dc/elements/1.1/analyzedBy
 11914741
@@ -32,7 +20,7 @@ xmp.did:8F167E25FD6711E88C7B8CDA97FC16E4
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
 http://purl.org/dc/elements/1.1/subject
-709b0c7f-a6f7-4f1b-8871-91f08f27df5b
+Marine Life | Species | Mammals
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
 http://ns.adobe.com/xap/1.0/Label
@@ -41,4 +29,16 @@ Marine Life
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
 http://ns.adobe.com/xap/1.0/CreatorTool
 Adobe Photoshop CC 2018 Macintosh
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+b9eccdf2-7cd9-4282-9307-854c3d45c678
+
+b9eccdf2-7cd9-4282-9307-854c3d45c678
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
+Marine Life
+
+b9eccdf2-7cd9-4282-9307-854c3d45c678
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Species
 

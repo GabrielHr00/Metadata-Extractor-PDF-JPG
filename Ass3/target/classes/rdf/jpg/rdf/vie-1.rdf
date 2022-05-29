@@ -1,20 +1,40 @@
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:j.0="http://ns.microsoft.com/photo/1.0/"
-    xmlns:j.1="http://ns.adobe.com/photoshop/1.0/"
-    xmlns:j.2="http://ns.adobe.com/xap/1.0/">
+    xmlns:j.1="http://ns.adobe.com/exif/1.0/Resolution "
+    xmlns:j.2="http://ns.adobe.com/xap/1.0/"
+    xmlns:j.3="http://ns.adobe.com/exif/1.0/YCbCr "
+    xmlns:j.4="http://ns.adobe.com/exif/1.0/Y "
+    xmlns:j.5="http://ns.adobe.com/exif/1.0/X "
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:j.6="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:j.7="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:j.8="http://ns.adobe.com/exif/1.0/"
+    xmlns:j.9="http://ns.adobe.com/exif/1.0/Date/"
+    xmlns:j.10="http://ns.adobe.com/exif/1.0/Reference Black/">
   <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#vie-1.jpg">
-    <dc:analyzedBy>11914741</dc:analyzedBy>
-    <j.0:Rating>0</j.0:Rating>
-    <j.1:Urgency>5</j.1:Urgency>
-    <dc:subject rdf:parseType="Resource">
-      <dc:_1>Tourism</dc:_1>
-      <dc:_2>Landscape</dc:_2>
-      <dc:_3>Holiday</dc:_3>
-      <dc:_4>City</dc:_4>
-      <dc:_5>Capital</dc:_5>
-    </dc:subject>
+    <j.8:Make>NIKON CORPORATION</j.8:Make>
+    <j.8:Copyright>Christian Philipp, CC-by-sa 3.0                       </j.8:Copyright>
+    <j.4:Resolution>300 dots per inch</j.4:Resolution>
+    <j.8:Model>NIKON D7000</j.8:Model>
+    <j.10:White>[0,0,0] [255,255,255]</j.10:White>
+    <j.6:Keywords rdf:parseType="Resource">
+      <j.6:_1>Capital</j.6:_1>
+      <j.6:_2>Tourism</j.6:_2>
+      <j.6:_3>City</j.6:_3>
+      <j.6:_4>Landscape</j.6:_4>
+      <j.6:_5>Holiday</j.6:_5>
+    </j.6:Keywords>
     <j.2:Label>Vienna</j.2:Label>
+    <j.0:Rating>0</j.0:Rating>
+    <j.3:Positioning>Center of pixel array</j.3:Positioning>
+    <dc:analyzedBy>11914741</dc:analyzedBy>
+    <j.8:Orientation>Top, left side (Horizontal / normal)</j.8:Orientation>
+    <j.8:Software>ViewNX 2.10 W</j.8:Software>
+    <j.7:Urgency>5</j.7:Urgency>
+    <j.1:Unit>Inch</j.1:Unit>
+    <j.5:Resolution>300 dots per inch</j.5:Resolution>
+    <dc:subject>Capital | City | Holiday | Landscape | Tourism</dc:subject>
+    <j.9:Time>2017:10:07 01:20:05</j.9:Time>
   </rdf:Description>
 </rdf:RDF>
