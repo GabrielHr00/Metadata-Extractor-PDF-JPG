@@ -1,76 +1,76 @@
-1fea3c00-b5a5-4008-92e3-3f5870514c66
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-Marine_Life
-
-1fea3c00-b5a5-4008-92e3-3f5870514c66
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
-Species
-
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://purl.org/dc/elements/1.1/subject
-Marine_Life_|_Species
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/xap/1.0/Label
-Marine_Life
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/exif/1.0/Software
-Windows_Photo_Editor_10.0.10011.16384
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/exif/1.0/Image_Description
+http://ns.adobe.com/exif/1.0/ImageDescription
 DCIM\100GOPRO\GOPR1293.
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/xap/1.0/CreatorTool
-Windows_Photo_Editor_10.0.10011.16384
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
+991c1a86-d7e0-46b3-89c0-4427f931afd6
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/exif/1.0/Model
+HERO4 Silver
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/xap/1.0/Label
+Marine Life
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/exif/1.0/YCbCrPositioning
+Center of pixel array
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/exif/1.0/Orientation
+Top, left side (Horizontal / normal)
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
 http://ns.adobe.com/exif/1.0/Make
 GoPro
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/exif/1.0/X_Resolution
-72_dots_per_inch
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/exif/1.0/Resolution_Unit
-Inch
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/exif/1.0/YCbCr_Positioning
-Center_of_pixel_array
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/exif/1.0/Orientation
-Top,_left_side_(Horizontal_/_normal)
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/exif/1.0/Model
-HERO4_Silver
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
 http://ns.adobe.com/exif/1.0/Date/Time
-2018:10:26_01:12:44
+2018:10:26 01:12:44
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/exif/1.0/YResolution
+72 dots per inch
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/exif/1.0/Padding
+[2060 values]
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/exif/1.0/Software
+Windows Photo Editor 10.0.10011.16384
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
 http://ns.adobe.com/xap/1.0/mm/InstanceID
 uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://ns.adobe.com/exif/1.0/ResolutionUnit
+Inch
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
+http://purl.org/dc/elements/1.1/subject
+Marine Life
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
 http://purl.org/dc/elements/1.1/analyzedBy
 11914741
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/exif/1.0/Padding
-[2060_values]
+http://ns.adobe.com/exif/1.0/XResolution
+72 dots per inch
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://ns.adobe.com/exif/1.0/Y_Resolution
-72_dots_per_inch
+http://ns.adobe.com/xap/1.0/CreatorTool
+Windows Photo Editor 10.0.10011.16384
 
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-5.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-1fea3c00-b5a5-4008-92e3-3f5870514c66
+991c1a86-d7e0-46b3-89c0-4427f931afd6
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
+Marine Life
+
+991c1a86-d7e0-46b3-89c0-4427f931afd6
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
+Species
 

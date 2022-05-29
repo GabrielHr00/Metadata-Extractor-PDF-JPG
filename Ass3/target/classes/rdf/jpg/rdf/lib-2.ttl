@@ -8,26 +8,26 @@
                           "Library"
                 ] ;
         <http://ns.adobe.com/exif/1.0/Date/Time>
-                "2015:01:02_00:05:55" ;
+                "2015:01:02 00:05:55" ;
         <http://ns.adobe.com/exif/1.0/Make>
                 "Canon" ;
         <http://ns.adobe.com/exif/1.0/Model>
-                "Canon_EOS_6D" ;
+                "Canon EOS 6D" ;
         <http://ns.adobe.com/exif/1.0/Orientation>
-                "Top,_left_side_(Horizontal_/_normal)" ;
-        <http://ns.adobe.com/exif/1.0/Resolution_Unit>
+                "Top, left side (Horizontal / normal)" ;
+        <http://ns.adobe.com/exif/1.0/ResolutionUnit>
                 "Inch" ;
         <http://ns.adobe.com/exif/1.0/Software>
-                "Digital_Photo_Professional" ;
-        <http://ns.adobe.com/exif/1.0/X_Resolution>
-                "350_dots_per_inch" ;
-        <http://ns.adobe.com/exif/1.0/YCbCr_Positioning>
-                "Center_of_pixel_array" ;
-        <http://ns.adobe.com/exif/1.0/Y_Resolution>
-                "350_dots_per_inch" ;
+                "Digital Photo Professional" ;
+        <http://ns.adobe.com/exif/1.0/XResolution>
+                "350 dots per inch" ;
+        <http://ns.adobe.com/exif/1.0/YCbCrPositioning>
+                "Center of pixel array" ;
+        <http://ns.adobe.com/exif/1.0/YResolution>
+                "350 dots per inch" ;
         <http://ns.adobe.com/xap/1.0/Label>
                 "Library" ;
         <http://purl.org/dc/elements/1.1/analyzedBy>
                 "11914741" ;
         <http://purl.org/dc/elements/1.1/subject>
-                "Library_|_Education_|_University" .
+                "Library" .

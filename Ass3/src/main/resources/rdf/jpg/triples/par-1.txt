@@ -1,20 +1,20 @@
-cab93233-6fa2-4123-b387-680658185cb3
+3f406dc8-0ff5-4949-869b-0ae24a3e0c91
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
 Capital
 
-cab93233-6fa2-4123-b387-680658185cb3
+3f406dc8-0ff5-4949-869b-0ae24a3e0c91
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
 Tourism
 
-cab93233-6fa2-4123-b387-680658185cb3
+3f406dc8-0ff5-4949-869b-0ae24a3e0c91
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
 City
 
-cab93233-6fa2-4123-b387-680658185cb3
+3f406dc8-0ff5-4949-869b-0ae24a3e0c91
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
 Landscape
 
-cab93233-6fa2-4123-b387-680658185cb3
+3f406dc8-0ff5-4949-869b-0ae24a3e0c91
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5
 Holiday
 
@@ -24,7 +24,7 @@ http://purl.org/dc/elements/1.1/analyzedBy
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#par-1.jpg
 http://purl.org/dc/elements/1.1/subject
-Capital_|_City_|_Holiday_|_Landscape_|_Tourism
+Capital
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#par-1.jpg
 http://ns.adobe.com/xap/1.0/Label
@@ -32,9 +32,9 @@ Paris
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#par-1.jpg
 http://ns.adobe.com/exif/1.0/Orientation
-Top,_left_side_(Horizontal_/_normal)
+Top, left side (Horizontal / normal)
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#par-1.jpg
 http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-cab93233-6fa2-4123-b387-680658185cb3
+3f406dc8-0ff5-4949-869b-0ae24a3e0c91
 

@@ -1,35 +1,35 @@
 <http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-4.jpg>
         <http://cipa.jp/exif/1.0/PhotographicSensitivity>
                 "200" ;
-        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Application_Record_Version>
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/ApplicationRecordVersion>
                 "4" ;
         <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Caption/Abstract>
-                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" ;
-        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Date_Created>
+                "Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/DateCreated>
                 "2011:05:07" ;
-        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital_Date_Created>
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/DigitalDateCreated>
                 "2011:05:07" ;
-        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Digital_Time_Created>
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/DigitalTimeCreated>
                 "06:21:44+0000" ;
         <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Headline>
-                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" ;
+                "Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis" ;
         <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords>
                 [ <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1>
                           "Island" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_10>
                           "trees" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_11>
-                          "travel_photography" ;
+                          "travel photography" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_12>
                           "temple" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_13>
                           "stupas" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_14>
-                          "stock_photo_travel" ;
+                          "stock photo travel" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_15>
-                          "Southeast_Asia" ;
+                          "Southeast Asia" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_16>
-                          "south_east_asia" ;
+                          "south east asia" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_17>
                           "sky" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_18>
@@ -41,13 +41,13 @@
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_20>
                           "rm" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_21>
-                          "rights_managed" ;
+                          "rights managed" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_22>
                           "photography" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_23>
                           "photo" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_24>
-                          "palm_tree" ;
+                          "palm tree" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_25>
                           "nobody" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_26>
@@ -57,7 +57,7 @@
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_28>
                           "mist" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_29>
-                          "landscape_photography" ;
+                          "landscape photography" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3>
                           "Landscape" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_30>
@@ -85,7 +85,7 @@
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_40>
                           "hills" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_41>
-                          "high_dynamic_range" ;
+                          "high dynamic range" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_42>
                           "HDR" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_43>
@@ -107,7 +107,7 @@
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_50>
                           "buddhist" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_51>
-                          "Borobudur_Temple" ;
+                          "Borobudur Temple" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_52>
                           "Borobudur" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_53>
@@ -119,16 +119,16 @@
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_56>
                           "above" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_6>
-                          "world_heritage_site" ;
+                          "world heritage site" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_7>
                           "wellistravelphotography" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_8>
-                          "Unesco_world_heritage_site" ;
+                          "Unesco world heritage site" ;
                   <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_9>
                           "UNESCO"
                 ] ;
-        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Object_Name>
-                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Tem" ;
+        <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/ObjectName>
+                "Indonesia travel landscape photography, Sunrise at Borobudur Tem" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/AlreadyApplied>
                 "True" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/AutoLateralCA>
@@ -252,7 +252,7 @@
         <http://ns.adobe.com/camera-raw-settings/1.0/ProcessVersion>
                 "6.7" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/RawFileName>
-                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis.JPG" ;
+                "Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis.JPG" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/RedHue>
                 "0" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/RedSaturation>
@@ -300,13 +300,13 @@
         <http://ns.adobe.com/camera-raw-settings/1.0/ToneCurveName2012>
                 "Linear" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012>
-                "0,_0" , "255,_255" ;
+                "255, 255" , "0, 0" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Blue>
-                "255,_255" , "0,_0" ;
+                "255, 255" , "0, 0" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Green>
-                "0,_0" , "255,_255" ;
+                "255, 255" , "0, 0" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/ToneCurvePV2012Red>
-                "0,_0" , "255,_255" ;
+                "255, 255" , "0, 0" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/UprightCenterMode>
                 "0" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/UprightCenterNormX>
@@ -330,33 +330,33 @@
         <http://ns.adobe.com/camera-raw-settings/1.0/VignetteAmount>
                 "0" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/WhiteBalance>
-                "As_Shot" ;
+                "As Shot" ;
         <http://ns.adobe.com/camera-raw-settings/1.0/Whites2012>
                 "0" ;
         <http://ns.adobe.com/exif/1.0/Date/Time>
-                "2014:01:04_14:35:03" ;
-        <http://ns.adobe.com/exif/1.0/Image_Description>
-                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" ;
+                "2014:01:04 14:35:03" ;
+        <http://ns.adobe.com/exif/1.0/ImageDescription>
+                "Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis" ;
         <http://ns.adobe.com/exif/1.0/Model>
-                "NIKON_D700" ;
-        <http://ns.adobe.com/exif/1.0/Resolution_Unit>
+                "NIKON D700" ;
+        <http://ns.adobe.com/exif/1.0/ResolutionUnit>
                 "Inch" ;
         <http://ns.adobe.com/exif/1.0/Software>
-                "Adobe_Photoshop_Camera_Raw_8.1_(Macintosh)" ;
-        <http://ns.adobe.com/exif/1.0/X_Resolution>
-                "72_dots_per_inch" ;
-        <http://ns.adobe.com/exif/1.0/Y_Resolution>
-                "72_dots_per_inch" ;
+                "Adobe Photoshop Camera Raw 8.1 (Macintosh)" ;
+        <http://ns.adobe.com/exif/1.0/XResolution>
+                "72 dots per inch" ;
+        <http://ns.adobe.com/exif/1.0/YResolution>
+                "72 dots per inch" ;
         <http://ns.adobe.com/exif/1.0/aux/ApproximateFocusDistance>
                 "282/100" ;
         <http://ns.adobe.com/photoshop/1.0/DateCreated>
                 "2011-05-07" ;
         <http://ns.adobe.com/photoshop/1.0/Headline>
-                "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" ;
+                "Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis" ;
         <http://ns.adobe.com/xap/1.0/CreateDate>
                 "2011-05-07T06:21:44.00" ;
         <http://ns.adobe.com/xap/1.0/CreatorTool>
-                "Adobe_Photoshop_Camera_Raw_8.1_(Macintosh)" ;
+                "Adobe Photoshop Camera Raw 8.1 (Macintosh)" ;
         <http://ns.adobe.com/xap/1.0/Label>
                 "Jawa" ;
         <http://ns.adobe.com/xap/1.0/MetadataDate>
@@ -372,7 +372,7 @@
         <http://ns.adobe.com/xap/1.0/mm/DocumentID>
                 "xmp.did:26113ba3-dbf9-46d7-bd63-cc2c8db553fa" ;
         <http://ns.adobe.com/xap/1.0/mm/History>
-                "/" , "xmp.iid:6FC825E630206811822ADBA244B54B5B" , "derived" , "saved_to_new_location" , "xmp.iid:26113ba3-dbf9-46d7-bd63-cc2c8db553fa" , "2014-01-04T14:29:52Z" , "2014-01-04T14:35:03Z" , "Adobe_Photoshop_Camera_Raw_8.1_(Macintosh)" , "saved" , "xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263" , "/metadata" , "Adobe_Photoshop_Camera_Raw_8.1" ;
+                "/" , "xmp.iid:6FC825E630206811822ADBA244B54B5B" , "Adobe Photoshop Camera Raw 8.1 (Macintosh)" , "saved to new location" , "Adobe Photoshop Camera Raw 8.1" , "derived" , "xmp.iid:26113ba3-dbf9-46d7-bd63-cc2c8db553fa" , "2014-01-04T14:29:52Z" , "2014-01-04T14:35:03Z" , "saved" , "xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263" , "/metadata" ;
         <http://ns.adobe.com/xap/1.0/mm/InstanceID>
                 "xmp.iid:26113ba3-dbf9-46d7-bd63-cc2c8db553fa" ;
         <http://ns.adobe.com/xap/1.0/mm/OriginalDocumentID>
@@ -382,10 +382,10 @@
         <http://purl.org/dc/elements/1.1/date>
                 "2011-05-07T06:21:44" ;
         <http://purl.org/dc/elements/1.1/description>
-                "x-default" , "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" ;
+                "x-default" , "Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis" ;
         <http://purl.org/dc/elements/1.1/format>
                 "image/jpeg" ;
         <http://purl.org/dc/elements/1.1/subject>
-                "Holiday_|_Island_|_Landscape_|_Tourism" ;
+                "Holiday" ;
         <http://purl.org/dc/elements/1.1/title>
-                "x-default" , "Indonesia_travel_landscape_photography,_Sunrise_at_Borobudur_Temple,_Yogyakarta,_Java,_Indonesia,_travel_landscape_photography_by_travel_and_landscape_photographer_Matthew_Williams-Ellis" .
+                "Indonesia travel landscape photography, Sunrise at Borobudur Temple, Yogyakarta, Java, Indonesia, travel landscape photography by travel and landscape photographer Matthew Williams-Ellis" , "x-default" .

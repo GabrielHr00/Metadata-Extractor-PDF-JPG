@@ -16,4 +16,4 @@
         <http://purl.org/dc/elements/1.1/analyzedBy>
                 "11914741" ;
         <http://purl.org/dc/elements/1.1/subject>
-                "Capital_|_City_|_Holiday_|_Landscape_|_Tourism_|_Unitednations" .
+                "Capital" .

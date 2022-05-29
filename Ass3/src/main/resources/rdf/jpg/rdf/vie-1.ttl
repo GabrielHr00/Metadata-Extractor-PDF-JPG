@@ -12,27 +12,27 @@
                           "Holiday"
                 ] ;
         <http://ns.adobe.com/exif/1.0/Copyright>
-                "Christian_Philipp,_CC-by-sa_3.0_______________________" ;
+                "Christian Philipp, CC-by-sa 3.0                       " ;
         <http://ns.adobe.com/exif/1.0/Date/Time>
-                "2017:10:07_01:20:05" ;
+                "2017:10:07 01:20:05" ;
         <http://ns.adobe.com/exif/1.0/Make>
-                "NIKON_CORPORATION" ;
+                "NIKON CORPORATION" ;
         <http://ns.adobe.com/exif/1.0/Model>
-                "NIKON_D7000" ;
+                "NIKON D7000" ;
         <http://ns.adobe.com/exif/1.0/Orientation>
-                "Top,_left_side_(Horizontal_/_normal)" ;
-        <http://ns.adobe.com/exif/1.0/Reference_Black/White>
-                "[0,0,0]_[255,255,255]" ;
-        <http://ns.adobe.com/exif/1.0/Resolution_Unit>
+                "Top, left side (Horizontal / normal)" ;
+        <http://ns.adobe.com/exif/1.0/ReferenceBlack/White>
+                "[0,0,0] [255,255,255]" ;
+        <http://ns.adobe.com/exif/1.0/ResolutionUnit>
                 "Inch" ;
         <http://ns.adobe.com/exif/1.0/Software>
-                "ViewNX_2.10_W" ;
-        <http://ns.adobe.com/exif/1.0/X_Resolution>
-                "300_dots_per_inch" ;
-        <http://ns.adobe.com/exif/1.0/YCbCr_Positioning>
-                "Center_of_pixel_array" ;
-        <http://ns.adobe.com/exif/1.0/Y_Resolution>
-                "300_dots_per_inch" ;
+                "ViewNX 2.10 W" ;
+        <http://ns.adobe.com/exif/1.0/XResolution>
+                "300 dots per inch" ;
+        <http://ns.adobe.com/exif/1.0/YCbCrPositioning>
+                "Center of pixel array" ;
+        <http://ns.adobe.com/exif/1.0/YResolution>
+                "300 dots per inch" ;
         <http://ns.adobe.com/photoshop/1.0/Urgency>
                 "5" ;
         <http://ns.adobe.com/xap/1.0/Label>
@@ -42,4 +42,4 @@
         <http://purl.org/dc/elements/1.1/analyzedBy>
                 "11914741" ;
         <http://purl.org/dc/elements/1.1/subject>
-                "Capital_|_City_|_Holiday_|_Landscape_|_Tourism" .
+                "Capital" .

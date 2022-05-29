@@ -12,4 +12,4 @@
         <http://purl.org/dc/elements/1.1/analyzedBy>
                 "11914741" ;
         <http://purl.org/dc/elements/1.1/subject>
-                "Animals_|_Mammals_|_Species" .
+                "Animals" .

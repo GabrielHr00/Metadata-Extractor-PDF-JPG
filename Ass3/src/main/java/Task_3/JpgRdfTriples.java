@@ -110,6 +110,9 @@ public class JpgRdfTriples {
         // write to the appropriate file
         FileOutputStream fos = new FileOutputStream(new File("src/main/resources/rdf/jpg/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "ttl"));
         model.write(fos, "TURTLE");
+
+        FileOutputStream task5 = new FileOutputStream(new File("src/main/java/Task_5/rdf/jpg/" + this.fileName.substring(0, this.fileName.length() - 3) + "xml"));
+        model.write(task5, "RDF/XML");
     }
 
     private void fillInMetadataIntoMapsIptcAndExif(Map<String, String> namespaces, Map<String, String> meta, Metadata metadata) {
@@ -119,9 +122,8 @@ public class JpgRdfTriples {
             for (Tag t : exif.getTags()) {
                 if(t.hasTagName()){
                     namespaces.put("iptc", "");
-                    String tagN = t.getTagName().replaceAll(" ", "_");
-                    String tagD = t.getDescription().replaceAll(" ", "_");
-                    meta.putIfAbsent("iptc:" + tagN, tagD);
+                    String tagN = t.getTagName().replaceAll(" ", "");
+                    meta.putIfAbsent("iptc:" + tagN, t.getDescription());
                 }
             }
         }
@@ -132,9 +134,8 @@ public class JpgRdfTriples {
             for (Tag t : exif.getTags()) {
                 if(t.hasTagName()) {
                     namespaces.put("exif", "");
-                    String tagN = t.getTagName().replaceAll(" ", "_");
-                    String tagD = t.getDescription().replaceAll(" ", "_");
-                    meta.putIfAbsent("exif:" + tagN, tagD);
+                    String tagN = t.getTagName().replaceAll(" ", "");
+                    meta.putIfAbsent("exif:" + tagN, t.getDescription());
                 }
             }
         }
@@ -144,8 +145,8 @@ public class JpgRdfTriples {
         XmpDirectory xmpDirectory = metadata.getFirstDirectoryOfType(XmpDirectory.class);
         List<String> subjects = xmpDirectory.getXmpProperties().keySet().stream().collect(Collectors.toList());
         for (String key : subjects) {
-            String result = xmpDirectory.getXmpProperties().get(key).replaceAll(" ", "_");
-            meta.putIfAbsent(key, result);
+            // String result = xmpDirectory.getXmpProperties().get(key).replaceAll(" ", "_");
+            meta.putIfAbsent(key, xmpDirectory.getXmpProperties().get(key));
         }
 
         XMPMeta xmpMeta = xmpDirectory.getXMPMeta();

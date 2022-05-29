@@ -1,10 +1,14 @@
-31334b03-fe56-41eb-ab79-16377a5b82bd
+0a1b9311-5743-40c0-8cc6-4ebd41eaf44d
 http://purl.org/dc/elements/1.1/li
 Java
 
-31334b03-fe56-41eb-ab79-16377a5b82bd
+0a1b9311-5743-40c0-8cc6-4ebd41eaf44d
 http://www.w3.org/1999/02/22-rdf-syntax-ns#type
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
+http://purl.org/dc/elements/1.1/title
+0a1b9311-5743-40c0-8cc6-4ebd41eaf44d
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/xap/1.0/ModifyDate
@@ -13,10 +17,6 @@ http://ns.adobe.com/xap/1.0/ModifyDate
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/pdf/1.3/Producer
 Adobe PDF Library 15.0
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
-http://purl.org/dc/elements/1.1/subject
-ef164d25-b7b2-4a0e-b832-45a1631cf32d
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://purl.org/dc/elements/1.1/analyzedBy
@@ -31,20 +31,24 @@ http://purl.org/dc/elements/1.1/format
 application/pdf
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
-http://purl.org/dc/elements/1.1/title
-31334b03-fe56-41eb-ab79-16377a5b82bd
+http://purl.org/dc/elements/1.1/subject
+acfa9d69-183d-43fc-8dfc-b0ff1c3b8029
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
-http://ns.adobe.com/xap/1.0/mm/InstanceID
-uuid:cd61a062-7ffa-4c19-9b7c-81a2ac0c145e
+http://purl.org/dc/elements/1.1/creator
+a127a896-16db-4719-96e2-97cbb6037ae8
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/xap/1.0/MetadataDate
 2019-05-21T12:56:10+02:00
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
+http://ns.adobe.com/xap/1.0/mm/InstanceID
+uuid:cd61a062-7ffa-4c19-9b7c-81a2ac0c145e
+
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/pdf/1.3/Keywords
-eed46cd9-6a29-4a4e-9fd5-7f840a3d40b4
+70a28a0d-a32a-4fc7-a076-732f52281a8f
 
 http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/xap/1.0/mm/DocumentID
@@ -58,31 +62,27 @@ http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
 http://ns.adobe.com/xap/1.0/Label
 Islands
 
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Jawa.pdf
-http://purl.org/dc/elements/1.1/creator
-000d6116-3ec4-417b-be14-f7a3dc11c6ed
-
-ef164d25-b7b2-4a0e-b832-45a1631cf32d
-http://purl.org/dc/elements/1.1/li
-Island
-
-ef164d25-b7b2-4a0e-b832-45a1631cf32d
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag
-
-000d6116-3ec4-417b-be14-f7a3dc11c6ed
-http://purl.org/dc/elements/1.1/li
-Belal Abu Naim
-
-000d6116-3ec4-417b-be14-f7a3dc11c6ed
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq
-
-eed46cd9-6a29-4a4e-9fd5-7f840a3d40b4
+70a28a0d-a32a-4fc7-a076-732f52281a8f
 http://ns.adobe.com/pdf/1.3/_1
 Tourism
 
-eed46cd9-6a29-4a4e-9fd5-7f840a3d40b4
+70a28a0d-a32a-4fc7-a076-732f52281a8f
 http://ns.adobe.com/pdf/1.3/_2
 Island
+
+a127a896-16db-4719-96e2-97cbb6037ae8
+http://purl.org/dc/elements/1.1/li
+Belal Abu Naim
+
+a127a896-16db-4719-96e2-97cbb6037ae8
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq
+
+acfa9d69-183d-43fc-8dfc-b0ff1c3b8029
+http://purl.org/dc/elements/1.1/li
+Island
+
+acfa9d69-183d-43fc-8dfc-b0ff1c3b8029
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag
 

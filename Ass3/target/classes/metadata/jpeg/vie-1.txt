@@ -15,3 +15,40 @@ exif:Date/Time: 2017:10:07 01:20:05
 exif:YCbCr Positioning: Center of pixel array
 exif:Reference Black/White: [0,0,0] [255,255,255]
 exif:Copyright: Christian Philipp, CC-by-sa 3.0                       
+exif:Exposure Time: 1/160 sec
+exif:F-Number: f/16.0
+exif:Exposure Program: Shutter priority
+exif:ISO Speed Ratings: 200
+exif:Exif Version: 2.30
+exif:Date/Time Digitized: 2017:02:15 14:19:02
+exif:Components Configuration: YCbCr
+exif:Exposure Bias Value: -1/3 EV
+exif:Max Aperture Value: f/3.9
+exif:Metering Mode: Multi-segment
+exif:White Balance: Unknown
+exif:Flash: Flash did not fire
+exif:Focal Length: 26 mm
+exif:User Comment: 
+exif:Sub-Sec Time: 30
+exif:Sub-Sec Time Original: 30
+exif:Sub-Sec Time Digitized: 30
+exif:FlashPix Version: 1.00
+exif:Color Space: Undefined
+exif:Exif Image Width: 4861 pixels
+exif:Exif Image Height: 2470 pixels
+exif:Sensing Method: One-chip color area sensor
+exif:File Source: Digital Still Camera (DSC)
+exif:Scene Type: Directly photographed image
+exif:CFA Pattern: [Red,Green][Green,Blue]
+exif:Custom Rendered: Normal process
+exif:Exposure Mode: Auto exposure
+exif:White Balance Mode: Auto white balance
+exif:Digital Zoom Ratio: 1
+exif:Focal Length 35: 39 mm
+exif:Scene Capture Type: Standard
+exif:Gain Control: None
+exif:Contrast: None
+exif:Saturation: None
+exif:Sharpness: Hard
+exif:Subject Distance Range: Unknown
+exif:Unknown tag (0xea1d): -66

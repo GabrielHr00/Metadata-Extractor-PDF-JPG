@@ -6,10 +6,11 @@ import java.io.File;
 import java.io.IOException;
 
 public class JPEGReader {
-    private String path = "src/main/java/Assignment3Files/jpeg/";
+    private String path;
     private String fileName;
 
-    public JPEGReader(String fileName) {
+    public JPEGReader(String path, String fileName) {
+        this.path = path;
         this.fileName = fileName;
     }
 
