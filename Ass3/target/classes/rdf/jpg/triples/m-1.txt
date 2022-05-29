@@ -1,28 +1,7 @@
-http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg
-http://purl.org/dc/elements/1.1/analyzedBy
-11914741
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg
-http://purl.org/dc/elements/1.1/subject
-Animals
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg
-http://ns.adobe.com/xap/1.0/Label
-Mammals
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-57780c2d-e926-4279-8eb6-950e8f83a3b6
-
-57780c2d-e926-4279-8eb6-950e8f83a3b6
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-Species
-
-57780c2d-e926-4279-8eb6-950e8f83a3b6
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
-Mammals
-
-57780c2d-e926-4279-8eb6-950e8f83a3b6
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
-Animals
-
+http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg    http://purl.org/dc/elements/1.1/subject    Animals  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg    http://ns.adobe.com/xap/1.0/Label    Mammals  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#m-1.jpg    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    b3f0eb81-5d79-434d-a23f-7e89187110d3  .
+b3f0eb81-5d79-434d-a23f-7e89187110d3    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Species  .
+b3f0eb81-5d79-434d-a23f-7e89187110d3    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Mammals  .
+b3f0eb81-5d79-434d-a23f-7e89187110d3    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3    Animals  .

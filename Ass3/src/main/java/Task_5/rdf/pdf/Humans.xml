@@ -7,11 +7,6 @@
   <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#Humans.pdf">
     <j.2:InstanceID>uuid:420813bf-d3b6-415c-b271-bb985e02e021</j.2:InstanceID>
     <j.1:CreateDate>2019-05-21T11:15:52+02:00</j.1:CreateDate>
-    <dc:title>
-      <rdf:Alt>
-        <dc:li>Humans</dc:li>
-      </rdf:Alt>
-    </dc:title>
     <j.1:MetadataDate>2019-05-21T12:53:34+02:00</j.1:MetadataDate>
     <j.0:Keywords rdf:parseType="Resource">
       <j.0:_1>Species</j.0:_1>
@@ -22,18 +17,23 @@
     <dc:format>application/pdf</dc:format>
     <j.1:ModifyDate>2019-05-21T12:53:34+02:00</j.1:ModifyDate>
     <j.1:Label>Mammals</j.1:Label>
+    <dc:creator>
+      <rdf:Seq>
+        <dc:li>Belal Abu Naim</dc:li>
+      </rdf:Seq>
+    </dc:creator>
     <dc:analyzedBy>11914741</dc:analyzedBy>
     <dc:subject>
       <rdf:Bag>
         <dc:li>Mammals</dc:li>
       </rdf:Bag>
     </dc:subject>
+    <dc:title>
+      <rdf:Alt>
+        <dc:li>Humans</dc:li>
+      </rdf:Alt>
+    </dc:title>
     <j.2:DocumentID>uuid:8672763d-82f8-43d9-9a98-0d0b68eafcab</j.2:DocumentID>
     <j.1:CreatorTool>Acrobat PDFMaker 17 for Word</j.1:CreatorTool>
-    <dc:creator>
-      <rdf:Seq>
-        <dc:li>Belal Abu Naim</dc:li>
-      </rdf:Seq>
-    </dc:creator>
   </rdf:Description>
 </rdf:RDF>

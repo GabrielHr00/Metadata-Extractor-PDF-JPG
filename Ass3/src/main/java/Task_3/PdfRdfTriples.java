@@ -105,9 +105,9 @@ public class PdfRdfTriples {
         StringBuilder result = new StringBuilder();
         while(stmtIterator.hasNext()) {
             Statement next = stmtIterator.next();
-            result.append(next.getSubject() + "\n");
-            result.append(next.getPredicate() + "\n");
-            result.append(next.getObject() + "\n\n");
+            result.append(next.getSubject() + "    ");
+            result.append(next.getPredicate() + "    ");
+            result.append(next.getObject() + "  .\n");
         }
         FileWriter jpegWriter = new FileWriter("src/main/resources/rdf/pdf/triples/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
         jpegWriter.write(result.toString());

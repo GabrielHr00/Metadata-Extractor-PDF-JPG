@@ -1,36 +1,9 @@
-b90d2ed7-d8ac-4f88-99f6-4ba4698fb728
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1
-Island
-
-b90d2ed7-d8ac-4f88-99f6-4ba4698fb728
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2
-Tourism
-
-b90d2ed7-d8ac-4f88-99f6-4ba4698fb728
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3
-Landscape
-
-b90d2ed7-d8ac-4f88-99f6-4ba4698fb728
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4
-Holiday
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
-http://purl.org/dc/elements/1.1/analyzedBy
-11914741
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
-http://purl.org/dc/elements/1.1/subject
-Holiday
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
-http://ns.adobe.com/xap/1.0/Label
-Jawa
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
-http://ns.adobe.com/exif/1.0/Orientation
-Top, left side (Horizontal / normal)
-
-http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg
-http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords
-b90d2ed7-d8ac-4f88-99f6-4ba4698fb728
-
+d087fe5e-4d87-48d0-9a6d-8ee557007c63    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Island  .
+d087fe5e-4d87-48d0-9a6d-8ee557007c63    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Tourism  .
+d087fe5e-4d87-48d0-9a6d-8ee557007c63    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3    Landscape  .
+d087fe5e-4d87-48d0-9a6d-8ee557007c63    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4    Holiday  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg    http://purl.org/dc/elements/1.1/subject    Holiday  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg    http://ns.adobe.com/xap/1.0/Label    Jawa  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg    http://ns.adobe.com/exif/1.0/Orientation    Top, left side (Horizontal / normal)  .
+http://www.w3.org/1999/02/22-rdf-syntax-ns#jawa-2.jpg    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    d087fe5e-4d87-48d0-9a6d-8ee557007c63  .
