@@ -21,7 +21,7 @@ import static com.adobe.internal.xmp.XMPConst.NS_EXIF;
 import static com.adobe.internal.xmp.XMPConst.NS_IPTCCORE;
 
 public class JpgRdfTriples {
-    private final static String root = "http://www.w3.org/1999/02/22-rdf-syntax-ns#";
+    private final static String root = "http://www.example.org/jpeg/";
     private String fileName;
 
     public JpgRdfTriples(String fileName) {
@@ -44,7 +44,7 @@ public class JpgRdfTriples {
         Model model = ModelFactory.createDefaultModel();
 
         // fill in Properties into the JENA model
-        Resource res = model.createResource(root + this.fileName.replaceAll(" ", "_"));
+        Resource res = model.createResource(root + this.fileName.replaceAll(" ", "_").substring(0, this.fileName.length() - 4) + "#");
         for (var key : meta.keySet()) {
             int index = key.indexOf(":");
 
@@ -100,11 +100,14 @@ public class JpgRdfTriples {
         writeRDFTriplesIntoTXT(model);
 
         // write to the appropriate file
-        FileOutputStream fos = new FileOutputStream(new File("src/main/resources/rdf/jpg/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "ttl"));
+        FileOutputStream fos = new FileOutputStream(new File("src/main/java/Task_4/ttl/jpg/" + this.fileName.substring(0, this.fileName.length() - 3) + "ttl"));
         model.write(fos, "TURTLE");
 
-        FileOutputStream task5 = new FileOutputStream(new File("src/main/java/Task_5/rdf/jpg/" + this.fileName.substring(0, this.fileName.length() - 3) + "xml"));
+        FileOutputStream task5 = new FileOutputStream(new File("src/main/java/Task_5/rdf/jpg/" + this.fileName.substring(0, this.fileName.length() - 3) + "rdf"));
         model.write(task5, "RDF/XML");
+
+        FileOutputStream rdf = new FileOutputStream(new File("src/main/resources/rdf/jpg/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "rdf"));
+        model.write(rdf, "RDF/XML");
     }
 
     private void fillInMetadataIntoMapsIptcAndExif(Map<String, String> namespaces, Map<String, String> meta, Metadata metadata) {

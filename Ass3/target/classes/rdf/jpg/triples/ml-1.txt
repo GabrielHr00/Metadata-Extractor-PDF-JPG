@@ -1,7 +1,7 @@
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-1.jpg    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-1.jpg    http://purl.org/dc/elements/1.1/subject    Marine Life  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-1.jpg    http://ns.adobe.com/xap/1.0/Label    Marine Life  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml-1.jpg    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    d60cfbe5-a78e-4ea0-b9e6-bfe8f05adc56  .
-d60cfbe5-a78e-4ea0-b9e6-bfe8f05adc56    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Marine Life  .
-d60cfbe5-a78e-4ea0-b9e6-bfe8f05adc56    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Species  .
-d60cfbe5-a78e-4ea0-b9e6-bfe8f05adc56    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3    Mammals  .
+e97182ef-927a-42cd-81a5-0a09bc4f2c51    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Marine Life  .
+e97182ef-927a-42cd-81a5-0a09bc4f2c51    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Species  .
+e97182ef-927a-42cd-81a5-0a09bc4f2c51    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3    Mammals  .
+http://www.example.org/jpeg/ml-1#    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.example.org/jpeg/ml-1#    http://purl.org/dc/elements/1.1/subject    Marine Life  .
+http://www.example.org/jpeg/ml-1#    http://ns.adobe.com/xap/1.0/Label    Marine Life  .
+http://www.example.org/jpeg/ml-1#    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    e97182ef-927a-42cd-81a5-0a09bc4f2c51  .

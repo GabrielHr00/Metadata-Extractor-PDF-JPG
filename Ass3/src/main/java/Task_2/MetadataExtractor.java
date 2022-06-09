@@ -32,17 +32,27 @@ public class MetadataExtractor {
         List<PDFReader> pdfs = List.of(new PDFReader(pdfPath, "Cairo.pdf"), new PDFReader(pdfPath, "Humans.pdf"), new PDFReader(pdfPath, "Java.pdf"), new PDFReader(pdfPath, "Jawa.pdf"), new PDFReader(pdfPath, "Mammals.pdf"), new PDFReader(pdfPath, "Marine life.pdf"), new PDFReader(pdfPath, "Paris.pdf"), new PDFReader(pdfPath, "The Austrian National Library.pdf"), new PDFReader(pdfPath, "The University Library of the University of Vienna.pdf"), new PDFReader(pdfPath, "Vienna.pdf"));
 
 
-        // ----------------- JPEG Metadata --------------------
-        // just output it on the console (different metadata formats)
-        for (JPEGReader jpg: jpegs) {
-            extractMetadataFromImage(jpg);
-        }
+        try {
+            // ----------------- JPEG Metadata --------------------
+            // just output it on the console (different metadata formats)
+            for (JPEGReader jpg : jpegs) {
+                extractMetadataFromImage(jpg);
+            }
 
-        // ----------------- PDF Metadata--------------------
-        // NOTE: save in .xmp files in resources folder
-        for (PDFReader pdf: pdfs) {
-            extractMetadataFromPDF(pdf);
-            extractMetadataFromPDFAsText(pdf);
+            // ----------------- PDF Metadata--------------------
+            // NOTE: save in .xmp files in resources folder
+            for (PDFReader pdf : pdfs) {
+                extractMetadataFromPDF(pdf);
+                extractMetadataFromPDFAsText(pdf);
+            }
+
+            System.out.println("\n" + "======================================================================================");
+            System.out.println("Metadata is successfully extracted and stored in in the resources/metadata directory!");
+            System.out.println("======================================================================================");
+
+        }
+        catch (IllegalArgumentException e) {
+            System.out.println(e.getMessage());
         }
     }
 
