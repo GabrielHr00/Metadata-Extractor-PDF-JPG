@@ -1,4 +1,4 @@
-# Metadata Java (XMP, Exif, IPTC, DC, RDF...)
+# Metadata Java (XMP, Exif, IPTC, DC, RDF, SPARQL...)
 The Description of the task:
 
 The Digital Media Production Company (DMPCO) has a vast number of archived media objects such as image, audio, and PDF files. DMPCO would like to make use of RDF technology to find the relationships between these variously typed media objects. To assist DMPCO to achieve its goal, you are assigned the task to implement a system that reads the various types of metadata that annotate the media objects. Having extracted the metadata, you have to encode those extracted metadata elements by means of RDF triples and add them to the RDF store to allow DMPCO to search the extracted metadata using SPARQL.
