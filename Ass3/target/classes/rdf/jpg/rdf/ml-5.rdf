@@ -1,0 +1,69 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:j.0="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:j.1="http://ns.adobe.com/xap/1.0/"
+    xmlns:j.2="http://ns.adobe.com/exif/1.0/"
+    xmlns:j.3="http://ns.adobe.com/exif/1.0/Date/"
+    xmlns:j.4="http://ns.adobe.com/xap/1.0/mm/">
+  <rdf:Description rdf:about="http://www.example.org/jpeg/ml-5#">
+    <j.4:InstanceID>uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b</j.4:InstanceID>
+    <j.2:ExposureProgram>Program normal</j.2:ExposureProgram>
+    <j.2:Contrast>None</j.2:Contrast>
+    <j.3:TimeDigitized>2015:01:02 03:40:41</j.3:TimeDigitized>
+    <j.2:YResolution>72 dots per inch</j.2:YResolution>
+    <j.2:SensingMethod>One-chip color area sensor</j.2:SensingMethod>
+    <j.2:DeviceSettingDescription>0 0 0 0</j.2:DeviceSettingDescription>
+    <j.2:ApertureValue>f/2.8</j.2:ApertureValue>
+    <j.3:Time>2018:10:26 01:12:44</j.3:Time>
+    <j.2:MeteringMode>Center weighted average</j.2:MeteringMode>
+    <j.2:Makernote>[10512 values]</j.2:Makernote>
+    <j.2:Model>HERO4 Silver</j.2:Model>
+    <j.2:XResolution>72 dots per inch</j.2:XResolution>
+    <j.2:Flash>Flash did not fire</j.2:Flash>
+    <dc:subject>Marine Life</dc:subject>
+    <j.2:Orientation>Top, left side (Horizontal / normal)</j.2:Orientation>
+    <j.2:SubjectDistanceRange>Unknown</j.2:SubjectDistanceRange>
+    <j.2:FocalLength>3 mm</j.2:FocalLength>
+    <j.2:SubjectDistance>Unknown</j.2:SubjectDistance>
+    <j.2:FlashPixVersion>1.00</j.2:FlashPixVersion>
+    <j.2:ISOSpeedRatings>155</j.2:ISOSpeedRatings>
+    <j.2:Padding>[2060 values]</j.2:Padding>
+    <j.2:SceneCaptureType>Standard</j.2:SceneCaptureType>
+    <j.2:Saturation>None</j.2:Saturation>
+    <dc:analyzedBy>11914741</dc:analyzedBy>
+    <j.2:ExifVersion>2.21</j.2:ExifVersion>
+    <j.2:F-Number>f/2.8</j.2:F-Number>
+    <j.2:CustomRendered>Normal process</j.2:CustomRendered>
+    <j.2:ImageDescription>DCIM\100GOPRO\GOPR1293.</j.2:ImageDescription>
+    <j.2:WhiteBalanceMode>Auto white balance</j.2:WhiteBalanceMode>
+    <j.2:ExposureMode>Auto exposure</j.2:ExposureMode>
+    <j.2:WhiteBalance>Unknown</j.2:WhiteBalance>
+    <j.2:SceneType>Directly photographed image</j.2:SceneType>
+    <j.2:Sharpness>Hard</j.2:Sharpness>
+    <j.2:GainControl>None</j.2:GainControl>
+    <j.2:ComponentsConfiguration>YCbCr</j.2:ComponentsConfiguration>
+    <j.1:Label>Marine Life</j.1:Label>
+    <j.2:ExposureTime>8333/500000 sec</j.2:ExposureTime>
+    <j.2:FocalLength35>15 mm</j.2:FocalLength35>
+    <j.2:MaxApertureValue>f/2.8</j.2:MaxApertureValue>
+    <j.2:ColorSpace>sRGB</j.2:ColorSpace>
+    <j.2:ExposureIndex>0</j.2:ExposureIndex>
+    <j.2:YCbCrPositioning>Center of pixel array</j.2:YCbCrPositioning>
+    <j.2:ExifImageHeight>3000 pixels</j.2:ExifImageHeight>
+    <j.2:ShutterSpeedValue>1/59 sec</j.2:ShutterSpeedValue>
+    <j.2:Make>GoPro</j.2:Make>
+    <j.2:ResolutionUnit>Inch</j.2:ResolutionUnit>
+    <j.2:CompressedBitsPerPixel>1431655432/99 bits/pixel</j.2:CompressedBitsPerPixel>
+    <j.2:ExifImageWidth>4000 pixels</j.2:ExifImageWidth>
+    <j.2:Software>Windows Photo Editor 10.0.10011.16384</j.2:Software>
+    <j.1:CreatorTool>Windows Photo Editor 10.0.10011.16384</j.1:CreatorTool>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Marine Life</j.0:_1>
+      <j.0:_2>Species</j.0:_2>
+    </j.0:Keywords>
+    <j.2:FileSource>Digital Still Camera (DSC)</j.2:FileSource>
+    <j.2:DigitalZoomRatio>1</j.2:DigitalZoomRatio>
+    <j.2:ExposureBiasValue>0 EV</j.2:ExposureBiasValue>
+  </rdf:Description>
+</rdf:RDF>

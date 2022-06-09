@@ -1,22 +1,22 @@
-9af74186-7396-489d-aac5-68e639896d80    http://purl.org/dc/elements/1.1/li    Belal Abu Naim  .
-9af74186-7396-489d-aac5-68e639896d80    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq  .
-6562728a-b959-418d-9b15-f86e47f02a68    http://purl.org/dc/elements/1.1/li    Capital  .
-6562728a-b959-418d-9b15-f86e47f02a68    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag  .
-d3195096-854a-4ddf-a134-6a18a4300150    http://ns.adobe.com/pdf/1.3/_1    Tourism  .
-d3195096-854a-4ddf-a134-6a18a4300150    http://ns.adobe.com/pdf/1.3/_2    City  .
-d3195096-854a-4ddf-a134-6a18a4300150    http://ns.adobe.com/pdf/1.3/_3    Capital  .
-e29ae9c7-d3cd-4ae5-94f4-e6ae5d2b5856    http://purl.org/dc/elements/1.1/li    Paris  .
-e29ae9c7-d3cd-4ae5-94f4-e6ae5d2b5856    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://ns.adobe.com/xap/1.0/mm/InstanceID    uuid:abd29789-7ded-4ca7-9f99-33774f0ce6cb  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://ns.adobe.com/xap/1.0/CreateDate    2019-05-21T10:53:19+02:00  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://ns.adobe.com/xap/1.0/mm/DocumentID    uuid:85d003cc-242a-4483-bfcb-78f3d836aba7  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://ns.adobe.com/xap/1.0/CreatorTool    Acrobat PDFMaker 17 for Word  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://ns.adobe.com/xap/1.0/MetadataDate    2019-05-21T13:00:26+02:00  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://purl.org/dc/elements/1.1/title    e29ae9c7-d3cd-4ae5-94f4-e6ae5d2b5856  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://purl.org/dc/elements/1.1/creator    9af74186-7396-489d-aac5-68e639896d80  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://purl.org/dc/elements/1.1/format    application/pdf  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://ns.adobe.com/pdf/1.3/Producer    Adobe PDF Library 15.0  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://ns.adobe.com/xap/1.0/ModifyDate    2019-05-21T13:00:26+02:00  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://ns.adobe.com/pdf/1.3/Keywords    d3195096-854a-4ddf-a134-6a18a4300150  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#Paris.pdf    http://purl.org/dc/elements/1.1/subject    6562728a-b959-418d-9b15-f86e47f02a68  .
+c59ac115-d38a-444e-9ccb-f8ad83be517b    http://purl.org/dc/elements/1.1/li    Paris  .
+c59ac115-d38a-444e-9ccb-f8ad83be517b    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt  .
+9a9c5d9c-648e-416b-af65-5ccea229d121    http://purl.org/dc/elements/1.1/li    Capital  .
+9a9c5d9c-648e-416b-af65-5ccea229d121    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag  .
+3b8cf521-0eda-4e91-a191-f00d8db91acf    http://ns.adobe.com/pdf/1.3/_1    Tourism  .
+3b8cf521-0eda-4e91-a191-f00d8db91acf    http://ns.adobe.com/pdf/1.3/_2    City  .
+3b8cf521-0eda-4e91-a191-f00d8db91acf    http://ns.adobe.com/pdf/1.3/_3    Capital  .
+http://www.example.org/pdf/Paris#    http://purl.org/dc/elements/1.1/title    c59ac115-d38a-444e-9ccb-f8ad83be517b  .
+http://www.example.org/pdf/Paris#    http://ns.adobe.com/xap/1.0/ModifyDate    2019-05-21T13:00:26+02:00  .
+http://www.example.org/pdf/Paris#    http://purl.org/dc/elements/1.1/creator    c69d59c9-b385-442b-bacf-ce56372eb3bc  .
+http://www.example.org/pdf/Paris#    http://ns.adobe.com/pdf/1.3/Keywords    3b8cf521-0eda-4e91-a191-f00d8db91acf  .
+http://www.example.org/pdf/Paris#    http://ns.adobe.com/xap/1.0/MetadataDate    2019-05-21T13:00:26+02:00  .
+http://www.example.org/pdf/Paris#    http://ns.adobe.com/xap/1.0/CreateDate    2019-05-21T10:53:19+02:00  .
+http://www.example.org/pdf/Paris#    http://ns.adobe.com/pdf/1.3/Producer    Adobe PDF Library 15.0  .
+http://www.example.org/pdf/Paris#    http://ns.adobe.com/xap/1.0/mm/InstanceID    uuid:abd29789-7ded-4ca7-9f99-33774f0ce6cb  .
+http://www.example.org/pdf/Paris#    http://ns.adobe.com/xap/1.0/mm/DocumentID    uuid:85d003cc-242a-4483-bfcb-78f3d836aba7  .
+http://www.example.org/pdf/Paris#    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.example.org/pdf/Paris#    http://purl.org/dc/elements/1.1/subject    9a9c5d9c-648e-416b-af65-5ccea229d121  .
+http://www.example.org/pdf/Paris#    http://ns.adobe.com/xap/1.0/CreatorTool    Acrobat PDFMaker 17 for Word  .
+http://www.example.org/pdf/Paris#    http://purl.org/dc/elements/1.1/format    application/pdf  .
+c69d59c9-b385-442b-bacf-ce56372eb3bc    http://purl.org/dc/elements/1.1/li    Belal Abu Naim  .
+c69d59c9-b385-442b-bacf-ce56372eb3bc    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq  .

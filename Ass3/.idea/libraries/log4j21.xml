@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="log4j21">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/apache-jena-4.5.0/log4j2.properties" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/apache-jena-4.5.0/log4j2.properties" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/apache-jena-4.5.0/log4j2.properties" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/apache-jena-4.5.0/log4j2.properties" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/apache-jena-4.5.0/log4j2.properties" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/apache-jena-4.5.0/log4j2.properties" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/apache-jena-4.5.0/log4j2.properties" recursive="false" type="SOURCES" />
+  </library>
+</component>

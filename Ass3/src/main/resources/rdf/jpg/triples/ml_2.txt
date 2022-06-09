@@ -1,11 +1,11 @@
-c9d4520b-4bfe-4506-9c67-47a33b8e4a17    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Marine Life  .
-c9d4520b-4bfe-4506-9c67-47a33b8e4a17    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Species  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg    http://ns.adobe.com/xap/1.0/mm/DocumentID    xmp.did:F7FE311907B911E98FAF9855E8E0FA0F  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg    http://ns.adobe.com/xap/1.0/mm/InstanceID    xmp.iid:F7FE311807B911E98FAF9855E8E0FA0F  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg    http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:instanceID    xmp.iid:8F167E24FD6711E88C7B8CDA97FC16E4  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg    http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:documentID    xmp.did:8F167E25FD6711E88C7B8CDA97FC16E4  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg    http://purl.org/dc/elements/1.1/subject    Marine Life  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg    http://ns.adobe.com/xap/1.0/Label    Marine Life  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg    http://ns.adobe.com/xap/1.0/CreatorTool    Adobe Photoshop CC 2018 Macintosh  .
-http://www.w3.org/1999/02/22-rdf-syntax-ns#ml_2.jpg    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    c9d4520b-4bfe-4506-9c67-47a33b8e4a17  .
+560b9203-a3fb-4f8c-9484-8a969ebb8eff    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Marine Life  .
+560b9203-a3fb-4f8c-9484-8a969ebb8eff    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Species  .
+http://www.example.org/jpeg/ml_2#    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.example.org/jpeg/ml_2#    http://ns.adobe.com/xap/1.0/mm/DocumentID    xmp.did:F7FE311907B911E98FAF9855E8E0FA0F  .
+http://www.example.org/jpeg/ml_2#    http://ns.adobe.com/xap/1.0/mm/InstanceID    xmp.iid:F7FE311807B911E98FAF9855E8E0FA0F  .
+http://www.example.org/jpeg/ml_2#    http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:instanceID    xmp.iid:8F167E24FD6711E88C7B8CDA97FC16E4  .
+http://www.example.org/jpeg/ml_2#    http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:documentID    xmp.did:8F167E25FD6711E88C7B8CDA97FC16E4  .
+http://www.example.org/jpeg/ml_2#    http://purl.org/dc/elements/1.1/subject    Marine Life  .
+http://www.example.org/jpeg/ml_2#    http://ns.adobe.com/xap/1.0/Label    Marine Life  .
+http://www.example.org/jpeg/ml_2#    http://ns.adobe.com/xap/1.0/CreatorTool    Adobe Photoshop CC 2018 Macintosh  .
+http://www.example.org/jpeg/ml_2#    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    560b9203-a3fb-4f8c-9484-8a969ebb8eff  .
