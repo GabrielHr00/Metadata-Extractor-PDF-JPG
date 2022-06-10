@@ -9,15 +9,15 @@
     <j.2:ApertureValue>f/5.7</j.2:ApertureValue>
     <j.2:Orientation>Top, left side (Horizontal / normal)</j.2:Orientation>
     <j.1:Label>Library</j.1:Label>
-    <j.2:ExposureProgram>Aperture priority</j.2:ExposureProgram>
     <j.2:ISOSpeedRatings>1600</j.2:ISOSpeedRatings>
-    <j.2:Software>Digital Photo Professional</j.2:Software>
-    <j.2:UserComment></j.2:UserComment>
+    <j.2:ExposureProgram>Aperture priority</j.2:ExposureProgram>
     <j.0:Keywords rdf:parseType="Resource">
       <j.0:_1>University</j.0:_1>
       <j.0:_2>Education</j.0:_2>
       <j.0:_3>Library</j.0:_3>
     </j.0:Keywords>
+    <j.2:Software>Digital Photo Professional</j.2:Software>
+    <j.2:UserComment></j.2:UserComment>
     <j.2:CustomRendered>Normal process</j.2:CustomRendered>
     <j.3:Time>2015:01:02 00:05:55</j.3:Time>
     <j.2:ComponentsConfiguration>YCbCr</j.2:ComponentsConfiguration>

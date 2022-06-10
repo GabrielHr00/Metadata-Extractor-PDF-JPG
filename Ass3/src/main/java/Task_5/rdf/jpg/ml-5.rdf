@@ -31,6 +31,10 @@
     <j.2:Padding>[2060 values]</j.2:Padding>
     <j.2:SceneCaptureType>Standard</j.2:SceneCaptureType>
     <j.2:Saturation>None</j.2:Saturation>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Marine Life</j.0:_1>
+      <j.0:_2>Species</j.0:_2>
+    </j.0:Keywords>
     <dc:analyzedBy>11914741</dc:analyzedBy>
     <j.2:ExifVersion>2.21</j.2:ExifVersion>
     <j.2:F-Number>f/2.8</j.2:F-Number>
@@ -58,10 +62,6 @@
     <j.2:ExifImageWidth>4000 pixels</j.2:ExifImageWidth>
     <j.2:Software>Windows Photo Editor 10.0.10011.16384</j.2:Software>
     <j.1:CreatorTool>Windows Photo Editor 10.0.10011.16384</j.1:CreatorTool>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>Marine Life</j.0:_1>
-      <j.0:_2>Species</j.0:_2>
-    </j.0:Keywords>
     <j.2:FileSource>Digital Still Camera (DSC)</j.2:FileSource>
     <j.2:DigitalZoomRatio>1</j.2:DigitalZoomRatio>
     <j.2:ExposureBiasValue>0 EV</j.2:ExposureBiasValue>

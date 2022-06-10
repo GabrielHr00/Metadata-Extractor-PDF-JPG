@@ -23,9 +23,11 @@ import static com.adobe.internal.xmp.XMPConst.NS_IPTCCORE;
 public class JpgRdfTriples {
     private final static String root = "http://www.example.org/jpeg/";
     private String fileName;
+    private Model model;
 
     public JpgRdfTriples(String fileName) {
             this.fileName = fileName;
+            this.model = ModelFactory.createDefaultModel();
     }
 
     public void constructRDFFiles() throws ImageProcessingException, XMPException, IOException {
@@ -39,9 +41,6 @@ public class JpgRdfTriples {
 
         // fill in the metadata info in the map
         fillInMetadataIntoMapsXmp(namespaces, meta, metadata);
-
-        // create a Jena model, where to put all the values in
-        Model model = ModelFactory.createDefaultModel();
 
         // fill in Properties into the JENA model
         Resource res = model.createResource(root + this.fileName.replaceAll(" ", "_").substring(0, this.fileName.length() - 4) + "#");
@@ -98,16 +97,11 @@ public class JpgRdfTriples {
 
         // write triples into txt file
         writeRDFTriplesIntoTXT(model);
+    }
 
-        // write to the appropriate file
-        FileOutputStream fos = new FileOutputStream(new File("src/main/java/Task_4/ttl/jpg/" + this.fileName.substring(0, this.fileName.length() - 3) + "ttl"));
-        model.write(fos, "TURTLE");
-
-        FileOutputStream task5 = new FileOutputStream(new File("src/main/java/Task_5/rdf/jpg/" + this.fileName.substring(0, this.fileName.length() - 3) + "rdf"));
-        model.write(task5, "RDF/XML");
-
-        FileOutputStream rdf = new FileOutputStream(new File("src/main/resources/rdf/jpg/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "rdf"));
-        model.write(rdf, "RDF/XML");
+    public void writeRDFXMLIntoRDFFormat(String s2, String triples, String s3) throws FileNotFoundException {
+        FileOutputStream rdf = new FileOutputStream(s2 + this.fileName.substring(0, this.fileName.length() - 3) + triples);
+        this.model.write(rdf, s3);
     }
 
     private void fillInMetadataIntoMapsIptcAndExif(Map<String, String> namespaces, Map<String, String> meta, Metadata metadata) {
@@ -162,7 +156,6 @@ public class JpgRdfTriples {
         XmpDirectory xmpDirectory = metadata.getFirstDirectoryOfType(XmpDirectory.class);
         List<String> subjects = xmpDirectory.getXmpProperties().keySet().stream().collect(Collectors.toList());
         for (String key : subjects) {
-            // String result = xmpDirectory.getXmpProperties().get(key).replaceAll(" ", "_");
             meta.putIfAbsent(key, xmpDirectory.getXmpProperties().get(key));
         }
 
@@ -187,7 +180,7 @@ public class JpgRdfTriples {
             result.append(next.getPredicate() + "    ");
             result.append(next.getObject() + "  .\n");
         }
-        FileWriter jpegWriter = new FileWriter("src/main/resources/rdf/jpg/triples/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
+        FileWriter jpegWriter = new FileWriter("src/main/resources/triples/jpg/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
         jpegWriter.write(result.toString());
         jpegWriter.close();
     }

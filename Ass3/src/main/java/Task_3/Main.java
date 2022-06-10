@@ -17,7 +17,7 @@ public class Main {
                 pdfRDF.constructRDFFiles();
             }
             System.out.println("\n" + "======================================================================================");
-            System.out.println("PDF RDF Triples are successfully stored in resources/rdf/pdf/triples directory!");
+            System.out.println("PDF RDF Triples are successfully stored in resources/triples/pdf directory!");
             System.out.println("======================================================================================");
 
             for (String jpg : jpegs) {
@@ -26,7 +26,7 @@ public class Main {
             }
 
             System.out.println("\n" + "======================================================================================");
-            System.out.println("JPEG RDF Triples are successfully stored in resources/rdf/jpg/triples directory!");
+            System.out.println("JPEG RDF Triples are successfully stored in resources/triples/jpg directory!");
             System.out.println("======================================================================================");
 
         }

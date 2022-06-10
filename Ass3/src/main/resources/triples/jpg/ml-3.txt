@@ -1,0 +1,6 @@
+http://www.example.org/jpeg/ml-3#    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.example.org/jpeg/ml-3#    http://purl.org/dc/elements/1.1/subject    Marine Life  .
+http://www.example.org/jpeg/ml-3#    http://ns.adobe.com/xap/1.0/Label    Marine Life  .
+http://www.example.org/jpeg/ml-3#    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    46443619-34db-4b1a-a327-44d9c25f1968  .
+46443619-34db-4b1a-a327-44d9c25f1968    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Marine Life  .
+46443619-34db-4b1a-a327-44d9c25f1968    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Species  .

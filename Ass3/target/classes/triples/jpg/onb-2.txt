@@ -1,0 +1,8 @@
+http://www.example.org/jpeg/onb-2#    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.example.org/jpeg/onb-2#    http://purl.org/dc/elements/1.1/subject    Education  .
+http://www.example.org/jpeg/onb-2#    http://ns.adobe.com/xap/1.0/Label    Austrian National Library  .
+http://www.example.org/jpeg/onb-2#    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    edb104bb-80d3-4869-9ad2-5c41873d75a5  .
+edb104bb-80d3-4869-9ad2-5c41873d75a5    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Education  .
+edb104bb-80d3-4869-9ad2-5c41873d75a5    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Tourism  .
+edb104bb-80d3-4869-9ad2-5c41873d75a5    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3    Library  .
+edb104bb-80d3-4869-9ad2-5c41873d75a5    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4    City  .

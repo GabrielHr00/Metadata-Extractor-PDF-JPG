@@ -14,9 +14,11 @@ import static com.adobe.internal.xmp.XMPConst.NS_DC;
 public class PdfRdfTriples {
     private final static String root = "http://www.example.org/pdf/";
     private String fileName;
+    private Model model;
 
     public PdfRdfTriples(String fileName) {
         this.fileName = fileName;
+        this.model = ModelFactory.createDefaultModel();
     }
 
     public void constructRDFFiles() throws IOException {
@@ -30,9 +32,7 @@ public class PdfRdfTriples {
         // iterate over all properties and fill in 2 maps with namespaces and metadata
         fillInInformationMaps(pdf, namespaces, metadata);
 
-        // create a Jena Model, where we store the RDF Triples
-        Model model = ModelFactory.createDefaultModel();
-
+        // create a resource and fill in with properties
         Resource res = model.createResource(root + this.fileName.replaceAll(" ", "_").substring(0, this.fileName.length() - 4) + "#");
         for (var key : metadata.keySet()) {
             int index = key.indexOf(":");
@@ -80,16 +80,11 @@ public class PdfRdfTriples {
 
         // write the statement triples as txt document
         writeRDFTriplesIntoTXT(model);
+    }
 
-        // write to the appropriate file
-        FileOutputStream fos = new FileOutputStream(new File("src/main/java/Task_4/ttl/pdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "ttl"));
-        model.write(fos, "TURTLE");
-
-        FileOutputStream task5 = new FileOutputStream(new File("src/main/java/Task_5/rdf/pdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "rdf"));
-        model.write(task5, "RDF/XML");
-
-        FileOutputStream rdf = new FileOutputStream(new File("src/main/resources/rdf/pdf/rdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "rdf"));
-        model.write(rdf, "RDF/XML");
+    public void writeRDFXMLIntoRDFFormat(String s2, String rdf2, String s3) throws FileNotFoundException {
+        FileOutputStream rdf = new FileOutputStream(s2 + this.fileName.substring(0, this.fileName.length() - 3) + rdf2);
+        this.model.write(rdf, s3);
     }
 
     private void fillInInformationMaps(Document pdf, Map<String, String> namespaces, Map<String, XmpValue> metadata) {
@@ -112,7 +107,7 @@ public class PdfRdfTriples {
             result.append(next.getPredicate() + "    ");
             result.append(next.getObject() + "  .\n");
         }
-        FileWriter jpegWriter = new FileWriter("src/main/resources/rdf/pdf/triples/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
+        FileWriter jpegWriter = new FileWriter("src/main/resources/triples/pdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
         jpegWriter.write(result.toString());
         jpegWriter.close();
     }

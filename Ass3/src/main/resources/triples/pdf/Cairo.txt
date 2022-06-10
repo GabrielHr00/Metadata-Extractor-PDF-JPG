@@ -1,0 +1,23 @@
+213e5663-29d8-4ed8-9fd6-1b80a9989fe1    http://purl.org/dc/elements/1.1/li    Belal Abu Naim  .
+213e5663-29d8-4ed8-9fd6-1b80a9989fe1    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq  .
+6d01a2cc-bfe0-4f74-bd6f-b6120943ab48    http://purl.org/dc/elements/1.1/li    Cairo  .
+6d01a2cc-bfe0-4f74-bd6f-b6120943ab48    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt  .
+dcd12917-3abf-444f-a712-3aa225dbaf87    http://purl.org/dc/elements/1.1/li    Capital  .
+dcd12917-3abf-444f-a712-3aa225dbaf87    http://www.w3.org/1999/02/22-rdf-syntax-ns#type    http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag  .
+cdc63334-f67a-45f2-b469-18bde53a347c    http://ns.adobe.com/pdf/1.3/_1    City  .
+cdc63334-f67a-45f2-b469-18bde53a347c    http://ns.adobe.com/pdf/1.3/_2    Tourism  .
+cdc63334-f67a-45f2-b469-18bde53a347c    http://ns.adobe.com/pdf/1.3/_3    Capital  .
+http://www.example.org/pdf/Cairo#    http://ns.adobe.com/pdf/1.3/Keywords    cdc63334-f67a-45f2-b469-18bde53a347c  .
+http://www.example.org/pdf/Cairo#    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.example.org/pdf/Cairo#    http://ns.adobe.com/xap/1.0/mm/InstanceID    uuid:2c21cac5-b6bc-4e99-abbb-c71cf3a92a76  .
+http://www.example.org/pdf/Cairo#    http://ns.adobe.com/xap/1.0/CreateDate    2019-05-21T10:49:51+02:00  .
+http://www.example.org/pdf/Cairo#    http://ns.adobe.com/xap/1.0/CreatorTool    Acrobat PDFMaker 17 for Word  .
+http://www.example.org/pdf/Cairo#    http://purl.org/dc/elements/1.1/format    application/pdf  .
+http://www.example.org/pdf/Cairo#    http://ns.adobe.com/xap/1.0/ModifyDate    2019-05-21T12:50:54+02:00  .
+http://www.example.org/pdf/Cairo#    http://purl.org/dc/elements/1.1/title    6d01a2cc-bfe0-4f74-bd6f-b6120943ab48  .
+http://www.example.org/pdf/Cairo#    http://purl.org/dc/elements/1.1/subject    dcd12917-3abf-444f-a712-3aa225dbaf87  .
+http://www.example.org/pdf/Cairo#    http://ns.adobe.com/xap/1.0/mm/DocumentID    uuid:db2b889a-32bd-4791-9969-67b34182fa26  .
+http://www.example.org/pdf/Cairo#    http://ns.adobe.com/xap/1.0/MetadataDate    2019-05-21T12:50:54+02:00  .
+http://www.example.org/pdf/Cairo#    http://ns.adobe.com/pdf/1.3/Producer    Adobe PDF Library 15.0  .
+http://www.example.org/pdf/Cairo#    http://ns.adobe.com/xap/1.0/Label    City  .
+http://www.example.org/pdf/Cairo#    http://purl.org/dc/elements/1.1/creator    213e5663-29d8-4ed8-9fd6-1b80a9989fe1  .
