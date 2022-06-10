@@ -1,4 +1,0 @@
-m-2.jpg
-xmp:Label: Mammals
-dc:subject[1]: Animals | Mammals | Species
-iptc:Keywords: Animals;Mammals;Species

@@ -1,5 +1,0 @@
-jawa-2.jpg
-xmp:Label: Jawa
-dc:subject[1]: Holiday | Island | Landscape | Tourism | Water Fall
-iptc:Keywords: Holiday;Landscape;Tourism;Island
-exif:Orientation: Top, left side (Horizontal / normal)

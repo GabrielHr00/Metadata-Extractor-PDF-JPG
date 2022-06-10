@@ -1,0 +1,10 @@
+<http://www.example.org/jpeg/vie-2#> <http://purl.org/dc/elements/1.1/analyzedBy> "11914741" .
+<http://www.example.org/jpeg/vie-2#> <http://purl.org/dc/elements/1.1/subject> "Capital" .
+<http://www.example.org/jpeg/vie-2#> <http://ns.adobe.com/xap/1.0/Label> "Vienna" .
+<http://www.example.org/jpeg/vie-2#> <http://ns.adobe.com/exif/1.0/Orientation> "Top, left side (Horizontal / normal)" .
+<http://www.example.org/jpeg/vie-2#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:Ba77aac72X2D1599X2D4fc3X2D94b1X2D5652e2397de5 .
+_:Ba77aac72X2D1599X2D4fc3X2D94b1X2D5652e2397de5 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "Capital" .
+_:Ba77aac72X2D1599X2D4fc3X2D94b1X2D5652e2397de5 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Tourism" .
+_:Ba77aac72X2D1599X2D4fc3X2D94b1X2D5652e2397de5 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "City" .
+_:Ba77aac72X2D1599X2D4fc3X2D94b1X2D5652e2397de5 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4> "Landscape" .
+_:Ba77aac72X2D1599X2D4fc3X2D94b1X2D5652e2397de5 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5> "Holiday" .

@@ -1,9 +1,0 @@
-ml_2.jpg
-xmp:CreatorTool: Adobe Photoshop CC 2018 Macintosh
-xmp:Label: Marine Life
-dc:subject[1]: Marine Life | Species | Mammals
-xmpMM:DerivedFrom/stRef:documentID: xmp.did:8F167E25FD6711E88C7B8CDA97FC16E4
-xmpMM:DerivedFrom/stRef:instanceID: xmp.iid:8F167E24FD6711E88C7B8CDA97FC16E4
-xmpMM:InstanceID: xmp.iid:F7FE311807B911E98FAF9855E8E0FA0F
-xmpMM:DocumentID: xmp.did:F7FE311907B911E98FAF9855E8E0FA0F
-iptc:Keywords: Species;Marine Life

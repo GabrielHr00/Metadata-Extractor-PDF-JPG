@@ -1,4 +1,0 @@
-lib1-xMedUni_Wien_Josephinum_Bibliothek-meduni_wien.jpg
-xmp:Label: Library
-dc:subject[1]: Library | Education | University
-iptc:Keywords: Library;Education;University

@@ -95,8 +95,6 @@ public class JpgRdfTriples {
         // add the additional analyzedBy property
         res.addProperty(model.createProperty("http://purl.org/dc/elements/1.1/", "analyzedBy"), "11914741");
 
-        // write triples into txt file
-        writeRDFTriplesIntoTXT(model);
     }
 
     public void writeRDFXMLIntoRDFFormat(String s2, String triples, String s3) throws FileNotFoundException {
@@ -169,19 +167,5 @@ public class JpgRdfTriples {
                 namespaces.putIfAbsent(next.getPath().substring(0, index), next.getNamespace());
             }
         }
-    }
-
-    private void writeRDFTriplesIntoTXT(Model model) throws IOException {
-        StmtIterator stmtIterator = model.listStatements();
-        StringBuilder result = new StringBuilder();
-        while(stmtIterator.hasNext()) {
-            Statement next = stmtIterator.next();
-            result.append(next.getSubject() + "    ");
-            result.append(next.getPredicate() + "    ");
-            result.append(next.getObject() + "  .\n");
-        }
-        FileWriter jpegWriter = new FileWriter("src/main/resources/triples/jpg/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
-        jpegWriter.write(result.toString());
-        jpegWriter.close();
     }
 }

@@ -1,9 +1,0 @@
-a45e18fb-4e31-40f7-8ae1-7116995ed974    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Island  .
-a45e18fb-4e31-40f7-8ae1-7116995ed974    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Tourism  .
-a45e18fb-4e31-40f7-8ae1-7116995ed974    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3    Landscape  .
-a45e18fb-4e31-40f7-8ae1-7116995ed974    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4    Holiday  .
-http://www.example.org/jpeg/jawa-1#    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
-http://www.example.org/jpeg/jawa-1#    http://purl.org/dc/elements/1.1/subject    Holiday  .
-http://www.example.org/jpeg/jawa-1#    http://ns.adobe.com/xap/1.0/Label    Jawa  .
-http://www.example.org/jpeg/jawa-1#    http://ns.adobe.com/exif/1.0/Orientation    Top, left side (Horizontal / normal)  .
-http://www.example.org/jpeg/jawa-1#    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    a45e18fb-4e31-40f7-8ae1-7116995ed974  .

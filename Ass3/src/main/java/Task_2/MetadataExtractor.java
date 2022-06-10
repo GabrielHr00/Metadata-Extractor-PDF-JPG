@@ -47,7 +47,7 @@ public class MetadataExtractor {
             }
 
             System.out.println("\n" + "======================================================================================");
-            System.out.println("Metadata is successfully extracted and stored in in the resources/metadata directory!");
+            System.out.println("        Metadata is successfully extracted and stored in the metadata directory!");
             System.out.println("======================================================================================");
 
         }
@@ -68,7 +68,7 @@ public class MetadataExtractor {
             result.append(key + ": " + doc.getMetadata().get_Item(key) + "\n");
         }
 
-        FileWriter xmpWriter = new FileWriter("src/main/resources/metadata/pdf/txt/" + pdf.getFileName().substring(0, pdf.getFileName().length() - 3) + "txt");
+        FileWriter xmpWriter = new FileWriter("src/main/java/Task_2/metadata/pdf/txt/" + pdf.getFileName().substring(0, pdf.getFileName().length() - 3) + "txt");
         xmpWriter.write(result.toString());
         xmpWriter.close();
     }
@@ -77,7 +77,7 @@ public class MetadataExtractor {
         PdfReader metadataReader = new PdfReader(pdf.getPath() + pdf.getFileName());
         String result = new String(metadataReader.getMetadata());
 
-        FileWriter xmpWriter = new FileWriter("src/main/resources/metadata/pdf/xmp/" + pdf.getFileName().substring(0, pdf.getFileName().length() - 3) + "xmp");
+        FileWriter xmpWriter = new FileWriter("src/main/java/Task_2/metadata/pdf/xmp/" + pdf.getFileName().substring(0, pdf.getFileName().length() - 3) + "xmp");
         xmpWriter.write(result.trim());
         xmpWriter.close();
     }
@@ -128,7 +128,7 @@ public class MetadataExtractor {
         }
 
         // write in resource folder .txt format
-        FileWriter jpegWriter = new FileWriter("src/main/resources/metadata/jpeg/" + jpg.getFileName().substring(0, jpg.getFileName().length() - 3) + "txt");
+        FileWriter jpegWriter = new FileWriter("src/main/java/Task_2/metadata/jpg/" + jpg.getFileName().substring(0, jpg.getFileName().length() - 3) + "txt");
         jpegWriter.write(result.toString());
         jpegWriter.close();
     }
