@@ -1,0 +1,7 @@
+<http://www.example.org/jpeg/m-1#> <http://purl.org/dc/elements/1.1/analyzedBy> "11914741" .
+<http://www.example.org/jpeg/m-1#> <http://purl.org/dc/elements/1.1/subject> "Animals" .
+<http://www.example.org/jpeg/m-1#> <http://ns.adobe.com/xap/1.0/Label> "Mammals" .
+<http://www.example.org/jpeg/m-1#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:B06ef925cX2Db8aaX2D463eX2Db781X2D34fa7bc92295 .
+_:B06ef925cX2Db8aaX2D463eX2Db781X2D34fa7bc92295 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "Species" .
+_:B06ef925cX2Db8aaX2D463eX2Db781X2D34fa7bc92295 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Mammals" .
+_:B06ef925cX2Db8aaX2D463eX2Db781X2D34fa7bc92295 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "Animals" .

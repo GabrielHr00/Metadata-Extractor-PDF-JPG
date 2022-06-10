@@ -1,4 +1,0 @@
-lib-1.jpg
-xmp:Label: Library
-dc:subject[1]: Library | Education | University
-iptc:Keywords: Library;Education;University

@@ -1,0 +1,9 @@
+_:B13680739X2D11b1X2D434fX2D9a60X2D616489df0d58 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "Island" .
+_:B13680739X2D11b1X2D434fX2D9a60X2D616489df0d58 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Tourism" .
+_:B13680739X2D11b1X2D434fX2D9a60X2D616489df0d58 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "Landscape" .
+_:B13680739X2D11b1X2D434fX2D9a60X2D616489df0d58 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4> "Holiday" .
+<http://www.example.org/jpeg/jawa-2#> <http://purl.org/dc/elements/1.1/analyzedBy> "11914741" .
+<http://www.example.org/jpeg/jawa-2#> <http://purl.org/dc/elements/1.1/subject> "Holiday" .
+<http://www.example.org/jpeg/jawa-2#> <http://ns.adobe.com/xap/1.0/Label> "Jawa" .
+<http://www.example.org/jpeg/jawa-2#> <http://ns.adobe.com/exif/1.0/Orientation> "Top, left side (Horizontal / normal)" .
+<http://www.example.org/jpeg/jawa-2#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:B13680739X2D11b1X2D434fX2D9a60X2D616489df0d58 .

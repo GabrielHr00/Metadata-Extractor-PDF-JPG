@@ -1,4 +1,0 @@
-onb-2.jpg
-xmp:Label: Austrian National Library
-dc:subject[1]: Education | Library | Tourism | City | Vienna
-iptc:Keywords: City;Library;Tourism;Education

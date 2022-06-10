@@ -15,18 +15,22 @@ public class Main {
             for (String pdf : pdfs) {
                 PdfRdfTriples pdfRDF = new PdfRdfTriples(pdf);
                 pdfRDF.constructRDFFiles();
+                // write triples into ntriples
+                pdfRDF.writeRDFXMLIntoRDFFormat("src/main/java/Task_3/triples/pdf/", "nt", "N-TRIPLES");
             }
             System.out.println("\n" + "======================================================================================");
-            System.out.println("PDF RDF Triples are successfully stored in resources/triples/pdf directory!");
+            System.out.println("        PDF RDF Triples are successfully stored in the triples/pdf directory!");
             System.out.println("======================================================================================");
 
             for (String jpg : jpegs) {
                 JpgRdfTriples jpgRDF = new JpgRdfTriples(jpg);
                 jpgRDF.constructRDFFiles();
+                // write triples into ntriples
+                jpgRDF.writeRDFXMLIntoRDFFormat("src/main/java/Task_3/triples/jpg/", "nt", "N-TRIPLES");
             }
 
             System.out.println("\n" + "======================================================================================");
-            System.out.println("JPEG RDF Triples are successfully stored in resources/triples/jpg directory!");
+            System.out.println("        JPEG RDF Triples are successfully stored in the triples/jpg directory!");
             System.out.println("======================================================================================");
 
         }

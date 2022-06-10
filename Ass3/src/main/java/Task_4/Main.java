@@ -20,7 +20,7 @@ public class Main {
                 pdfRDF.writeRDFXMLIntoRDFFormat("src/main/java/Task_4/rdf/pdf/", "rdf", "RDF/XML");
             }
             System.out.println("\n" + "==========================================");
-            System.out.println("PDF RDF files are successfully stored !");
+            System.out.println("PDF RDF files are successfully stored!");
             System.out.println("==========================================");
 
             for (String jpg : jpegs) {
@@ -30,7 +30,7 @@ public class Main {
             }
 
             System.out.println("\n" + "==========================================");
-            System.out.println("JPEG RDF files are successfully stored !");
+            System.out.println("JPEG RDF files are successfully stored!");
             System.out.println("==========================================");
 
         }

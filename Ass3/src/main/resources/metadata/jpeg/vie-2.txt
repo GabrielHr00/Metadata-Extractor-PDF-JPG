@@ -1,5 +1,0 @@
-vie-2.jpg
-xmp:Label: Vienna
-dc:subject[1]: Capital | City | Holiday | Landscape | Tourism
-iptc:Keywords: Holiday;Landscape;City;Tourism;Capital
-exif:Orientation: Top, left side (Horizontal / normal)

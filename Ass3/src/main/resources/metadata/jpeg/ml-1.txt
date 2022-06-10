@@ -1,4 +1,0 @@
-ml-1.jpg
-xmp:Label: Marine Life
-dc:subject[1]: Marine Life | Species | Mammals
-iptc:Keywords: Mammals;Species;Marine Life

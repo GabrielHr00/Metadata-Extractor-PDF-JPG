@@ -77,9 +77,6 @@ public class PdfRdfTriples {
         }
 
         res.addProperty(model.createProperty(NS_DC, "analyzedBy"), "11914741");
-
-        // write the statement triples as txt document
-        writeRDFTriplesIntoTXT(model);
     }
 
     public void writeRDFXMLIntoRDFFormat(String s2, String rdf2, String s3) throws FileNotFoundException {
@@ -96,19 +93,5 @@ public class PdfRdfTriples {
             namespaces.putIfAbsent(prefix, pdf.getMetadata().getNamespaceUriByPrefix(prefix));
             metadata.putIfAbsent(next, pdf.getMetadata().get_Item(next));
         }
-    }
-
-    private void writeRDFTriplesIntoTXT(Model model) throws IOException {
-        StmtIterator stmtIterator = model.listStatements();
-        StringBuilder result = new StringBuilder();
-        while(stmtIterator.hasNext()) {
-            Statement next = stmtIterator.next();
-            result.append(next.getSubject() + "    ");
-            result.append(next.getPredicate() + "    ");
-            result.append(next.getObject() + "  .\n");
-        }
-        FileWriter jpegWriter = new FileWriter("src/main/resources/triples/pdf/" + this.fileName.substring(0, this.fileName.length() - 3) + "txt");
-        jpegWriter.write(result.toString());
-        jpegWriter.close();
     }
 }

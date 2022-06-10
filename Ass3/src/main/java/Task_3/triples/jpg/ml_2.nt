@@ -1,0 +1,11 @@
+_:Be837e9b7X2Df78eX2D44deX2Db7e3X2Df5446a22a652 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "Marine Life" .
+_:Be837e9b7X2Df78eX2D44deX2Db7e3X2Df5446a22a652 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Species" .
+<http://www.example.org/jpeg/ml_2#> <http://purl.org/dc/elements/1.1/analyzedBy> "11914741" .
+<http://www.example.org/jpeg/ml_2#> <http://ns.adobe.com/xap/1.0/mm/DocumentID> "xmp.did:F7FE311907B911E98FAF9855E8E0FA0F" .
+<http://www.example.org/jpeg/ml_2#> <http://ns.adobe.com/xap/1.0/mm/InstanceID> "xmp.iid:F7FE311807B911E98FAF9855E8E0FA0F" .
+<http://www.example.org/jpeg/ml_2#> <http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:instanceID> "xmp.iid:8F167E24FD6711E88C7B8CDA97FC16E4" .
+<http://www.example.org/jpeg/ml_2#> <http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:documentID> "xmp.did:8F167E25FD6711E88C7B8CDA97FC16E4" .
+<http://www.example.org/jpeg/ml_2#> <http://purl.org/dc/elements/1.1/subject> "Marine Life" .
+<http://www.example.org/jpeg/ml_2#> <http://ns.adobe.com/xap/1.0/Label> "Marine Life" .
+<http://www.example.org/jpeg/ml_2#> <http://ns.adobe.com/xap/1.0/CreatorTool> "Adobe Photoshop CC 2018 Macintosh" .
+<http://www.example.org/jpeg/ml_2#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:Be837e9b7X2Df78eX2D44deX2Db7e3X2Df5446a22a652 .
