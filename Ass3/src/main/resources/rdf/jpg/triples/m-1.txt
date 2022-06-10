@@ -1,7 +1,0 @@
-http://www.example.org/jpeg/m-1#    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
-http://www.example.org/jpeg/m-1#    http://purl.org/dc/elements/1.1/subject    Animals  .
-http://www.example.org/jpeg/m-1#    http://ns.adobe.com/xap/1.0/Label    Mammals  .
-http://www.example.org/jpeg/m-1#    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    202ec1c0-5539-4698-8b07-15498c7c7784  .
-202ec1c0-5539-4698-8b07-15498c7c7784    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    Species  .
-202ec1c0-5539-4698-8b07-15498c7c7784    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Mammals  .
-202ec1c0-5539-4698-8b07-15498c7c7784    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3    Animals  .

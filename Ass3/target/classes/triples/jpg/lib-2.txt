@@ -1,0 +1,41 @@
+1a62245f-a0f1-46d3-9617-4278f9026d0b    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    University  .
+1a62245f-a0f1-46d3-9617-4278f9026d0b    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Education  .
+1a62245f-a0f1-46d3-9617-4278f9026d0b    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3    Library  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ApertureValue    f/5.7  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/Orientation    Top, left side (Horizontal / normal)  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/xap/1.0/Label    Library  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ExposureProgram    Aperture priority  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ISOSpeedRatings    1600  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/Software    Digital Photo Professional  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/UserComment      .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/CustomRendered    Normal process  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/Date/Time    2015:01:02 00:05:55  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ComponentsConfiguration    YCbCr  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/Model    Canon EOS 6D  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/Make    Canon  .
+http://www.example.org/jpeg/lib-2#    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/WhiteBalanceMode    Auto white balance  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/F-Number    f/5.6  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ShutterSpeedValue    1/255 sec  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ExposureBiasValue    0 EV  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/Date/TimeDigitized    2014:09:28 10:18:40  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ExposureTime    1/250 sec  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ExifVersion    2.30  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/XResolution    350 dots per inch  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/FlashPixVersion    1.00  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ExifImageHeight    2984 pixels  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/Sub-SecTime    11  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/MeteringMode    Multi-segment  .
+http://www.example.org/jpeg/lib-2#    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    1a62245f-a0f1-46d3-9617-4278f9026d0b  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ExifImageWidth    4476 pixels  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/SceneCaptureType    Standard  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/YCbCrPositioning    Center of pixel array  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ResolutionUnit    Inch  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/FocalLength    105 mm  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/YResolution    350 dots per inch  .
+http://www.example.org/jpeg/lib-2#    http://purl.org/dc/elements/1.1/subject    Library  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/Flash    Flash did not fire  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/Sub-SecTimeOriginal    11  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ExposureMode    Auto exposure  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/ColorSpace    sRGB  .
+http://www.example.org/jpeg/lib-2#    http://ns.adobe.com/exif/1.0/Sub-SecTimeDigitized    11  .

@@ -1,0 +1,7 @@
+47f33c88-7e15-4777-8372-888e33f73fdb    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1    University  .
+47f33c88-7e15-4777-8372-888e33f73fdb    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2    Education  .
+47f33c88-7e15-4777-8372-888e33f73fdb    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3    Library  .
+http://www.example.org/jpeg/lib-1#    http://purl.org/dc/elements/1.1/analyzedBy    11914741  .
+http://www.example.org/jpeg/lib-1#    http://purl.org/dc/elements/1.1/subject    Library  .
+http://www.example.org/jpeg/lib-1#    http://ns.adobe.com/xap/1.0/Label    Library  .
+http://www.example.org/jpeg/lib-1#    http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords    47f33c88-7e15-4777-8372-888e33f73fdb  .
