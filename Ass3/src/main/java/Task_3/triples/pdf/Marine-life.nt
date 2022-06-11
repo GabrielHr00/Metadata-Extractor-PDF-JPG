@@ -1,0 +1,23 @@
+<http://www.example.org/pdf/Marine_life#> <http://ns.adobe.com/xap/1.0/mm/InstanceID> "uuid:d9f9c280-65fb-4778-9e05-fb2f9f9d3bb2" .
+<http://www.example.org/pdf/Marine_life#> <http://ns.adobe.com/pdf/1.3/Keywords> _:B536a3176X2D2598X2D4d5fX2Da3c5X2Dc13e3f02a8a4 .
+<http://www.example.org/pdf/Marine_life#> <http://ns.adobe.com/xap/1.0/CreateDate> "2019-05-21T11:03:33+02:00" .
+<http://www.example.org/pdf/Marine_life#> <http://purl.org/dc/elements/1.1/subject> _:B2924f60fX2D2d93X2D47bcX2D883fX2D326622f4fdfa .
+<http://www.example.org/pdf/Marine_life#> <http://purl.org/dc/elements/1.1/analyzedBy> "11914741" .
+<http://www.example.org/pdf/Marine_life#> <http://purl.org/dc/elements/1.1/format> "application/pdf" .
+<http://www.example.org/pdf/Marine_life#> <http://ns.adobe.com/xap/1.0/CreatorTool> "Acrobat PDFMaker 17 for Word" .
+<http://www.example.org/pdf/Marine_life#> <http://ns.adobe.com/xap/1.0/mm/DocumentID> "uuid:dc924f47-6844-473e-8841-97dd6f72a27e" .
+<http://www.example.org/pdf/Marine_life#> <http://ns.adobe.com/xap/1.0/ModifyDate> "2019-05-21T12:58:55+02:00" .
+<http://www.example.org/pdf/Marine_life#> <http://ns.adobe.com/xap/1.0/MetadataDate> "2019-05-21T12:58:55+02:00" .
+<http://www.example.org/pdf/Marine_life#> <http://ns.adobe.com/pdf/1.3/Producer> "Adobe PDF Library 15.0" .
+<http://www.example.org/pdf/Marine_life#> <http://ns.adobe.com/xap/1.0/Label> "Species" .
+<http://www.example.org/pdf/Marine_life#> <http://purl.org/dc/elements/1.1/creator> _:Ba8fedd42X2DdfdfX2D4475X2D855aX2Dfbb3216e62a0 .
+<http://www.example.org/pdf/Marine_life#> <http://purl.org/dc/elements/1.1/title> _:B2ec8d05eX2Da680X2D4e98X2Db907X2D34ceea6e50d4 .
+_:B2924f60fX2D2d93X2D47bcX2D883fX2D326622f4fdfa <http://purl.org/dc/elements/1.1/li> "Species" .
+_:B2924f60fX2D2d93X2D47bcX2D883fX2D326622f4fdfa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> .
+_:B536a3176X2D2598X2D4d5fX2Da3c5X2Dc13e3f02a8a4 <http://ns.adobe.com/pdf/1.3/_1> "Islands" .
+_:B536a3176X2D2598X2D4d5fX2Da3c5X2Dc13e3f02a8a4 <http://ns.adobe.com/pdf/1.3/_2> "Mammals" .
+_:B536a3176X2D2598X2D4d5fX2Da3c5X2Dc13e3f02a8a4 <http://ns.adobe.com/pdf/1.3/_3> "Species" .
+_:Ba8fedd42X2DdfdfX2D4475X2D855aX2Dfbb3216e62a0 <http://purl.org/dc/elements/1.1/li> "Belal Abu Naim" .
+_:Ba8fedd42X2DdfdfX2D4475X2D855aX2Dfbb3216e62a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq> .
+_:B2ec8d05eX2Da680X2D4e98X2Db907X2D34ceea6e50d4 <http://purl.org/dc/elements/1.1/li> "Marine life" .
+_:B2ec8d05eX2Da680X2D4e98X2Db907X2D34ceea6e50d4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt> .

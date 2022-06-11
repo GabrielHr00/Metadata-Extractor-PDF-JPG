@@ -1,5 +1,7 @@
+_:B9adffc05X2D2216X2D4b8aX2Da8a9X2D8d60aabe7e6a <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "University" .
+_:B9adffc05X2D2216X2D4b8aX2Da8a9X2D8d60aabe7e6a <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Education" .
+_:B9adffc05X2D2216X2D4b8aX2Da8a9X2D8d60aabe7e6a <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "Library" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ApertureValue> "f/5.7" .
-<http://www.example.org/jpeg/lib-2#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:B7b07d38fX2D3f04X2D4f6fX2Db464X2D2ebb2e3f1dc0 .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/Orientation> "Top, left side (Horizontal / normal)" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/xap/1.0/Label> "Library" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ExposureProgram> "Aperture priority" .
@@ -13,6 +15,7 @@
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/Make> "Canon" .
 <http://www.example.org/jpeg/lib-2#> <http://purl.org/dc/elements/1.1/analyzedBy> "11914741" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/WhiteBalanceMode> "Auto white balance" .
+<http://www.example.org/jpeg/lib-2#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:B9adffc05X2D2216X2D4b8aX2Da8a9X2D8d60aabe7e6a .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/F-Number> "f/5.6" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ShutterSpeedValue> "1/255 sec" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ExposureBiasValue> "0 EV" .
@@ -36,6 +39,3 @@
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ExposureMode> "Auto exposure" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ColorSpace> "sRGB" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/Sub-SecTimeDigitized> "11" .
-_:B7b07d38fX2D3f04X2D4f6fX2Db464X2D2ebb2e3f1dc0 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "University" .
-_:B7b07d38fX2D3f04X2D4f6fX2Db464X2D2ebb2e3f1dc0 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Education" .
-_:B7b07d38fX2D3f04X2D4f6fX2Db464X2D2ebb2e3f1dc0 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "Library" .
