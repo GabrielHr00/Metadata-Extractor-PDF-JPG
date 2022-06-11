@@ -12,27 +12,27 @@
     <j.2:InstanceID>uuid:abd29789-7ded-4ca7-9f99-33774f0ce6cb</j.2:InstanceID>
     <j.2:DocumentID>uuid:85d003cc-242a-4483-bfcb-78f3d836aba7</j.2:DocumentID>
     <dc:analyzedBy>11914741</dc:analyzedBy>
-    <dc:title>
-      <rdf:Alt>
-        <dc:li>Paris</dc:li>
-      </rdf:Alt>
-    </dc:title>
-    <dc:subject>
-      <rdf:Bag>
-        <dc:li>Capital</dc:li>
-      </rdf:Bag>
-    </dc:subject>
-    <j.1:CreatorTool>Acrobat PDFMaker 17 for Word</j.1:CreatorTool>
-    <dc:creator>
-      <rdf:Seq>
-        <dc:li>Belal Abu Naim</dc:li>
-      </rdf:Seq>
-    </dc:creator>
-    <dc:format>application/pdf</dc:format>
     <j.0:Keywords rdf:parseType="Resource">
       <j.0:_1>Tourism</j.0:_1>
       <j.0:_2>City</j.0:_2>
       <j.0:_3>Capital</j.0:_3>
     </j.0:Keywords>
+    <dc:title>
+      <rdf:Alt>
+        <dc:li>Paris</dc:li>
+      </rdf:Alt>
+    </dc:title>
+    <j.1:CreatorTool>Acrobat PDFMaker 17 for Word</j.1:CreatorTool>
+    <dc:format>application/pdf</dc:format>
+    <dc:creator>
+      <rdf:Seq>
+        <dc:li>Belal Abu Naim</dc:li>
+      </rdf:Seq>
+    </dc:creator>
+    <dc:subject>
+      <rdf:Bag>
+        <dc:li>Capital</dc:li>
+      </rdf:Bag>
+    </dc:subject>
   </rdf:Description>
 </rdf:RDF>

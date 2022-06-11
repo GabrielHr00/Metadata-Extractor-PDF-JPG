@@ -22,6 +22,13 @@
     <dc:subject>Capital</dc:subject>
     <j.5:ComponentsConfiguration>YCbCr</j.5:ComponentsConfiguration>
     <j.6:TimeDigitized>2017:02:15 14:19:02</j.6:TimeDigitized>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Capital</j.0:_1>
+      <j.0:_2>Tourism</j.0:_2>
+      <j.0:_3>City</j.0:_3>
+      <j.0:_4>Landscape</j.0:_4>
+      <j.0:_5>Holiday</j.0:_5>
+    </j.0:Keywords>
     <j.5:ExifImageWidth>4861 pixels</j.5:ExifImageWidth>
     <j.5:DigitalZoomRatio>1</j.5:DigitalZoomRatio>
     <j.5:Sub-SecTimeDigitized>30</j.5:Sub-SecTimeDigitized>
@@ -39,13 +46,6 @@
     <j.5:YResolution>300 dots per inch</j.5:YResolution>
     <j.1:Rating>0</j.1:Rating>
     <j.4:Label>Vienna</j.4:Label>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>Capital</j.0:_1>
-      <j.0:_2>Tourism</j.0:_2>
-      <j.0:_3>City</j.0:_3>
-      <j.0:_4>Landscape</j.0:_4>
-      <j.0:_5>Holiday</j.0:_5>
-    </j.0:Keywords>
     <j.5:Software>ViewNX 2.10 W</j.5:Software>
     <j.3:White>[0,0,0] [255,255,255]</j.3:White>
     <j.2:Urgency>5</j.2:Urgency>

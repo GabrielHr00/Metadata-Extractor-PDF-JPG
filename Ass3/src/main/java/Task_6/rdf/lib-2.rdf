@@ -17,6 +17,11 @@
     <j.3:Time>2015:01:02 00:05:55</j.3:Time>
     <j.2:ComponentsConfiguration>YCbCr</j.2:ComponentsConfiguration>
     <j.2:Model>Canon EOS 6D</j.2:Model>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>University</j.0:_1>
+      <j.0:_2>Education</j.0:_2>
+      <j.0:_3>Library</j.0:_3>
+    </j.0:Keywords>
     <j.2:Make>Canon</j.2:Make>
     <dc:analyzedBy>11914741</dc:analyzedBy>
     <j.2:WhiteBalanceMode>Auto white balance</j.2:WhiteBalanceMode>
@@ -35,11 +40,6 @@
     <j.2:SceneCaptureType>Standard</j.2:SceneCaptureType>
     <j.2:YCbCrPositioning>Center of pixel array</j.2:YCbCrPositioning>
     <j.2:ResolutionUnit>Inch</j.2:ResolutionUnit>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>University</j.0:_1>
-      <j.0:_2>Education</j.0:_2>
-      <j.0:_3>Library</j.0:_3>
-    </j.0:Keywords>
     <j.2:FocalLength>105 mm</j.2:FocalLength>
     <j.2:YResolution>350 dots per inch</j.2:YResolution>
     <dc:subject>Library</dc:subject>

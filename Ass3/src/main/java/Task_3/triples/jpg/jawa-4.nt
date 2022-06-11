@@ -127,6 +127,7 @@
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/photoshop/1.0/DateCreated> "2011-05-07" .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/xap/1.0/mm/History> "saved to new location" .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentAqua> "0" .
+<http://www.example.org/jpeg/jawa-4#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/camera-raw-settings/1.0/HueAdjustmentMagenta> "0" .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/xap/1.0/mm/History> "saved" .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/exif/1.0/ISOSpeedRatings> "200" .
@@ -135,7 +136,6 @@
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/camera-raw-settings/1.0/Contrast2012> "0" .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/camera-raw-settings/1.0/SaturationAdjustmentRed> "0" .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:instanceID> "xmp.iid:46e93c98-76bb-42a2-b23a-830bd5f7c263" .
-<http://www.example.org/jpeg/jawa-4#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/camera-raw-settings/1.0/DefringeGreenAmount> "0" .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/camera-raw-settings/1.0/CameraProfileDigest> "B852F51E5D7D40FF5B83A689497D3451" .
 <http://www.example.org/jpeg/jawa-4#> <http://purl.org/dc/elements/1.1/description> "x-default" .
@@ -185,59 +185,59 @@
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/exif/1.0/WhiteBalanceMode> "Auto white balance" .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/xap/1.0/mm/DerivedFrom/stRef:documentID> "977212B02F6F436BC597032017DA02AB" .
 <http://www.example.org/jpeg/jawa-4#> <http://ns.adobe.com/exif/1.0/ExposureProgram> "Aperture priority" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_12> "temple" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_25> "nobody" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_48> "dawn" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_6> "world heritage site" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_31> "landmark" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_16> "south east asia" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_15> "Southeast Asia" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_44> "forest" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_39> "hilly" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_43> "green" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4> "Holiday" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_9> "UNESCO" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_37> "horizontal" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_34> "Indonesia" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_53> "Asia" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_47> "dramatic" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_22> "photography" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_50> "buddhist" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_52> "Borobudur" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_19> "silhouette" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_38> "historic" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_55> "ancient" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_42> "HDR" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_29> "landscape photography" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_40> "hills" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_13> "stupas" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_14> "stock photo travel" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_54> "architecture" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_30> "landscape" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_21> "rights managed" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_28> "mist" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_45> "famous" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_41> "high dynamic range" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Tourism" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_36> "iconic" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_23> "photo" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_46> "early" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_18> "silhouetted" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_17> "sky" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_8> "Unesco world heritage site" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_49> "building" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_33> "Java" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_51> "Borobudur Temple" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_27> "misty" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_56> "above" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "Landscape" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5> "Yogyakarta" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_20> "rm" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "Island" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_26> "morning" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_11> "travel photography" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_35> "image" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_7> "wellistravelphotography" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_32> "jungle" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_24> "palm tree" .
-_:B7bd51f4dX2Ddfb7X2D46d7X2Dae9dX2D46ddb9fb6fb2 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_10> "trees" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_19> "silhouette" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_37> "horizontal" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_38> "historic" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_25> "nobody" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_51> "Borobudur Temple" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_47> "dramatic" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_53> "Asia" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_20> "rm" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_54> "architecture" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_36> "iconic" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_16> "south east asia" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_26> "morning" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_56> "above" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_43> "green" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_52> "Borobudur" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_32> "jungle" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_22> "photography" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_17> "sky" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_29> "landscape photography" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_14> "stock photo travel" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_23> "photo" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_46> "early" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_39> "hilly" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_41> "high dynamic range" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_34> "Indonesia" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_8> "Unesco world heritage site" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "Island" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_35> "image" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_49> "building" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_30> "landscape" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_28> "mist" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_10> "trees" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4> "Holiday" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_11> "travel photography" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_55> "ancient" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_42> "HDR" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Tourism" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_48> "dawn" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_40> "hills" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_13> "stupas" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_24> "palm tree" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_7> "wellistravelphotography" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_44> "forest" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_50> "buddhist" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_31> "landmark" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_27> "misty" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_45> "famous" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_9> "UNESCO" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_18> "silhouetted" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_12> "temple" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5> "Yogyakarta" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_33> "Java" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "Landscape" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_21> "rights managed" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_15> "Southeast Asia" .
+_:B064420a3X2Dc655X2D4afdX2Dbc33X2D86248af0cf3e <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_6> "world heritage site" .

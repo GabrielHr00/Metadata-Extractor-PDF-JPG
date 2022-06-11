@@ -43,6 +43,11 @@
     <j.2:ModifyDate>2014-12-09T16:54:12+01:00</j.2:ModifyDate>
     <j.5:History>/</j.5:History>
     <dc:subject>Education</dc:subject>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Education</j.0:_1>
+      <j.0:_2>Tourism</j.0:_2>
+      <j.0:_3>Library</j.0:_3>
+    </j.0:Keywords>
     <j.5:History>2014-12-09T16:54:03+01:00</j.5:History>
     <j.2:CreateDate>2014-09-03T15:23:39</j.2:CreateDate>
     <j.3:ResolutionUnit>Inch</j.3:ResolutionUnit>
@@ -57,11 +62,6 @@
     <j.3:BitsPerSample>8 8 8 bits/component/pixel</j.3:BitsPerSample>
     <j.5:History>2014-12-09T16:54:12+01:00</j.5:History>
     <j.5:History>xmp.iid:00b56a12-d51e-b447-85f7-8b4306e0beac</j.5:History>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>Education</j.0:_1>
-      <j.0:_2>Tourism</j.0:_2>
-      <j.0:_3>Library</j.0:_3>
-    </j.0:Keywords>
     <dc:rights>x-default</dc:rights>
     <j.3:ExifVersion>2.30</j.3:ExifVersion>
     <j.3:ExifImageHeight>1183 pixels</j.3:ExifImageHeight>
