@@ -15,13 +15,6 @@
     <j.5:SceneType>Directly photographed image</j.5:SceneType>
     <j.5:Make>NIKON CORPORATION</j.5:Make>
     <j.5:Orientation>Top, left side (Horizontal / normal)</j.5:Orientation>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>Capital</j.0:_1>
-      <j.0:_2>Tourism</j.0:_2>
-      <j.0:_3>City</j.0:_3>
-      <j.0:_4>Landscape</j.0:_4>
-      <j.0:_5>Holiday</j.0:_5>
-    </j.0:Keywords>
     <j.5:F-Number>f/16.0</j.5:F-Number>
     <j.5:ExifImageHeight>2470 pixels</j.5:ExifImageHeight>
     <j.5:ExposureProgram>Shutter priority</j.5:ExposureProgram>
@@ -37,6 +30,13 @@
     <j.5:MeteringMode>Multi-segment</j.5:MeteringMode>
     <j.5:ISOSpeedRatings>200</j.5:ISOSpeedRatings>
     <j.5:Flash>Flash did not fire</j.5:Flash>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Capital</j.0:_1>
+      <j.0:_2>Tourism</j.0:_2>
+      <j.0:_3>City</j.0:_3>
+      <j.0:_4>Landscape</j.0:_4>
+      <j.0:_5>Holiday</j.0:_5>
+    </j.0:Keywords>
     <j.5:WhiteBalance>Unknown</j.5:WhiteBalance>
     <j.5:FocalLength35>39 mm</j.5:FocalLength35>
     <j.5:Sub-SecTimeOriginal>30</j.5:Sub-SecTimeOriginal>

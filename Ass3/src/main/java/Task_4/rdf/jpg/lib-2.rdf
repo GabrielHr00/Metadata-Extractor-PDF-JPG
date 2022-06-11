@@ -23,6 +23,11 @@
     <j.2:F-Number>f/5.6</j.2:F-Number>
     <j.2:ShutterSpeedValue>1/255 sec</j.2:ShutterSpeedValue>
     <j.2:ExposureBiasValue>0 EV</j.2:ExposureBiasValue>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>University</j.0:_1>
+      <j.0:_2>Education</j.0:_2>
+      <j.0:_3>Library</j.0:_3>
+    </j.0:Keywords>
     <j.3:TimeDigitized>2014:09:28 10:18:40</j.3:TimeDigitized>
     <j.2:ExposureTime>1/250 sec</j.2:ExposureTime>
     <j.2:ExifVersion>2.30</j.2:ExifVersion>
@@ -35,16 +40,11 @@
     <j.2:SceneCaptureType>Standard</j.2:SceneCaptureType>
     <j.2:YCbCrPositioning>Center of pixel array</j.2:YCbCrPositioning>
     <j.2:ResolutionUnit>Inch</j.2:ResolutionUnit>
-    <dc:subject>Library</dc:subject>
     <j.2:FocalLength>105 mm</j.2:FocalLength>
     <j.2:YResolution>350 dots per inch</j.2:YResolution>
-    <j.2:Sub-SecTimeOriginal>11</j.2:Sub-SecTimeOriginal>
+    <dc:subject>Library</dc:subject>
     <j.2:Flash>Flash did not fire</j.2:Flash>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>University</j.0:_1>
-      <j.0:_2>Education</j.0:_2>
-      <j.0:_3>Library</j.0:_3>
-    </j.0:Keywords>
+    <j.2:Sub-SecTimeOriginal>11</j.2:Sub-SecTimeOriginal>
     <j.2:ExposureMode>Auto exposure</j.2:ExposureMode>
     <j.2:ColorSpace>sRGB</j.2:ColorSpace>
     <j.2:Sub-SecTimeDigitized>11</j.2:Sub-SecTimeDigitized>

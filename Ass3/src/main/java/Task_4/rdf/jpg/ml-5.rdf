@@ -15,6 +15,10 @@
     <j.2:SensingMethod>One-chip color area sensor</j.2:SensingMethod>
     <j.2:DeviceSettingDescription>0 0 0 0</j.2:DeviceSettingDescription>
     <j.2:ApertureValue>f/2.8</j.2:ApertureValue>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Marine Life</j.0:_1>
+      <j.0:_2>Species</j.0:_2>
+    </j.0:Keywords>
     <j.3:Time>2018:10:26 01:12:44</j.3:Time>
     <j.2:MeteringMode>Center weighted average</j.2:MeteringMode>
     <j.2:Makernote>[10512 values]</j.2:Makernote>
@@ -55,10 +59,6 @@
     <j.2:Make>GoPro</j.2:Make>
     <j.2:ResolutionUnit>Inch</j.2:ResolutionUnit>
     <j.2:CompressedBitsPerPixel>1431655432/99 bits/pixel</j.2:CompressedBitsPerPixel>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>Marine Life</j.0:_1>
-      <j.0:_2>Species</j.0:_2>
-    </j.0:Keywords>
     <j.2:ExifImageWidth>4000 pixels</j.2:ExifImageWidth>
     <j.2:Software>Windows Photo Editor 10.0.10011.16384</j.2:Software>
     <j.1:CreatorTool>Windows Photo Editor 10.0.10011.16384</j.1:CreatorTool>

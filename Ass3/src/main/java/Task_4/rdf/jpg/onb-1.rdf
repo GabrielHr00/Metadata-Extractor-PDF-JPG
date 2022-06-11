@@ -13,6 +13,11 @@
     <dc:format>image/jpeg</dc:format>
     <dc:rights>KLAUS.PICHLER</dc:rights>
     <j.3:Software>Adobe Photoshop CC (Windows)</j.3:Software>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Education</j.0:_1>
+      <j.0:_2>Tourism</j.0:_2>
+      <j.0:_3>Library</j.0:_3>
+    </j.0:Keywords>
     <j.6:documentID>xmp.did:61ac44d8-42ab-5b4b-8937-98ec61c88697</j.6:documentID>
     <j.5:History>Adobe Photoshop CC (Windows)</j.5:History>
     <j.1:LegacyIPTCDigest>BF9220863099C04E6AB05B29F4BD8329</j.1:LegacyIPTCDigest>
@@ -42,11 +47,6 @@
     <j.3:ImageHeight>5315 pixels</j.3:ImageHeight>
     <j.2:ModifyDate>2014-12-09T16:54:12+01:00</j.2:ModifyDate>
     <j.5:History>/</j.5:History>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>Education</j.0:_1>
-      <j.0:_2>Tourism</j.0:_2>
-      <j.0:_3>Library</j.0:_3>
-    </j.0:Keywords>
     <dc:subject>Education</dc:subject>
     <j.5:History>2014-12-09T16:54:03+01:00</j.5:History>
     <j.2:CreateDate>2014-09-03T15:23:39</j.2:CreateDate>
