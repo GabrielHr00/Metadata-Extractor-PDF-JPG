@@ -98,7 +98,7 @@ public class JpgRdfTriples {
     }
 
     public void writeRDFXMLIntoRDFFormat(String s2, String triples, String s3) throws FileNotFoundException {
-        FileOutputStream rdf = new FileOutputStream(s2 + this.fileName.substring(0, this.fileName.length() - 3) + triples);
+        FileOutputStream rdf = new FileOutputStream(s2 + this.fileName.substring(0, this.fileName.length() - 3).replaceAll("\\s+", "-") + triples);
         this.model.write(rdf, s3);
     }
 

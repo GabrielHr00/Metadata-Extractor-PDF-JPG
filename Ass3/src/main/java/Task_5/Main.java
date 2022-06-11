@@ -18,6 +18,7 @@ public class Main {
                 PdfRdfTriples pdfRDF = new PdfRdfTriples(pdf);
                 pdfRDF.constructRDFFiles();
                 pdfRDF.writeRDFXMLIntoRDFFormat("src/main/java/Task_5/rdf/pdf/", "rdf", "RDF/XML");
+                pdfRDF.writeRDFXMLIntoRDFFormat("src/main/java/Task_6/rdf/", "rdf", "RDF/XML");
             }
             System.out.println("\n" + "================================================================");
             System.out.println("PDF RDF files with original namespaces are successfully added!");
@@ -27,6 +28,7 @@ public class Main {
                 JpgRdfTriples jpgRDF = new JpgRdfTriples(jpg);
                 jpgRDF.constructRDFFiles();
                 jpgRDF.writeRDFXMLIntoRDFFormat("src/main/java/Task_5/rdf/jpg/", "rdf", "RDF/XML");
+                jpgRDF.writeRDFXMLIntoRDFFormat("src/main/java/Task_6/rdf/", "rdf", "RDF/XML");
             }
 
             System.out.println("\n" + "================================================================");

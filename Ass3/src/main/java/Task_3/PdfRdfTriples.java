@@ -80,7 +80,7 @@ public class PdfRdfTriples {
     }
 
     public void writeRDFXMLIntoRDFFormat(String s2, String rdf2, String s3) throws FileNotFoundException {
-        FileOutputStream rdf = new FileOutputStream(s2 + this.fileName.substring(0, this.fileName.length() - 3) + rdf2);
+        FileOutputStream rdf = new FileOutputStream(s2 + this.fileName.substring(0, this.fileName.length() - 3).replaceAll("\\s+", "-") + rdf2);
         this.model.write(rdf, s3);
     }
 

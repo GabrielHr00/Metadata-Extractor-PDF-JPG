@@ -15,6 +15,13 @@
     <j.5:SceneType>Directly photographed image</j.5:SceneType>
     <j.5:Make>NIKON CORPORATION</j.5:Make>
     <j.5:Orientation>Top, left side (Horizontal / normal)</j.5:Orientation>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Capital</j.0:_1>
+      <j.0:_2>Tourism</j.0:_2>
+      <j.0:_3>City</j.0:_3>
+      <j.0:_4>Landscape</j.0:_4>
+      <j.0:_5>Holiday</j.0:_5>
+    </j.0:Keywords>
     <j.5:F-Number>f/16.0</j.5:F-Number>
     <j.5:ExifImageHeight>2470 pixels</j.5:ExifImageHeight>
     <j.5:ExposureProgram>Shutter priority</j.5:ExposureProgram>
@@ -36,13 +43,6 @@
     <j.5:GainControl>None</j.5:GainControl>
     <j.5:ExifVersion>2.30</j.5:ExifVersion>
     <j.5:SubjectDistanceRange>Unknown</j.5:SubjectDistanceRange>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>Capital</j.0:_1>
-      <j.0:_2>Tourism</j.0:_2>
-      <j.0:_3>City</j.0:_3>
-      <j.0:_4>Landscape</j.0:_4>
-      <j.0:_5>Holiday</j.0:_5>
-    </j.0:Keywords>
     <j.5:YResolution>300 dots per inch</j.5:YResolution>
     <j.1:Rating>0</j.1:Rating>
     <j.4:Label>Vienna</j.4:Label>

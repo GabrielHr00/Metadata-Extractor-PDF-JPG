@@ -6,25 +6,6 @@
     xmlns:j.2="http://ns.adobe.com/xap/1.0/mm/">
   <rdf:Description rdf:about="http://www.example.org/pdf/Marine_life#">
     <j.2:InstanceID>uuid:d9f9c280-65fb-4778-9e05-fb2f9f9d3bb2</j.2:InstanceID>
-    <j.1:CreateDate>2019-05-21T11:03:33+02:00</j.1:CreateDate>
-    <dc:analyzedBy>11914741</dc:analyzedBy>
-    <dc:format>application/pdf</dc:format>
-    <j.1:CreatorTool>Acrobat PDFMaker 17 for Word</j.1:CreatorTool>
-    <j.2:DocumentID>uuid:dc924f47-6844-473e-8841-97dd6f72a27e</j.2:DocumentID>
-    <j.1:ModifyDate>2019-05-21T12:58:55+02:00</j.1:ModifyDate>
-    <j.1:MetadataDate>2019-05-21T12:58:55+02:00</j.1:MetadataDate>
-    <j.0:Producer>Adobe PDF Library 15.0</j.0:Producer>
-    <dc:creator>
-      <rdf:Seq>
-        <dc:li>Belal Abu Naim</dc:li>
-      </rdf:Seq>
-    </dc:creator>
-    <dc:title>
-      <rdf:Alt>
-        <dc:li>Marine life</dc:li>
-      </rdf:Alt>
-    </dc:title>
-    <j.1:Label>Species</j.1:Label>
     <dc:subject>
       <rdf:Bag>
         <dc:li>Species</dc:li>
@@ -35,5 +16,24 @@
       <j.0:_2>Mammals</j.0:_2>
       <j.0:_3>Species</j.0:_3>
     </j.0:Keywords>
+    <j.1:CreateDate>2019-05-21T11:03:33+02:00</j.1:CreateDate>
+    <dc:analyzedBy>11914741</dc:analyzedBy>
+    <dc:creator>
+      <rdf:Seq>
+        <dc:li>Belal Abu Naim</dc:li>
+      </rdf:Seq>
+    </dc:creator>
+    <dc:format>application/pdf</dc:format>
+    <j.1:CreatorTool>Acrobat PDFMaker 17 for Word</j.1:CreatorTool>
+    <j.2:DocumentID>uuid:dc924f47-6844-473e-8841-97dd6f72a27e</j.2:DocumentID>
+    <j.1:ModifyDate>2019-05-21T12:58:55+02:00</j.1:ModifyDate>
+    <j.1:MetadataDate>2019-05-21T12:58:55+02:00</j.1:MetadataDate>
+    <j.0:Producer>Adobe PDF Library 15.0</j.0:Producer>
+    <j.1:Label>Species</j.1:Label>
+    <dc:title>
+      <rdf:Alt>
+        <dc:li>Marine life</dc:li>
+      </rdf:Alt>
+    </dc:title>
   </rdf:Description>
 </rdf:RDF>
