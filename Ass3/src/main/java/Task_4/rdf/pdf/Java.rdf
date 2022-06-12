@@ -5,11 +5,16 @@
     xmlns:j.1="http://ns.adobe.com/xap/1.0/"
     xmlns:j.2="http://ns.adobe.com/xap/1.0/mm/">
   <rdf:Description rdf:about="http://www.example.org/pdf/Java#">
-    <dc:title>
-      <rdf:Alt>
-        <dc:li>Java</dc:li>
-      </rdf:Alt>
-    </dc:title>
+    <dc:subject>
+      <rdf:Bag>
+        <dc:li>Programming</dc:li>
+      </rdf:Bag>
+    </dc:subject>
+    <dc:creator>
+      <rdf:Seq>
+        <dc:li>Belal Abu Naim</dc:li>
+      </rdf:Seq>
+    </dc:creator>
     <j.1:Label>Programming</j.1:Label>
     <j.1:CreateDate>2019-05-21T12:24:57+02:00</j.1:CreateDate>
     <j.0:Producer>Adobe PDF Library 15.0</j.0:Producer>
@@ -21,19 +26,14 @@
       <j.0:_2>OOP</j.0:_2>
       <j.0:_3>Programming</j.0:_3>
     </j.0:Keywords>
-    <dc:creator>
-      <rdf:Seq>
-        <dc:li>Belal Abu Naim</dc:li>
-      </rdf:Seq>
-    </dc:creator>
+    <dc:title>
+      <rdf:Alt>
+        <dc:li>Java</dc:li>
+      </rdf:Alt>
+    </dc:title>
     <j.2:DocumentID>uuid:722e6067-dd92-43a0-b6ea-bc1d2089095b</j.2:DocumentID>
     <j.1:CreatorTool>Acrobat PDFMaker 17 for Word</j.1:CreatorTool>
     <dc:format>application/pdf</dc:format>
-    <dc:subject>
-      <rdf:Bag>
-        <dc:li>Programming</dc:li>
-      </rdf:Bag>
-    </dc:subject>
     <dc:analyzedBy>11914741</dc:analyzedBy>
   </rdf:Description>
 </rdf:RDF>

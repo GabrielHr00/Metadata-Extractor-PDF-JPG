@@ -1,3 +1,6 @@
+_:Bd526b292X2D8742X2D4b2eX2D9b1dX2Df8d84acd5b7a <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "University" .
+_:Bd526b292X2D8742X2D4b2eX2D9b1dX2Df8d84acd5b7a <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Education" .
+_:Bd526b292X2D8742X2D4b2eX2D9b1dX2Df8d84acd5b7a <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "Library" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ApertureValue> "f/5.7" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/Orientation> "Top, left side (Horizontal / normal)" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/xap/1.0/Label> "Library" .
@@ -6,9 +9,8 @@
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/Software> "Digital Photo Professional" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/UserComment> "" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/CustomRendered> "Normal process" .
-<http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ComponentsConfiguration> "YCbCr" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/Date/Time> "2015:01:02 00:05:55" .
-<http://www.example.org/jpeg/lib-2#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:Bd74a8407X2D3cb0X2D4fb9X2Db6c7X2Db46e02b2526b .
+<http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ComponentsConfiguration> "YCbCr" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/Model> "Canon EOS 6D" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/Make> "Canon" .
 <http://www.example.org/jpeg/lib-2#> <http://purl.org/dc/elements/1.1/analyzedBy> "11914741" .
@@ -25,6 +27,7 @@
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/Sub-SecTime> "11" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/MeteringMode> "Multi-segment" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ExifImageWidth> "4476 pixels" .
+<http://www.example.org/jpeg/lib-2#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:Bd526b292X2D8742X2D4b2eX2D9b1dX2Df8d84acd5b7a .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/SceneCaptureType> "Standard" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/YCbCrPositioning> "Center of pixel array" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ResolutionUnit> "Inch" .
@@ -36,6 +39,3 @@
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ExposureMode> "Auto exposure" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/ColorSpace> "sRGB" .
 <http://www.example.org/jpeg/lib-2#> <http://ns.adobe.com/exif/1.0/Sub-SecTimeDigitized> "11" .
-_:Bd74a8407X2D3cb0X2D4fb9X2Db6c7X2Db46e02b2526b <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "University" .
-_:Bd74a8407X2D3cb0X2D4fb9X2Db6c7X2Db46e02b2526b <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Education" .
-_:Bd74a8407X2D3cb0X2D4fb9X2Db6c7X2Db46e02b2526b <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "Library" .

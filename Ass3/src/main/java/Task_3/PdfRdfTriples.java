@@ -21,7 +21,7 @@ public class PdfRdfTriples {
         this.model = ModelFactory.createDefaultModel();
     }
 
-    public void constructRDFFiles() throws IOException {
+    public void constructRDFFiles(){
         // load an pdf file and get the metadata afterwards
         Document pdf = new Document("src/main/java/Assignment3Files/pdf/" + this.fileName);
 

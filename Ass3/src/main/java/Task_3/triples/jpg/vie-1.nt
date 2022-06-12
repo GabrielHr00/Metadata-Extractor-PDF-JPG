@@ -1,15 +1,14 @@
-_:B1099dbfaX2Db9a1X2D4c35X2Dabf7X2Da360d99ac030 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "Capital" .
-_:B1099dbfaX2Db9a1X2D4c35X2Dabf7X2Da360d99ac030 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Tourism" .
-_:B1099dbfaX2Db9a1X2D4c35X2Dabf7X2Da360d99ac030 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "City" .
-_:B1099dbfaX2Db9a1X2D4c35X2Dabf7X2Da360d99ac030 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4> "Landscape" .
-_:B1099dbfaX2Db9a1X2D4c35X2Dabf7X2Da360d99ac030 <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5> "Holiday" .
+_:B02625f8fX2Da5ccX2D43fdX2D8ff9X2Db4ff1feaf45c <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_1> "Capital" .
+_:B02625f8fX2Da5ccX2D43fdX2D8ff9X2Db4ff1feaf45c <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_2> "Tourism" .
+_:B02625f8fX2Da5ccX2D43fdX2D8ff9X2Db4ff1feaf45c <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_3> "City" .
+_:B02625f8fX2Da5ccX2D43fdX2D8ff9X2Db4ff1feaf45c <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_4> "Landscape" .
+_:B02625f8fX2Da5ccX2D43fdX2D8ff9X2Db4ff1feaf45c <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/_5> "Holiday" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/CustomRendered> "Normal process" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/ExposureMode> "Auto exposure" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/Saturation> "None" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/SceneType> "Directly photographed image" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/Make> "NIKON CORPORATION" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/Orientation> "Top, left side (Horizontal / normal)" .
-<http://www.example.org/jpeg/vie-1#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:B1099dbfaX2Db9a1X2D4c35X2Dabf7X2Da360d99ac030 .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/F-Number> "f/16.0" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/ExifImageHeight> "2470 pixels" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/ExposureProgram> "Shutter priority" .
@@ -27,6 +26,7 @@ _:B1099dbfaX2Db9a1X2D4c35X2Dabf7X2Da360d99ac030 <http://iptc.org/std/Iptc4xmpCor
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/Flash> "Flash did not fire" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/WhiteBalance> "Unknown" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/FocalLength35> "39 mm" .
+<http://www.example.org/jpeg/vie-1#> <http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/Keywords> _:B02625f8fX2Da5ccX2D43fdX2D8ff9X2Db4ff1feaf45c .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/Sub-SecTimeOriginal> "30" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/GainControl> "None" .
 <http://www.example.org/jpeg/vie-1#> <http://ns.adobe.com/exif/1.0/ExifVersion> "2.30" .

@@ -15,10 +15,6 @@
     <j.2:SensingMethod>One-chip color area sensor</j.2:SensingMethod>
     <j.2:DeviceSettingDescription>0 0 0 0</j.2:DeviceSettingDescription>
     <j.2:ApertureValue>f/2.8</j.2:ApertureValue>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>Marine Life</j.0:_1>
-      <j.0:_2>Species</j.0:_2>
-    </j.0:Keywords>
     <j.3:Time>2018:10:26 01:12:44</j.3:Time>
     <j.2:MeteringMode>Center weighted average</j.2:MeteringMode>
     <j.2:Makernote>[10512 values]</j.2:Makernote>
@@ -44,6 +40,10 @@
     <j.2:ExposureMode>Auto exposure</j.2:ExposureMode>
     <j.2:WhiteBalance>Unknown</j.2:WhiteBalance>
     <j.2:SceneType>Directly photographed image</j.2:SceneType>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Marine Life</j.0:_1>
+      <j.0:_2>Species</j.0:_2>
+    </j.0:Keywords>
     <j.2:Sharpness>Hard</j.2:Sharpness>
     <j.2:GainControl>None</j.2:GainControl>
     <j.2:ComponentsConfiguration>YCbCr</j.2:ComponentsConfiguration>

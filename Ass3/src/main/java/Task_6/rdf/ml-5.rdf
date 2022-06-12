@@ -36,6 +36,10 @@
     <j.2:F-Number>f/2.8</j.2:F-Number>
     <j.2:CustomRendered>Normal process</j.2:CustomRendered>
     <j.2:ImageDescription>DCIM\100GOPRO\GOPR1293.</j.2:ImageDescription>
+    <j.0:Keywords rdf:parseType="Resource">
+      <j.0:_1>Marine Life</j.0:_1>
+      <j.0:_2>Species</j.0:_2>
+    </j.0:Keywords>
     <j.2:WhiteBalanceMode>Auto white balance</j.2:WhiteBalanceMode>
     <j.2:ExposureMode>Auto exposure</j.2:ExposureMode>
     <j.2:WhiteBalance>Unknown</j.2:WhiteBalance>
@@ -46,10 +50,6 @@
     <j.1:Label>Marine Life</j.1:Label>
     <j.2:ExposureTime>8333/500000 sec</j.2:ExposureTime>
     <j.2:FocalLength35>15 mm</j.2:FocalLength35>
-    <j.0:Keywords rdf:parseType="Resource">
-      <j.0:_1>Marine Life</j.0:_1>
-      <j.0:_2>Species</j.0:_2>
-    </j.0:Keywords>
     <j.2:MaxApertureValue>f/2.8</j.2:MaxApertureValue>
     <j.2:ColorSpace>sRGB</j.2:ColorSpace>
     <j.2:ExposureIndex>0</j.2:ExposureIndex>
